@@ -1,3 +1,3 @@
 # leetcode
-Leet's code eveyday
-20190303 
+Let's code everyday
+20190303 No
