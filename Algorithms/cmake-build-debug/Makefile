@@ -123,6 +123,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
 
+141-LinkedListCycle/linkedListCycle.o: 141-LinkedListCycle/linkedListCycle.c.o
+
+.PHONY : 141-LinkedListCycle/linkedListCycle.o
+
+# target to build an object file
+141-LinkedListCycle/linkedListCycle.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o
+.PHONY : 141-LinkedListCycle/linkedListCycle.c.o
+
+141-LinkedListCycle/linkedListCycle.i: 141-LinkedListCycle/linkedListCycle.c.i
+
+.PHONY : 141-LinkedListCycle/linkedListCycle.i
+
+# target to preprocess a source file
+141-LinkedListCycle/linkedListCycle.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.i
+.PHONY : 141-LinkedListCycle/linkedListCycle.c.i
+
+141-LinkedListCycle/linkedListCycle.s: 141-LinkedListCycle/linkedListCycle.c.s
+
+.PHONY : 141-LinkedListCycle/linkedListCycle.s
+
+# target to generate assembly for a file
+141-LinkedListCycle/linkedListCycle.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s
+.PHONY : 141-LinkedListCycle/linkedListCycle.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithms"
 	@echo "... edit_cache"
+	@echo "... 141-LinkedListCycle/linkedListCycle.o"
+	@echo "... 141-LinkedListCycle/linkedListCycle.i"
+	@echo "... 141-LinkedListCycle/linkedListCycle.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

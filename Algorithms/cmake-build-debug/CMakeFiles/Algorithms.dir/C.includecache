@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/zyc/Documents/Project/leetcode/Algorithms/main.c
-stdio.h
+/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c
+stdbool.h
 -
+zconf.h
+-
+malloc.h
+-
+stdlib.h
+-
+linkedListCycle.h
+/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.h
+
+/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.h
 

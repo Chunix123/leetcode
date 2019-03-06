@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/main.c">
 			<Option target="Algorithms"/>
 		</Unit>
