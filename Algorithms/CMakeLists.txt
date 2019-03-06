@@ -3,4 +3,4 @@ project(Project C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Algorithms main.c 141-LinkedListCycle/linkedListCycle.c 141-LinkedListCycle/linkedListCycle.h 137-SingleNumber2/singleNumber2.c 137-SingleNumber2/singleNumber2.h)
+add_executable(Algorithms main.c 141-LinkedListCycle/linkedListCycle.c 141-LinkedListCycle/linkedListCycle.h 137-SingleNumber2/singleNumber2.c 137-SingleNumber2/singleNumber2.h 136-SingleNumber/singleNumber.c 136-SingleNumber/singleNumber.h 125-ValidPalindrome/validPalindrome.c 125-ValidPalindrome/validPalindrome.h)

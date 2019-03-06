@@ -16,25 +16,26 @@
 #include "singleNumber2.h"
 
 
-int singleNumber(int *nums, int numSize)
+int singleNumber2(int *nums, int numsSize)
 {
-    int num = 0, i;
+    int i, low = 0, high = 0;
 
-    for(i = 0; i < numSize; i++)
+    for(i = 0; i < numsSize; i++)
     {
-        num = num ^ nums[i];
+        low = (low ^ nums[i]) & ~high;
+        high = (high ^ nums[i]) & ~low;
     }
 
-    return num;
+    return low;
 }
 
 
 int singleNumber2_main(int argc, char **argv)
 {
-    int nums[] = {0, 1, 0, 1, 99};
+    int nums[] = {0, 1, 0, 1, 0, 1, 99};
 
-    printf("%ld\n", sizeof(nums) / sizeof(int));
-    printf("%d\n", singleNumber(nums, sizeof(nums) / sizeof(int)));
+    //printf("%ld\n", sizeof(nums) / sizeof(int));
+    printf("%d\n", singleNumber2(nums, sizeof(nums) / sizeof(int)));
 
     return 0;
 }

@@ -123,6 +123,87 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
 
+125-ValidPalindrome/validPalindrome.o: 125-ValidPalindrome/validPalindrome.c.o
+
+.PHONY : 125-ValidPalindrome/validPalindrome.o
+
+# target to build an object file
+125-ValidPalindrome/validPalindrome.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o
+.PHONY : 125-ValidPalindrome/validPalindrome.c.o
+
+125-ValidPalindrome/validPalindrome.i: 125-ValidPalindrome/validPalindrome.c.i
+
+.PHONY : 125-ValidPalindrome/validPalindrome.i
+
+# target to preprocess a source file
+125-ValidPalindrome/validPalindrome.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.i
+.PHONY : 125-ValidPalindrome/validPalindrome.c.i
+
+125-ValidPalindrome/validPalindrome.s: 125-ValidPalindrome/validPalindrome.c.s
+
+.PHONY : 125-ValidPalindrome/validPalindrome.s
+
+# target to generate assembly for a file
+125-ValidPalindrome/validPalindrome.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s
+.PHONY : 125-ValidPalindrome/validPalindrome.c.s
+
+136-SingleNumber/singleNumber.o: 136-SingleNumber/singleNumber.c.o
+
+.PHONY : 136-SingleNumber/singleNumber.o
+
+# target to build an object file
+136-SingleNumber/singleNumber.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o
+.PHONY : 136-SingleNumber/singleNumber.c.o
+
+136-SingleNumber/singleNumber.i: 136-SingleNumber/singleNumber.c.i
+
+.PHONY : 136-SingleNumber/singleNumber.i
+
+# target to preprocess a source file
+136-SingleNumber/singleNumber.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.i
+.PHONY : 136-SingleNumber/singleNumber.c.i
+
+136-SingleNumber/singleNumber.s: 136-SingleNumber/singleNumber.c.s
+
+.PHONY : 136-SingleNumber/singleNumber.s
+
+# target to generate assembly for a file
+136-SingleNumber/singleNumber.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.s
+.PHONY : 136-SingleNumber/singleNumber.c.s
+
+137-SingleNumber2/singleNumber2.o: 137-SingleNumber2/singleNumber2.c.o
+
+.PHONY : 137-SingleNumber2/singleNumber2.o
+
+# target to build an object file
+137-SingleNumber2/singleNumber2.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o
+.PHONY : 137-SingleNumber2/singleNumber2.c.o
+
+137-SingleNumber2/singleNumber2.i: 137-SingleNumber2/singleNumber2.c.i
+
+.PHONY : 137-SingleNumber2/singleNumber2.i
+
+# target to preprocess a source file
+137-SingleNumber2/singleNumber2.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.i
+.PHONY : 137-SingleNumber2/singleNumber2.c.i
+
+137-SingleNumber2/singleNumber2.s: 137-SingleNumber2/singleNumber2.c.s
+
+.PHONY : 137-SingleNumber2/singleNumber2.s
+
+# target to generate assembly for a file
+137-SingleNumber2/singleNumber2.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.s
+.PHONY : 137-SingleNumber2/singleNumber2.c.s
+
 141-LinkedListCycle/linkedListCycle.o: 141-LinkedListCycle/linkedListCycle.c.o
 
 .PHONY : 141-LinkedListCycle/linkedListCycle.o
@@ -186,6 +267,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithms"
 	@echo "... edit_cache"
+	@echo "... 125-ValidPalindrome/validPalindrome.o"
+	@echo "... 125-ValidPalindrome/validPalindrome.i"
+	@echo "... 125-ValidPalindrome/validPalindrome.s"
+	@echo "... 136-SingleNumber/singleNumber.o"
+	@echo "... 136-SingleNumber/singleNumber.i"
+	@echo "... 136-SingleNumber/singleNumber.s"
+	@echo "... 137-SingleNumber2/singleNumber2.o"
+	@echo "... 137-SingleNumber2/singleNumber2.i"
+	@echo "... 137-SingleNumber2/singleNumber2.s"
 	@echo "... 141-LinkedListCycle/linkedListCycle.o"
 	@echo "... 141-LinkedListCycle/linkedListCycle.i"
 	@echo "... 141-LinkedListCycle/linkedListCycle.s"

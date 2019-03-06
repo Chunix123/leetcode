@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/136-SingleNumber/singleNumber.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/main.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/main.c.o"
   )
