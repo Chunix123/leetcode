@@ -8,6 +8,7 @@
 #include "137-SingleNumber2/singleNumber2.h"
 #include "125-ValidPalindrome/validPalindrome.h"
 #include "344-ReverseString/reverseString.h"
+#include "316-RemoveDuplicateLetters/removeDuplicateLetters.h"
 
 
 int main(int argc, char **argv)
@@ -26,8 +27,11 @@ int main(int argc, char **argv)
     //141
     //hasCycle_main(argc, argv);
 
+    //316
+    removeDuplicateLetters_main();
+
     //344
-    reverseString_main();
+    //reverseString_main();
 
     return 0;
 }
