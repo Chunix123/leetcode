@@ -7,6 +7,7 @@
 #include "136-SingleNumber/singleNumber.h"
 #include "137-SingleNumber2/singleNumber2.h"
 #include "125-ValidPalindrome/validPalindrome.h"
+#include "344-ReverseString/reverseString.h"
 
 
 int main(int argc, char **argv)
@@ -20,10 +21,13 @@ int main(int argc, char **argv)
     //singleNumber_main(argc, argv);
 
     //137
-    singleNumber2_main(argc, argv);
+    //singleNumber2_main(argc, argv);
 
     //141
     //hasCycle_main(argc, argv);
+
+    //344
+    reverseString_main();
 
     return 0;
 }
