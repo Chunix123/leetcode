@@ -29,7 +29,7 @@ struct ListNode {
     struct ListNode *next;
 };
 
-bool hasCycle(Struct ListNode *head)
+bool hasCycle(struct ListNode *head)
 {
     if(head == NULL || head->next == NULL)
         return false;

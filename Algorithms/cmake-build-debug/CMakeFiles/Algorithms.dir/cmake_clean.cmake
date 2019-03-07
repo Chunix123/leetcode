@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o"
   "CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o"
   "CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o"
+  "CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o"
+  "CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )

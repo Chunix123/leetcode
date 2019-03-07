@@ -231,6 +231,60 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s
 .PHONY : 141-LinkedListCycle/linkedListCycle.c.s
 
+316-RemoveDuplicateLetters/removeDuplicateLetters.o: 316-RemoveDuplicateLetters/removeDuplicateLetters.c.o
+
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.o
+
+# target to build an object file
+316-RemoveDuplicateLetters/removeDuplicateLetters.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.c.o
+
+316-RemoveDuplicateLetters/removeDuplicateLetters.i: 316-RemoveDuplicateLetters/removeDuplicateLetters.c.i
+
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.i
+
+# target to preprocess a source file
+316-RemoveDuplicateLetters/removeDuplicateLetters.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.i
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.c.i
+
+316-RemoveDuplicateLetters/removeDuplicateLetters.s: 316-RemoveDuplicateLetters/removeDuplicateLetters.c.s
+
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.s
+
+# target to generate assembly for a file
+316-RemoveDuplicateLetters/removeDuplicateLetters.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.s
+.PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.c.s
+
+344-ReverseString/reverseString.o: 344-ReverseString/reverseString.c.o
+
+.PHONY : 344-ReverseString/reverseString.o
+
+# target to build an object file
+344-ReverseString/reverseString.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o
+.PHONY : 344-ReverseString/reverseString.c.o
+
+344-ReverseString/reverseString.i: 344-ReverseString/reverseString.c.i
+
+.PHONY : 344-ReverseString/reverseString.i
+
+# target to preprocess a source file
+344-ReverseString/reverseString.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.i
+.PHONY : 344-ReverseString/reverseString.c.i
+
+344-ReverseString/reverseString.s: 344-ReverseString/reverseString.c.s
+
+.PHONY : 344-ReverseString/reverseString.s
+
+# target to generate assembly for a file
+344-ReverseString/reverseString.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s
+.PHONY : 344-ReverseString/reverseString.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -279,6 +333,12 @@ help:
 	@echo "... 141-LinkedListCycle/linkedListCycle.o"
 	@echo "... 141-LinkedListCycle/linkedListCycle.i"
 	@echo "... 141-LinkedListCycle/linkedListCycle.s"
+	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.o"
+	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.i"
+	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.s"
+	@echo "... 344-ReverseString/reverseString.o"
+	@echo "... 344-ReverseString/reverseString.i"
+	@echo "... 344-ReverseString/reverseString.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
