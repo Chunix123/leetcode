@@ -9,11 +9,15 @@
 #include "125-ValidPalindrome/validPalindrome.h"
 #include "344-ReverseString/reverseString.h"
 #include "316-RemoveDuplicateLetters/removeDuplicateLetters.h"
+#include "067-AddBinary/addBinary.h"
 
 
 int main(int argc, char **argv)
 {
     printf("--leetcode--\n");
+
+    //67.
+    addBinary_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -28,7 +32,7 @@ int main(int argc, char **argv)
     //hasCycle_main(argc, argv);
 
     //316
-    removeDuplicateLetters_main();
+    //removeDuplicateLetters_main();
 
     //344
     //reverseString_main();

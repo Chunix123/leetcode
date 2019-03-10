@@ -48,10 +48,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/Algorithms
+CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/Algorithms
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,33 @@ Algorithms: cmake_check_build_system
 Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
+
+067-AddBinary/addBinary.o: 067-AddBinary/addBinary.c.o
+
+.PHONY : 067-AddBinary/addBinary.o
+
+# target to build an object file
+067-AddBinary/addBinary.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o
+.PHONY : 067-AddBinary/addBinary.c.o
+
+067-AddBinary/addBinary.i: 067-AddBinary/addBinary.c.i
+
+.PHONY : 067-AddBinary/addBinary.i
+
+# target to preprocess a source file
+067-AddBinary/addBinary.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.i
+.PHONY : 067-AddBinary/addBinary.c.i
+
+067-AddBinary/addBinary.s: 067-AddBinary/addBinary.c.s
+
+.PHONY : 067-AddBinary/addBinary.s
+
+# target to generate assembly for a file
+067-AddBinary/addBinary.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.s
+.PHONY : 067-AddBinary/addBinary.c.s
 
 125-ValidPalindrome/validPalindrome.o: 125-ValidPalindrome/validPalindrome.c.o
 
@@ -321,6 +348,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithms"
 	@echo "... edit_cache"
+	@echo "... 067-AddBinary/addBinary.o"
+	@echo "... 067-AddBinary/addBinary.i"
+	@echo "... 067-AddBinary/addBinary.s"
 	@echo "... 125-ValidPalindrome/validPalindrome.o"
 	@echo "... 125-ValidPalindrome/validPalindrome.i"
 	@echo "... 125-ValidPalindrome/validPalindrome.s"

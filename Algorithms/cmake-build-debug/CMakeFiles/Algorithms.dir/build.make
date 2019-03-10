@@ -43,10 +43,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/Algorithms
+CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/Algorithms
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Algorithms.dir/depend.make
@@ -59,94 +59,107 @@ include CMakeFiles/Algorithms.dir/flags.make
 
 CMakeFiles/Algorithms.dir/main.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Algorithms.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/main.c.o   -c /home/zyc/Documents/leetcode/Algorithms/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Algorithms.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/main.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/main.c
 
 CMakeFiles/Algorithms.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/main.c > CMakeFiles/Algorithms.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/main.c > CMakeFiles/Algorithms.dir/main.c.i
 
 CMakeFiles/Algorithms.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/main.c -o CMakeFiles/Algorithms.dir/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/main.c -o CMakeFiles/Algorithms.dir/main.c.s
 
 CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o: ../141-LinkedListCycle/linkedListCycle.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o   -c /home/zyc/Documents/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c
 
 CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c > CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c > CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.i
 
 CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c -o CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c -o CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s
 
 CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o: ../137-SingleNumber2/singleNumber2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o   -c /home/zyc/Documents/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c
 
 CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c > CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c > CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.i
 
 CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c -o CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c -o CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.s
 
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o: ../136-SingleNumber/singleNumber.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o   -c /home/zyc/Documents/leetcode/Algorithms/136-SingleNumber/singleNumber.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/136-SingleNumber/singleNumber.c
 
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/136-SingleNumber/singleNumber.c > CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/136-SingleNumber/singleNumber.c > CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.i
 
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/136-SingleNumber/singleNumber.c -o CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/136-SingleNumber/singleNumber.c -o CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.s
 
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o: ../125-ValidPalindrome/validPalindrome.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o   -c /home/zyc/Documents/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c
 
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c > CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c > CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.i
 
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c -o CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c -o CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s
 
 CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o: ../344-ReverseString/reverseString.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o   -c /home/zyc/Documents/leetcode/Algorithms/344-ReverseString/reverseString.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.c
 
 CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/344-ReverseString/reverseString.c > CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.c > CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.i
 
 CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/344-ReverseString/reverseString.c -o CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.c -o CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s
 
 CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o: CMakeFiles/Algorithms.dir/flags.make
 CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o: ../316-RemoveDuplicateLetters/removeDuplicateLetters.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o   -c /home/zyc/Documents/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c
 
 CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c > CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c > CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.i
 
 CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c -o CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c -o CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.s
+
+CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o: ../067-AddBinary/addBinary.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/067-AddBinary/addBinary.c
+
+CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/067-AddBinary/addBinary.c > CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.i
+
+CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/067-AddBinary/addBinary.c -o CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.s
 
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
@@ -156,7 +169,8 @@ Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o" \
 "CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o" \
 "CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o" \
-"CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o"
+"CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o" \
+"CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o"
 
 # External object files for target Algorithms
 Algorithms_EXTERNAL_OBJECTS =
@@ -168,9 +182,10 @@ Algorithms: CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o
 Algorithms: CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o
 Algorithms: CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o
 Algorithms: CMakeFiles/Algorithms.dir/316-RemoveDuplicateLetters/removeDuplicateLetters.c.o
+Algorithms: CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.o
 Algorithms: CMakeFiles/Algorithms.dir/build.make
 Algorithms: CMakeFiles/Algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable Algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable Algorithms"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Algorithms.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -183,6 +198,6 @@ CMakeFiles/Algorithms.dir/clean:
 .PHONY : CMakeFiles/Algorithms.dir/clean
 
 CMakeFiles/Algorithms.dir/depend:
-	cd /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyc/Documents/leetcode/Algorithms /home/zyc/Documents/leetcode/Algorithms /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyc/Documents/Project/leetcode/Algorithms /home/zyc/Documents/Project/leetcode/Algorithms /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Algorithms.dir/depend
 
