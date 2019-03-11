@@ -16,8 +16,11 @@ int main(int argc, char **argv)
 {
     printf("--leetcode--\n");
 
+    //27.
+    removeElement_main();
+
     //67.
-    addBinary_main();
+    //addBinary_main();
 
     //125
     //isPalindrome_main(argc, argv);
