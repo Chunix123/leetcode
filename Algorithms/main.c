@@ -11,6 +11,7 @@
 #include "316-RemoveDuplicateLetters/removeDuplicateLetters.h"
 #include "067-AddBinary/addBinary.h"
 #include "021-MergeTwoSortedLists/mergeTwoSortedLists.h"
+#include "160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h"
 
 
 int main(int argc, char **argv)
@@ -30,7 +31,7 @@ int main(int argc, char **argv)
     //addBinary_main();
 
     //083.
-    deleteDuplicates_main();
+    //deleteDuplicates_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -43,6 +44,9 @@ int main(int argc, char **argv)
 
     //141
     //hasCycle_main(argc, argv);
+
+    //160.
+    getIntersectionNode_main();
 
     //316
     //removeDuplicateLetters_main();

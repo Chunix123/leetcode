@@ -30,7 +30,6 @@ struct ListNode* deleteDuplicates(struct ListNode* head)
  				cur->next = check->next;
 
  	return head;
-
 }
 */
 
