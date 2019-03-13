@@ -13,6 +13,8 @@
 #include "021-MergeTwoSortedLists/mergeTwoSortedLists.h"
 #include "160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h"
 #include "082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h"
+#include "019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h"
+
 
 
 int main(int argc, char **argv)
@@ -21,6 +23,9 @@ int main(int argc, char **argv)
 
     //002
     //addTwoNumbers_main();
+
+    //19
+    removeNthFromEnd_main();
 
     //21
     //mergeTwoLists_main();
@@ -32,7 +37,7 @@ int main(int argc, char **argv)
     //addBinary_main();
 
     //82.
-    deleteDuplicates2_main(argc, argv);
+    //deleteDuplicates2_main(argc, argv);
 
     //083.
     //deleteDuplicates_main();
