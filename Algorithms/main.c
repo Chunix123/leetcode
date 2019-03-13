@@ -10,14 +10,21 @@
 #include "344-ReverseString/reverseString.h"
 #include "316-RemoveDuplicateLetters/removeDuplicateLetters.h"
 #include "067-AddBinary/addBinary.h"
+#include "021-MergeTwoSortedLists/mergeTwoSortedLists.h"
 
 
 int main(int argc, char **argv)
 {
     printf("--leetcode--\n");
 
+    //002
+    //addTwoNumbers_main();
+
+    //21
+    //mergeTwoLists_main();
+
     //27.
-    removeElement_main();
+    //removeElement_main();
 
     //67.
     //addBinary_main();
