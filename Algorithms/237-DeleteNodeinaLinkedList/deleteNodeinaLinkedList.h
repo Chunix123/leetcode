@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/13/19.
+//
+
+#ifndef PROJECT_DELETENODEINALINKEDLIST_H
+#define PROJECT_DELETENODEINALINKEDLIST_H
+
+int deleteNode_main();
+
+#endif //PROJECT_DELETENODEINALINKEDLIST_H
