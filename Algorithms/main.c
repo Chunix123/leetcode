@@ -14,6 +14,7 @@
 #include "160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h"
 #include "082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h"
 #include "019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h"
+#include "206-ReverseLinkedList/reverseLinkedList.h"
 
 
 
@@ -25,7 +26,7 @@ int main(int argc, char **argv)
     //addTwoNumbers_main();
 
     //19
-    removeNthFromEnd_main();
+    //removeNthFromEnd_main();
 
     //21
     //mergeTwoLists_main();
@@ -56,6 +57,9 @@ int main(int argc, char **argv)
 
     //160.
     //getIntersectionNode_main();
+
+    //206.
+    reverseList_main();
 
     //316
     //removeDuplicateLetters_main();
