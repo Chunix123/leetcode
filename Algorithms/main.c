@@ -12,6 +12,7 @@
 #include "067-AddBinary/addBinary.h"
 #include "021-MergeTwoSortedLists/mergeTwoSortedLists.h"
 #include "160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h"
+#include "082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h"
 
 
 int main(int argc, char **argv)
@@ -30,6 +31,9 @@ int main(int argc, char **argv)
     //67.
     //addBinary_main();
 
+    //82.
+    deleteDuplicates2_main(argc, argv);
+
     //083.
     //deleteDuplicates_main();
 
@@ -46,7 +50,7 @@ int main(int argc, char **argv)
     //hasCycle_main(argc, argv);
 
     //160.
-    getIntersectionNode_main();
+    //getIntersectionNode_main();
 
     //316
     //removeDuplicateLetters_main();

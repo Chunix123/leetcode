@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/13/19.
+//
+
+#ifndef PROJECT_REMOVEDUPLICATESFROMSORTEDLISTII_H
+#define PROJECT_REMOVEDUPLICATESFROMSORTEDLISTII_H
+
+int deleteDuplicates2_main(int argc, char **argv);
+
+#endif //PROJECT_REMOVEDUPLICATESFROMSORTEDLISTII_H
