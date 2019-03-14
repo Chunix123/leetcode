@@ -19,6 +19,8 @@
 #include "203-RemoveLinkedListElements/removeLinkedListElements.h"
 #include "024-SwapNodesinPairs/swapNodesinPairs.h"
 #include "092-ReverseLinkedListII/reverseLinkedListII.h"
+#include "013-RomantoInteger/romantoInteger.h"
+#include "028-ImplementstrStr/implementstrStr.h"
 
 
 
@@ -28,6 +30,9 @@ int main(int argc, char **argv)
 
     //002
     //addTwoNumbers_main();
+
+    //13
+    remanToInteger();
 
     //19
     //removeNthFromEnd_main();
@@ -41,6 +46,9 @@ int main(int argc, char **argv)
     //27.
     //removeElement_main();
 
+    //28.
+    strStr_main();
+
     //67.
     //addBinary_main();
 
@@ -51,7 +59,7 @@ int main(int argc, char **argv)
     //deleteDuplicates_main();
 
     //92
-    reverseBetween_main();
+    //reverseBetween_main();
 
     //125
     //isPalindrome_main(argc, argv);
