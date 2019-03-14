@@ -21,6 +21,7 @@
 #include "092-ReverseLinkedListII/reverseLinkedListII.h"
 #include "013-RomantoInteger/romantoInteger.h"
 #include "028-ImplementstrStr/implementstrStr.h"
+#include "151-ReverseWordsinaString/reverseWordsinaString.h"
 
 
 
@@ -32,7 +33,7 @@ int main(int argc, char **argv)
     //addTwoNumbers_main();
 
     //13
-    remanToInteger();
+    //remanToInteger();
 
     //19
     //removeNthFromEnd_main();
@@ -47,7 +48,7 @@ int main(int argc, char **argv)
     //removeElement_main();
 
     //28.
-    strStr_main();
+    //strStr_main();
 
     //67.
     //addBinary_main();
@@ -72,6 +73,9 @@ int main(int argc, char **argv)
 
     //141
     //hasCycle_main(argc, argv);
+
+    //151.
+    reverseWords_main();
 
     //160.
     //getIntersectionNode_main();

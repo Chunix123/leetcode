@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/14/19.
+//
+
+#ifndef PROJECT_REVERSEWORDSINASTRING_H
+#define PROJECT_REVERSEWORDSINASTRING_H
+
+int reverseWords_main();
+
+#endif //PROJECT_REVERSEWORDSINASTRING_H
