@@ -16,6 +16,8 @@
 #include "019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h"
 #include "206-ReverseLinkedList/reverseLinkedList.h"
 #include "237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.h"
+#include "203-RemoveLinkedListElements/removeLinkedListElements.h"
+#include "024-SwapNodesinPairs/swapNodesinPairs.h"
 
 
 
@@ -31,6 +33,9 @@ int main(int argc, char **argv)
 
     //21
     //mergeTwoLists_main();
+
+    //24
+    swapPairs_main();
 
     //27.
     //removeElement_main();
@@ -59,11 +64,14 @@ int main(int argc, char **argv)
     //160.
     //getIntersectionNode_main();
 
+    //203.
+    //removeElements_main();
+
     //206.
     //reverseList_main();
 
     //237
-    deleteNode_main();
+    //deleteNode_main();
 
     //316
     //removeDuplicateLetters_main();

@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/14/19.
+//
+
+#ifndef PROJECT_REMOVELINKEDLISTELEMENTS_H
+#define PROJECT_REMOVELINKEDLISTELEMENTS_H
+
+int removeElements_main();
+
+#endif //PROJECT_REMOVELINKEDLISTELEMENTS_H
