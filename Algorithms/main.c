@@ -22,6 +22,8 @@
 #include "013-RomantoInteger/romantoInteger.h"
 #include "028-ImplementstrStr/implementstrStr.h"
 #include "151-ReverseWordsinaString/reverseWordsinaString.h"
+#include "234-PalindromeLinkedList/palindromeLinkedList.h"
+#include "061-RotateList/rotateList.h"
 
 
 
@@ -50,6 +52,9 @@ int main(int argc, char **argv)
     //28.
     //strStr_main();
 
+    //61.
+    rotateRight_main();
+
     //67.
     //addBinary_main();
 
@@ -75,7 +80,7 @@ int main(int argc, char **argv)
     //hasCycle_main(argc, argv);
 
     //151.
-    reverseWords_main();
+    //reverseWords_main();
 
     //160.
     //getIntersectionNode_main();
@@ -85,6 +90,9 @@ int main(int argc, char **argv)
 
     //206.
     //reverseList_main();
+
+    //234.
+    //isPalindrome2_main();
 
     //237
     //deleteNode_main();

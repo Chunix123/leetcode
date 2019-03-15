@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/15/19.
+//
+
+#ifndef PROJECT_PALINDROMELINKEDLIST_H
+#define PROJECT_PALINDROMELINKEDLIST_H
+
+int isPalindrome2_main();
+
+#endif //PROJECT_PALINDROMELINKEDLIST_H
