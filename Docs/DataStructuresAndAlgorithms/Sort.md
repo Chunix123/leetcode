@@ -27,7 +27,6 @@
 |  希尔排序  |      O(nlogn)      |       O(n^2)       |        O(n)        |    O(1)    | 不稳定 |
 |   堆排序   |      O(nlogn)      |      O(nlogn)      |      O(nlogn)      |    O(1)    | 不稳定 |
 |  归并排序  |      O(nlogn)      |      O(nlogn)      |      O(nlogn)      |    O(n)    |  稳定  |
-| 二叉树排序 |      O(nlogn)      |      O(nlogn)      |      O(nlogn)      |    O(n)    |  稳定  |
 |   桶排序   |       O(n+k)       |       O(n^2)       |        O(n)        |   O(n+k)   |  稳定  |
 |  基数排序  |       O(n*k)       |       O(n*k)       |       O(n*k)       |   O(n+k)   |  稳定  |
 |  计数排序  |       O(n+k)       |       O(n+k)       |       O(n+k)       |   O(n+k)   |  稳定  |
@@ -45,8 +44,6 @@
 - 计数排序 (Counting Sort) — O(n+k); 需要 O(n+k) 额外空间
 
 - 合并排序（Merge Sort）— O(nlogn); 需要 O(n) 额外空间
-
-- 二叉排序树排序 （Binary tree sort） — O(n log n) 期望时间; O(n²)最坏时间; 需要 O(n) 额外空间
 
 - 基数排序（Radix sort）— O(n·k); 需要 O(n) 额外空间
 
@@ -415,9 +412,164 @@
 
 ### 2.7 归并排序
 
-### 2.8 二叉树排序
++ 归并排序（Merge Sort）是建立在归并操作上的一种有效的排序算法。该算法是采用分治法（Divide and Conquer）的一个非常典型的应用。将已有序的子序列合并，得到完全有序的序列；即先使每个子序列有序，再使子序列段间有序。若将两个有序表合并成一个有序表，称为2-路归并。 
 
-### 2.9 桶式排序
++ 算法描述：
+
+  1. 把长度为n的输入序列分成两个长度为n/2的子序列；
+  2. 对这两个子序列分别采用归并排序；
+  3. 将两个排序好的子序列合并成一个最终的排序序列。
+
++ 归并排序是稳定的排序算法，其时间复杂度为O(nlogn)，如果是使用链表的实现的话，空间复杂度可以达到O(1)，但如果是使用数组来存储数据的话，在归并的过程中，需要临时空间来存储归并好的数据，所以空间复杂度为O(n)。
+
++ 归并方法：
+
+  1. 自顶向下归并排序：将一个大数组分成两个小数组去求解。因为每次都将问题对半分成两个子问题，这种对半分的算法复杂度一般为 O(NlogN)。
+  2. 自顶向上归并排序：先归并那些微型数组，然后成对归并得到的微型数组。
+
++ C代码实现
+
+  1. 自顶向下：递归实现（函数递归调用）
+
+  ```c
+  void merge(int *arr, int start, int mid, int end)
+  {
+      int n1 = mid - start + 1;
+      int n2 = end - mid;
+      int left[n1], right[n2];
+      int i, j, k;
+  
+      for(i = 0; i < n1; i++)
+          left[i] = arr[start + i];
+  
+      for(j = 0; j < n2; j++)
+          right[j] = arr[mid + 1 + j];
+  
+      i = 0;
+      j = 0;
+      k = start;
+  
+      while(i < n1 && j < n2)
+      {
+          if(left[i] < right[j])
+              arr[k++] = left[i++];
+          else
+              arr[k++] = right[j++];
+      }
+  
+      while(i < n1)
+          arr[k++] = left[i++];
+  
+      while(i < n2)
+          arr[k++] = right[j++];
+  }
+  
+  void merge_sort(int *arr, int start, int end)
+  {
+      if(start < end)
+      {
+          int mid = (start + end) / 2;
+  
+          merge_sort(arr, start, mid);
+          merge_sort(arr, mid + 1, end);
+          merge(arr, start, mid, end);
+      }
+  }
+  ```
+
+  2. 自底向上：非递归实现
+
+  ```c
+  void merge_sort2(int *arr, int len)
+  {
+      int i, left_min, left_max, right_min, right_max, next;
+      int *temp = (int *) malloc(sizeof(int) * len);
+  
+      if (temp == NULL)
+      {
+          fputs("Error: out of memory\n", stderr);
+          abort();
+      }
+  
+      for (i = 1; i < len; i *= 2)
+      {
+          for(left_min = 0; left_min < len - 1; left_min = right_max)
+          {
+              left_max = left_min + i;
+              right_min = left_max;
+              right_max = left_max + i;
+  
+              if(right_max > len)
+                  right_max = len;
+  
+              next = 0;
+  
+              while(left_min < left_max && right_min < right_max)
+                  temp[next++] = arr[left_min] > arr[right_min] ? arr[right_min++] : arr[left_min++];
+  
+              while(left_min < left_max)
+                  arr[--right_min] = arr[--left_max];
+  
+              while(next > 0)
+                  arr[--right_min] = temp[--next];
+          }
+      }
+  
+      free(temp);
+  }
+  ```
+
+### 2.8 计数排序
+
++ 计数排序（Counting Sort）不是基于比较的排序算法，其核心在于将输入的数据值转化为键存储在额外开辟的数组空间中。 作为一种线性时间复杂度的排序，计数排序要求输入的数据必须是有确定范围的整数。
+
++ 计数排序是一个稳定的排序算法。当输入的元素是 n 个 0到 k 之间的整数时，时间复杂度是O(n+k)，空间复杂度也是O(n+k)，其排序速度快于任何比较排序算法。当k不是很大并且序列比较集中时，计数排序是一个很有效的排序算法。
+
++ 算法描述：
+
+  1. 找出待排序的数组中最大和最小的元素；
+  2. 统计数组中每个值为i的元素出现的次数，存入数组C的第i项；
+  3. 对所有的计数累加（从C中的第一个元素开始，每一项和前一项相加）；
+  4. 反向填充目标数组：将每个元素i放在新数组的第C(i)项，每放一个元素就将C(i)减去1。
+
++ C代码实现：
+
+  ```c
+  void count_sort(int *arr, int len)
+  {
+      int i, maxValue = arr[0];
+  
+      for(i = 0; i < len; i++)
+      {
+          if(arr[i] > maxValue)
+              maxValue = arr[i];
+      }
+      
+      maxValue += 1;
+  
+      int *countArr = (int *)malloc(maxValue * sizeof(int));
+      int *sortsArr = (int *)malloc(len * sizeof(int));
+  
+      for(i = 0; i < len; i++)
+          countArr[arr[i]]++;
+  
+      for(i = 1; i < maxValue; i++)
+          countArr[i] += countArr[i - 1];
+  
+      for(i = len - 1; i >= 0; --i)
+      {
+          sortsArr[countArr[arr[i]] - 1] = arr[i];
+          --countArr[arr[i]];
+      }
+  
+      memcpy(arr, sortsArr, len * sizeof(int));
+  
+      free(sortsArr);
+      free(countArr);
+  }
+  ```
+
+### 2.9 桶排序
 
 ### 2.10 基数排序
 
