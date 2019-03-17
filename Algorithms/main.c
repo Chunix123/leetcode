@@ -24,6 +24,7 @@
 #include "151-ReverseWordsinaString/reverseWordsinaString.h"
 #include "234-PalindromeLinkedList/palindromeLinkedList.h"
 #include "061-RotateList/rotateList.h"
+#include "148-SortList/sortList.h"
 
 
 
@@ -53,7 +54,7 @@ int main(int argc, char **argv)
     //strStr_main();
 
     //61.
-    rotateRight_main();
+    //rotateRight_main();
 
     //67.
     //addBinary_main();
@@ -78,6 +79,9 @@ int main(int argc, char **argv)
 
     //141
     //hasCycle_main(argc, argv);
+
+    //148.
+    sortList_main();
 
     //151.
     //reverseWords_main();
