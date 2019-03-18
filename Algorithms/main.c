@@ -27,6 +27,7 @@
 #include "148-SortList/sortList.h"
 #include "086-PartitionList/partitionList.h"
 #include "142-LinkedListCycleII/linkedListCycleII.h"
+#include "147-InsertionSortList/insertionSortList.h"
 
 
 
@@ -86,7 +87,10 @@ int main(int argc, char **argv)
     //hasCycle_main(argc, argv);
 
     //142.
-    detectCycle_main();
+    //detectCycle_main();
+
+    //147.
+    insertionSortList2_main();
 
     //148.
     //sortList_main();
