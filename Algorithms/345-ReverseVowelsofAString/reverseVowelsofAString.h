@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/19/19.
+//
+
+#ifndef PROJECT_REVERSEVOWELSOFASTRING_H
+#define PROJECT_REVERSEVOWELSOFASTRING_H
+
+int reverseVowels_main();
+
+#endif //PROJECT_REVERSEVOWELSOFASTRING_H

@@ -29,6 +29,7 @@
 #include "142-LinkedListCycleII/linkedListCycleII.h"
 #include "147-InsertionSortList/insertionSortList.h"
 #include "014-LongestCommonPrefix/longestCommonPrefix.h"
+#include "345-ReverseVowelsofAString/reverseVowelsofAString.h"
 
 
 
@@ -43,7 +44,7 @@ int main(int argc, char **argv)
     //remanToInteger();
 
     //014
-    longestCommonPrefix_main();
+    //longestCommonPrefix_main();
 
     //19
     //removeNthFromEnd_main();
@@ -122,6 +123,9 @@ int main(int argc, char **argv)
 
     //344
     //reverseString_main();
+
+    //345
+    reverseVowels_main();
 
     return 0;
 }
