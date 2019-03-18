@@ -28,6 +28,7 @@
 #include "086-PartitionList/partitionList.h"
 #include "142-LinkedListCycleII/linkedListCycleII.h"
 #include "147-InsertionSortList/insertionSortList.h"
+#include "014-LongestCommonPrefix/longestCommonPrefix.h"
 
 
 
@@ -40,6 +41,9 @@ int main(int argc, char **argv)
 
     //13
     //remanToInteger();
+
+    //014
+    longestCommonPrefix_main();
 
     //19
     //removeNthFromEnd_main();
@@ -90,7 +94,7 @@ int main(int argc, char **argv)
     //detectCycle_main();
 
     //147.
-    insertionSortList2_main();
+    //insertionSortList2_main();
 
     //148.
     //sortList_main();
