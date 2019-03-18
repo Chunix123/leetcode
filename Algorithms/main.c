@@ -25,6 +25,8 @@
 #include "234-PalindromeLinkedList/palindromeLinkedList.h"
 #include "061-RotateList/rotateList.h"
 #include "148-SortList/sortList.h"
+#include "086-PartitionList/partitionList.h"
+#include "142-LinkedListCycleII/linkedListCycleII.h"
 
 
 
@@ -65,6 +67,9 @@ int main(int argc, char **argv)
     //083.
     //deleteDuplicates_main();
 
+    //086
+    //partition_main();
+
     //92
     //reverseBetween_main();
 
@@ -80,8 +85,11 @@ int main(int argc, char **argv)
     //141
     //hasCycle_main(argc, argv);
 
+    //142.
+    detectCycle_main();
+
     //148.
-    sortList_main();
+    //sortList_main();
 
     //151.
     //reverseWords_main();
