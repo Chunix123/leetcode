@@ -31,6 +31,9 @@
 #include "014-LongestCommonPrefix/longestCommonPrefix.h"
 #include "345-ReverseVowelsofAString/reverseVowelsofAString.h"
 #include "058-LengthofLastWord/lengthofLastWord.h"
+#include "468-ValidateIPAddress/validateIPAddress.h"
+#include "415-AddStrings/addStrings.h"
+#include "020-ValidParentheses/validParentheses.h"
 
 
 
@@ -50,6 +53,9 @@ int main(int argc, char **argv)
 
     //19
     //removeNthFromEnd_main();
+
+    //020.
+    isValid_main();
 
     //21
     //mergeTwoLists_main();
@@ -127,7 +133,13 @@ int main(int argc, char **argv)
     //reverseString_main();
 
     //345
-    reverseVowels_main();
+    //reverseVowels_main();
+
+    //415
+    //addStrings_main();
+
+    //468
+    //validIPAddress_main();
 
     return 0;
 }
