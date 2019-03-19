@@ -30,6 +30,8 @@
 #include "147-InsertionSortList/insertionSortList.h"
 #include "014-LongestCommonPrefix/longestCommonPrefix.h"
 #include "345-ReverseVowelsofAString/reverseVowelsofAString.h"
+#include "058-LengthofLastWord/lengthofLastWord.h"
+
 
 
 
