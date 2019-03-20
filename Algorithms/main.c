@@ -34,6 +34,7 @@
 #include "468-ValidateIPAddress/validateIPAddress.h"
 #include "415-AddStrings/addStrings.h"
 #include "020-ValidParentheses/validParentheses.h"
+#include "066-PlusOne/plusOne.h"
 
 
 
@@ -55,7 +56,7 @@ int main(int argc, char **argv)
     //removeNthFromEnd_main();
 
     //020.
-    isValid_main();
+    //isValid_main();
 
     //21
     //mergeTwoLists_main();
@@ -71,6 +72,9 @@ int main(int argc, char **argv)
 
     //61.
     //rotateRight_main();
+
+    //066
+    plusOne_main();
 
     //67.
     //addBinary_main();
