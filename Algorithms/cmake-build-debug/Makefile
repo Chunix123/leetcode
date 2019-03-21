@@ -123,6 +123,330 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
 
+002-AddTwoNumbers/addTwoNumber.o: 002-AddTwoNumbers/addTwoNumber.c.o
+
+.PHONY : 002-AddTwoNumbers/addTwoNumber.o
+
+# target to build an object file
+002-AddTwoNumbers/addTwoNumber.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/002-AddTwoNumbers/addTwoNumber.c.o
+.PHONY : 002-AddTwoNumbers/addTwoNumber.c.o
+
+002-AddTwoNumbers/addTwoNumber.i: 002-AddTwoNumbers/addTwoNumber.c.i
+
+.PHONY : 002-AddTwoNumbers/addTwoNumber.i
+
+# target to preprocess a source file
+002-AddTwoNumbers/addTwoNumber.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/002-AddTwoNumbers/addTwoNumber.c.i
+.PHONY : 002-AddTwoNumbers/addTwoNumber.c.i
+
+002-AddTwoNumbers/addTwoNumber.s: 002-AddTwoNumbers/addTwoNumber.c.s
+
+.PHONY : 002-AddTwoNumbers/addTwoNumber.s
+
+# target to generate assembly for a file
+002-AddTwoNumbers/addTwoNumber.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/002-AddTwoNumbers/addTwoNumber.c.s
+.PHONY : 002-AddTwoNumbers/addTwoNumber.c.s
+
+013-RomantoInteger/romantoInteger.o: 013-RomantoInteger/romantoInteger.c.o
+
+.PHONY : 013-RomantoInteger/romantoInteger.o
+
+# target to build an object file
+013-RomantoInteger/romantoInteger.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/013-RomantoInteger/romantoInteger.c.o
+.PHONY : 013-RomantoInteger/romantoInteger.c.o
+
+013-RomantoInteger/romantoInteger.i: 013-RomantoInteger/romantoInteger.c.i
+
+.PHONY : 013-RomantoInteger/romantoInteger.i
+
+# target to preprocess a source file
+013-RomantoInteger/romantoInteger.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/013-RomantoInteger/romantoInteger.c.i
+.PHONY : 013-RomantoInteger/romantoInteger.c.i
+
+013-RomantoInteger/romantoInteger.s: 013-RomantoInteger/romantoInteger.c.s
+
+.PHONY : 013-RomantoInteger/romantoInteger.s
+
+# target to generate assembly for a file
+013-RomantoInteger/romantoInteger.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/013-RomantoInteger/romantoInteger.c.s
+.PHONY : 013-RomantoInteger/romantoInteger.c.s
+
+014-LongestCommonPrefix/longestCommonPrefix.o: 014-LongestCommonPrefix/longestCommonPrefix.c.o
+
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.o
+
+# target to build an object file
+014-LongestCommonPrefix/longestCommonPrefix.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/014-LongestCommonPrefix/longestCommonPrefix.c.o
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.c.o
+
+014-LongestCommonPrefix/longestCommonPrefix.i: 014-LongestCommonPrefix/longestCommonPrefix.c.i
+
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.i
+
+# target to preprocess a source file
+014-LongestCommonPrefix/longestCommonPrefix.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/014-LongestCommonPrefix/longestCommonPrefix.c.i
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.c.i
+
+014-LongestCommonPrefix/longestCommonPrefix.s: 014-LongestCommonPrefix/longestCommonPrefix.c.s
+
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.s
+
+# target to generate assembly for a file
+014-LongestCommonPrefix/longestCommonPrefix.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/014-LongestCommonPrefix/longestCommonPrefix.c.s
+.PHONY : 014-LongestCommonPrefix/longestCommonPrefix.c.s
+
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.o: 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o
+
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.o
+
+# target to build an object file
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o
+
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.i: 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.i
+
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.i
+
+# target to preprocess a source file
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.i
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.i
+
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.s: 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.s
+
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.s
+
+# target to generate assembly for a file
+019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.s
+.PHONY : 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.s
+
+020-ValidParentheses/validParentheses.o: 020-ValidParentheses/validParentheses.c.o
+
+.PHONY : 020-ValidParentheses/validParentheses.o
+
+# target to build an object file
+020-ValidParentheses/validParentheses.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/020-ValidParentheses/validParentheses.c.o
+.PHONY : 020-ValidParentheses/validParentheses.c.o
+
+020-ValidParentheses/validParentheses.i: 020-ValidParentheses/validParentheses.c.i
+
+.PHONY : 020-ValidParentheses/validParentheses.i
+
+# target to preprocess a source file
+020-ValidParentheses/validParentheses.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/020-ValidParentheses/validParentheses.c.i
+.PHONY : 020-ValidParentheses/validParentheses.c.i
+
+020-ValidParentheses/validParentheses.s: 020-ValidParentheses/validParentheses.c.s
+
+.PHONY : 020-ValidParentheses/validParentheses.s
+
+# target to generate assembly for a file
+020-ValidParentheses/validParentheses.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/020-ValidParentheses/validParentheses.c.s
+.PHONY : 020-ValidParentheses/validParentheses.c.s
+
+021-MergeTwoSortedLists/mergeTwoSortedLists.o: 021-MergeTwoSortedLists/mergeTwoSortedLists.c.o
+
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.o
+
+# target to build an object file
+021-MergeTwoSortedLists/mergeTwoSortedLists.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/021-MergeTwoSortedLists/mergeTwoSortedLists.c.o
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.c.o
+
+021-MergeTwoSortedLists/mergeTwoSortedLists.i: 021-MergeTwoSortedLists/mergeTwoSortedLists.c.i
+
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.i
+
+# target to preprocess a source file
+021-MergeTwoSortedLists/mergeTwoSortedLists.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/021-MergeTwoSortedLists/mergeTwoSortedLists.c.i
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.c.i
+
+021-MergeTwoSortedLists/mergeTwoSortedLists.s: 021-MergeTwoSortedLists/mergeTwoSortedLists.c.s
+
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.s
+
+# target to generate assembly for a file
+021-MergeTwoSortedLists/mergeTwoSortedLists.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/021-MergeTwoSortedLists/mergeTwoSortedLists.c.s
+.PHONY : 021-MergeTwoSortedLists/mergeTwoSortedLists.c.s
+
+024-SwapNodesinPairs/swapNodesinPairs.o: 024-SwapNodesinPairs/swapNodesinPairs.c.o
+
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.o
+
+# target to build an object file
+024-SwapNodesinPairs/swapNodesinPairs.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/024-SwapNodesinPairs/swapNodesinPairs.c.o
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.c.o
+
+024-SwapNodesinPairs/swapNodesinPairs.i: 024-SwapNodesinPairs/swapNodesinPairs.c.i
+
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.i
+
+# target to preprocess a source file
+024-SwapNodesinPairs/swapNodesinPairs.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/024-SwapNodesinPairs/swapNodesinPairs.c.i
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.c.i
+
+024-SwapNodesinPairs/swapNodesinPairs.s: 024-SwapNodesinPairs/swapNodesinPairs.c.s
+
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.s
+
+# target to generate assembly for a file
+024-SwapNodesinPairs/swapNodesinPairs.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/024-SwapNodesinPairs/swapNodesinPairs.c.s
+.PHONY : 024-SwapNodesinPairs/swapNodesinPairs.c.s
+
+027-RemoveElement/removeElement.o: 027-RemoveElement/removeElement.c.o
+
+.PHONY : 027-RemoveElement/removeElement.o
+
+# target to build an object file
+027-RemoveElement/removeElement.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/027-RemoveElement/removeElement.c.o
+.PHONY : 027-RemoveElement/removeElement.c.o
+
+027-RemoveElement/removeElement.i: 027-RemoveElement/removeElement.c.i
+
+.PHONY : 027-RemoveElement/removeElement.i
+
+# target to preprocess a source file
+027-RemoveElement/removeElement.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/027-RemoveElement/removeElement.c.i
+.PHONY : 027-RemoveElement/removeElement.c.i
+
+027-RemoveElement/removeElement.s: 027-RemoveElement/removeElement.c.s
+
+.PHONY : 027-RemoveElement/removeElement.s
+
+# target to generate assembly for a file
+027-RemoveElement/removeElement.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/027-RemoveElement/removeElement.c.s
+.PHONY : 027-RemoveElement/removeElement.c.s
+
+028-ImplementstrStr/implementstrStr.o: 028-ImplementstrStr/implementstrStr.c.o
+
+.PHONY : 028-ImplementstrStr/implementstrStr.o
+
+# target to build an object file
+028-ImplementstrStr/implementstrStr.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.o
+.PHONY : 028-ImplementstrStr/implementstrStr.c.o
+
+028-ImplementstrStr/implementstrStr.i: 028-ImplementstrStr/implementstrStr.c.i
+
+.PHONY : 028-ImplementstrStr/implementstrStr.i
+
+# target to preprocess a source file
+028-ImplementstrStr/implementstrStr.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.i
+.PHONY : 028-ImplementstrStr/implementstrStr.c.i
+
+028-ImplementstrStr/implementstrStr.s: 028-ImplementstrStr/implementstrStr.c.s
+
+.PHONY : 028-ImplementstrStr/implementstrStr.s
+
+# target to generate assembly for a file
+028-ImplementstrStr/implementstrStr.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.s
+.PHONY : 028-ImplementstrStr/implementstrStr.c.s
+
+058-LengthofLastWord/lengthofLastWord.o: 058-LengthofLastWord/lengthofLastWord.c.o
+
+.PHONY : 058-LengthofLastWord/lengthofLastWord.o
+
+# target to build an object file
+058-LengthofLastWord/lengthofLastWord.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/058-LengthofLastWord/lengthofLastWord.c.o
+.PHONY : 058-LengthofLastWord/lengthofLastWord.c.o
+
+058-LengthofLastWord/lengthofLastWord.i: 058-LengthofLastWord/lengthofLastWord.c.i
+
+.PHONY : 058-LengthofLastWord/lengthofLastWord.i
+
+# target to preprocess a source file
+058-LengthofLastWord/lengthofLastWord.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/058-LengthofLastWord/lengthofLastWord.c.i
+.PHONY : 058-LengthofLastWord/lengthofLastWord.c.i
+
+058-LengthofLastWord/lengthofLastWord.s: 058-LengthofLastWord/lengthofLastWord.c.s
+
+.PHONY : 058-LengthofLastWord/lengthofLastWord.s
+
+# target to generate assembly for a file
+058-LengthofLastWord/lengthofLastWord.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/058-LengthofLastWord/lengthofLastWord.c.s
+.PHONY : 058-LengthofLastWord/lengthofLastWord.c.s
+
+061-RotateList/rotateList.o: 061-RotateList/rotateList.c.o
+
+.PHONY : 061-RotateList/rotateList.o
+
+# target to build an object file
+061-RotateList/rotateList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/061-RotateList/rotateList.c.o
+.PHONY : 061-RotateList/rotateList.c.o
+
+061-RotateList/rotateList.i: 061-RotateList/rotateList.c.i
+
+.PHONY : 061-RotateList/rotateList.i
+
+# target to preprocess a source file
+061-RotateList/rotateList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/061-RotateList/rotateList.c.i
+.PHONY : 061-RotateList/rotateList.c.i
+
+061-RotateList/rotateList.s: 061-RotateList/rotateList.c.s
+
+.PHONY : 061-RotateList/rotateList.s
+
+# target to generate assembly for a file
+061-RotateList/rotateList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/061-RotateList/rotateList.c.s
+.PHONY : 061-RotateList/rotateList.c.s
+
+066-PlusOne/plusOne.o: 066-PlusOne/plusOne.c.o
+
+.PHONY : 066-PlusOne/plusOne.o
+
+# target to build an object file
+066-PlusOne/plusOne.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/066-PlusOne/plusOne.c.o
+.PHONY : 066-PlusOne/plusOne.c.o
+
+066-PlusOne/plusOne.i: 066-PlusOne/plusOne.c.i
+
+.PHONY : 066-PlusOne/plusOne.i
+
+# target to preprocess a source file
+066-PlusOne/plusOne.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/066-PlusOne/plusOne.c.i
+.PHONY : 066-PlusOne/plusOne.c.i
+
+066-PlusOne/plusOne.s: 066-PlusOne/plusOne.c.s
+
+.PHONY : 066-PlusOne/plusOne.s
+
+# target to generate assembly for a file
+066-PlusOne/plusOne.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/066-PlusOne/plusOne.c.s
+.PHONY : 066-PlusOne/plusOne.c.s
+
 067-AddBinary/addBinary.o: 067-AddBinary/addBinary.c.o
 
 .PHONY : 067-AddBinary/addBinary.o
@@ -149,6 +473,168 @@ Algorithms/fast:
 067-AddBinary/addBinary.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/067-AddBinary/addBinary.c.s
 .PHONY : 067-AddBinary/addBinary.c.s
+
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.o: 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.o
+
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.o
+
+# target to build an object file
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.o
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.o
+
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.i: 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.i
+
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.i
+
+# target to preprocess a source file
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.i
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.i
+
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.s: 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.s
+
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.s
+
+# target to generate assembly for a file
+082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.s
+.PHONY : 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c.s
+
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.o: 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.o
+
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.o
+
+# target to build an object file
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.o
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.o
+
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.i: 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.i
+
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.i
+
+# target to preprocess a source file
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.i
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.i
+
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.s: 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.s
+
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.s
+
+# target to generate assembly for a file
+083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.s
+.PHONY : 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c.s
+
+086-PartitionList/partitionList.o: 086-PartitionList/partitionList.c.o
+
+.PHONY : 086-PartitionList/partitionList.o
+
+# target to build an object file
+086-PartitionList/partitionList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/086-PartitionList/partitionList.c.o
+.PHONY : 086-PartitionList/partitionList.c.o
+
+086-PartitionList/partitionList.i: 086-PartitionList/partitionList.c.i
+
+.PHONY : 086-PartitionList/partitionList.i
+
+# target to preprocess a source file
+086-PartitionList/partitionList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/086-PartitionList/partitionList.c.i
+.PHONY : 086-PartitionList/partitionList.c.i
+
+086-PartitionList/partitionList.s: 086-PartitionList/partitionList.c.s
+
+.PHONY : 086-PartitionList/partitionList.s
+
+# target to generate assembly for a file
+086-PartitionList/partitionList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/086-PartitionList/partitionList.c.s
+.PHONY : 086-PartitionList/partitionList.c.s
+
+092-ReverseLinkedListII/reverseLinkedListII.o: 092-ReverseLinkedListII/reverseLinkedListII.c.o
+
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.o
+
+# target to build an object file
+092-ReverseLinkedListII/reverseLinkedListII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.c.o
+
+092-ReverseLinkedListII/reverseLinkedListII.i: 092-ReverseLinkedListII/reverseLinkedListII.c.i
+
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.i
+
+# target to preprocess a source file
+092-ReverseLinkedListII/reverseLinkedListII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.i
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.c.i
+
+092-ReverseLinkedListII/reverseLinkedListII.s: 092-ReverseLinkedListII/reverseLinkedListII.c.s
+
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.s
+
+# target to generate assembly for a file
+092-ReverseLinkedListII/reverseLinkedListII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.s
+.PHONY : 092-ReverseLinkedListII/reverseLinkedListII.c.s
+
+112-PathSum/pathSum.o: 112-PathSum/pathSum.c.o
+
+.PHONY : 112-PathSum/pathSum.o
+
+# target to build an object file
+112-PathSum/pathSum.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o
+.PHONY : 112-PathSum/pathSum.c.o
+
+112-PathSum/pathSum.i: 112-PathSum/pathSum.c.i
+
+.PHONY : 112-PathSum/pathSum.i
+
+# target to preprocess a source file
+112-PathSum/pathSum.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.i
+.PHONY : 112-PathSum/pathSum.c.i
+
+112-PathSum/pathSum.s: 112-PathSum/pathSum.c.s
+
+.PHONY : 112-PathSum/pathSum.s
+
+# target to generate assembly for a file
+112-PathSum/pathSum.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.s
+.PHONY : 112-PathSum/pathSum.c.s
+
+113-PathSumII/pathSumII.o: 113-PathSumII/pathSumII.c.o
+
+.PHONY : 113-PathSumII/pathSumII.o
+
+# target to build an object file
+113-PathSumII/pathSumII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o
+.PHONY : 113-PathSumII/pathSumII.c.o
+
+113-PathSumII/pathSumII.i: 113-PathSumII/pathSumII.c.i
+
+.PHONY : 113-PathSumII/pathSumII.i
+
+# target to preprocess a source file
+113-PathSumII/pathSumII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.i
+.PHONY : 113-PathSumII/pathSumII.c.i
+
+113-PathSumII/pathSumII.s: 113-PathSumII/pathSumII.c.s
+
+.PHONY : 113-PathSumII/pathSumII.s
+
+# target to generate assembly for a file
+113-PathSumII/pathSumII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.s
+.PHONY : 113-PathSumII/pathSumII.c.s
 
 125-ValidPalindrome/validPalindrome.o: 125-ValidPalindrome/validPalindrome.c.o
 
@@ -258,6 +744,276 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.s
 .PHONY : 141-LinkedListCycle/linkedListCycle.c.s
 
+142-LinkedListCycleII/linkedListCycleII.o: 142-LinkedListCycleII/linkedListCycleII.c.o
+
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.o
+
+# target to build an object file
+142-LinkedListCycleII/linkedListCycleII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.o
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.c.o
+
+142-LinkedListCycleII/linkedListCycleII.i: 142-LinkedListCycleII/linkedListCycleII.c.i
+
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.i
+
+# target to preprocess a source file
+142-LinkedListCycleII/linkedListCycleII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.i
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.c.i
+
+142-LinkedListCycleII/linkedListCycleII.s: 142-LinkedListCycleII/linkedListCycleII.c.s
+
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.s
+
+# target to generate assembly for a file
+142-LinkedListCycleII/linkedListCycleII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.s
+.PHONY : 142-LinkedListCycleII/linkedListCycleII.c.s
+
+147-InsertionSortList/insertionSortList.o: 147-InsertionSortList/insertionSortList.c.o
+
+.PHONY : 147-InsertionSortList/insertionSortList.o
+
+# target to build an object file
+147-InsertionSortList/insertionSortList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.o
+.PHONY : 147-InsertionSortList/insertionSortList.c.o
+
+147-InsertionSortList/insertionSortList.i: 147-InsertionSortList/insertionSortList.c.i
+
+.PHONY : 147-InsertionSortList/insertionSortList.i
+
+# target to preprocess a source file
+147-InsertionSortList/insertionSortList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.i
+.PHONY : 147-InsertionSortList/insertionSortList.c.i
+
+147-InsertionSortList/insertionSortList.s: 147-InsertionSortList/insertionSortList.c.s
+
+.PHONY : 147-InsertionSortList/insertionSortList.s
+
+# target to generate assembly for a file
+147-InsertionSortList/insertionSortList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.s
+.PHONY : 147-InsertionSortList/insertionSortList.c.s
+
+148-SortList/sortList.o: 148-SortList/sortList.c.o
+
+.PHONY : 148-SortList/sortList.o
+
+# target to build an object file
+148-SortList/sortList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/148-SortList/sortList.c.o
+.PHONY : 148-SortList/sortList.c.o
+
+148-SortList/sortList.i: 148-SortList/sortList.c.i
+
+.PHONY : 148-SortList/sortList.i
+
+# target to preprocess a source file
+148-SortList/sortList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/148-SortList/sortList.c.i
+.PHONY : 148-SortList/sortList.c.i
+
+148-SortList/sortList.s: 148-SortList/sortList.c.s
+
+.PHONY : 148-SortList/sortList.s
+
+# target to generate assembly for a file
+148-SortList/sortList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/148-SortList/sortList.c.s
+.PHONY : 148-SortList/sortList.c.s
+
+151-ReverseWordsinaString/reverseWordsinaString.o: 151-ReverseWordsinaString/reverseWordsinaString.c.o
+
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.o
+
+# target to build an object file
+151-ReverseWordsinaString/reverseWordsinaString.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/151-ReverseWordsinaString/reverseWordsinaString.c.o
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.c.o
+
+151-ReverseWordsinaString/reverseWordsinaString.i: 151-ReverseWordsinaString/reverseWordsinaString.c.i
+
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.i
+
+# target to preprocess a source file
+151-ReverseWordsinaString/reverseWordsinaString.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/151-ReverseWordsinaString/reverseWordsinaString.c.i
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.c.i
+
+151-ReverseWordsinaString/reverseWordsinaString.s: 151-ReverseWordsinaString/reverseWordsinaString.c.s
+
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.s
+
+# target to generate assembly for a file
+151-ReverseWordsinaString/reverseWordsinaString.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/151-ReverseWordsinaString/reverseWordsinaString.c.s
+.PHONY : 151-ReverseWordsinaString/reverseWordsinaString.c.s
+
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.o: 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o
+
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.o
+
+# target to build an object file
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o
+
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.i: 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.i
+
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.i
+
+# target to preprocess a source file
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.i
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.i
+
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.s: 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s
+
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.s
+
+# target to generate assembly for a file
+160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s
+.PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s
+
+203-RemoveLinkedListElements/removeLinkedListElements.o: 203-RemoveLinkedListElements/removeLinkedListElements.c.o
+
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.o
+
+# target to build an object file
+203-RemoveLinkedListElements/removeLinkedListElements.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/203-RemoveLinkedListElements/removeLinkedListElements.c.o
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.c.o
+
+203-RemoveLinkedListElements/removeLinkedListElements.i: 203-RemoveLinkedListElements/removeLinkedListElements.c.i
+
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.i
+
+# target to preprocess a source file
+203-RemoveLinkedListElements/removeLinkedListElements.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/203-RemoveLinkedListElements/removeLinkedListElements.c.i
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.c.i
+
+203-RemoveLinkedListElements/removeLinkedListElements.s: 203-RemoveLinkedListElements/removeLinkedListElements.c.s
+
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.s
+
+# target to generate assembly for a file
+203-RemoveLinkedListElements/removeLinkedListElements.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/203-RemoveLinkedListElements/removeLinkedListElements.c.s
+.PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.c.s
+
+206-ReverseLinkedList/reverseLinkedList.o: 206-ReverseLinkedList/reverseLinkedList.c.o
+
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.o
+
+# target to build an object file
+206-ReverseLinkedList/reverseLinkedList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.o
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.c.o
+
+206-ReverseLinkedList/reverseLinkedList.i: 206-ReverseLinkedList/reverseLinkedList.c.i
+
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.i
+
+# target to preprocess a source file
+206-ReverseLinkedList/reverseLinkedList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.i
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.c.i
+
+206-ReverseLinkedList/reverseLinkedList.s: 206-ReverseLinkedList/reverseLinkedList.c.s
+
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.s
+
+# target to generate assembly for a file
+206-ReverseLinkedList/reverseLinkedList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.s
+.PHONY : 206-ReverseLinkedList/reverseLinkedList.c.s
+
+226-InvertBinaryTree/invertBinaryTree.o: 226-InvertBinaryTree/invertBinaryTree.c.o
+
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.o
+
+# target to build an object file
+226-InvertBinaryTree/invertBinaryTree.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.o
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.c.o
+
+226-InvertBinaryTree/invertBinaryTree.i: 226-InvertBinaryTree/invertBinaryTree.c.i
+
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.i
+
+# target to preprocess a source file
+226-InvertBinaryTree/invertBinaryTree.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.i
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.c.i
+
+226-InvertBinaryTree/invertBinaryTree.s: 226-InvertBinaryTree/invertBinaryTree.c.s
+
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.s
+
+# target to generate assembly for a file
+226-InvertBinaryTree/invertBinaryTree.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.s
+.PHONY : 226-InvertBinaryTree/invertBinaryTree.c.s
+
+234-PalindromeLinkedList/palindromeLinkedList.o: 234-PalindromeLinkedList/palindromeLinkedList.c.o
+
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.o
+
+# target to build an object file
+234-PalindromeLinkedList/palindromeLinkedList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/234-PalindromeLinkedList/palindromeLinkedList.c.o
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.c.o
+
+234-PalindromeLinkedList/palindromeLinkedList.i: 234-PalindromeLinkedList/palindromeLinkedList.c.i
+
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.i
+
+# target to preprocess a source file
+234-PalindromeLinkedList/palindromeLinkedList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/234-PalindromeLinkedList/palindromeLinkedList.c.i
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.c.i
+
+234-PalindromeLinkedList/palindromeLinkedList.s: 234-PalindromeLinkedList/palindromeLinkedList.c.s
+
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.s
+
+# target to generate assembly for a file
+234-PalindromeLinkedList/palindromeLinkedList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/234-PalindromeLinkedList/palindromeLinkedList.c.s
+.PHONY : 234-PalindromeLinkedList/palindromeLinkedList.c.s
+
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.o: 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.o
+
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.o
+
+# target to build an object file
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.o
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.o
+
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.i: 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.i
+
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.i
+
+# target to preprocess a source file
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.i
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.i
+
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.s: 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.s
+
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.s
+
+# target to generate assembly for a file
+237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.s
+.PHONY : 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c.s
+
 316-RemoveDuplicateLetters/removeDuplicateLetters.o: 316-RemoveDuplicateLetters/removeDuplicateLetters.c.o
 
 .PHONY : 316-RemoveDuplicateLetters/removeDuplicateLetters.o
@@ -312,6 +1068,87 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.s
 .PHONY : 344-ReverseString/reverseString.c.s
 
+345-ReverseVowelsofAString/reverseVowelsofAString.o: 345-ReverseVowelsofAString/reverseVowelsofAString.c.o
+
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.o
+
+# target to build an object file
+345-ReverseVowelsofAString/reverseVowelsofAString.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.o
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.c.o
+
+345-ReverseVowelsofAString/reverseVowelsofAString.i: 345-ReverseVowelsofAString/reverseVowelsofAString.c.i
+
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.i
+
+# target to preprocess a source file
+345-ReverseVowelsofAString/reverseVowelsofAString.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.i
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.c.i
+
+345-ReverseVowelsofAString/reverseVowelsofAString.s: 345-ReverseVowelsofAString/reverseVowelsofAString.c.s
+
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.s
+
+# target to generate assembly for a file
+345-ReverseVowelsofAString/reverseVowelsofAString.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.s
+.PHONY : 345-ReverseVowelsofAString/reverseVowelsofAString.c.s
+
+415-AddStrings/addStrings.o: 415-AddStrings/addStrings.c.o
+
+.PHONY : 415-AddStrings/addStrings.o
+
+# target to build an object file
+415-AddStrings/addStrings.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o
+.PHONY : 415-AddStrings/addStrings.c.o
+
+415-AddStrings/addStrings.i: 415-AddStrings/addStrings.c.i
+
+.PHONY : 415-AddStrings/addStrings.i
+
+# target to preprocess a source file
+415-AddStrings/addStrings.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.i
+.PHONY : 415-AddStrings/addStrings.c.i
+
+415-AddStrings/addStrings.s: 415-AddStrings/addStrings.c.s
+
+.PHONY : 415-AddStrings/addStrings.s
+
+# target to generate assembly for a file
+415-AddStrings/addStrings.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.s
+.PHONY : 415-AddStrings/addStrings.c.s
+
+468-ValidateIPAddress/validateIPAddress.o: 468-ValidateIPAddress/validateIPAddress.c.o
+
+.PHONY : 468-ValidateIPAddress/validateIPAddress.o
+
+# target to build an object file
+468-ValidateIPAddress/validateIPAddress.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o
+.PHONY : 468-ValidateIPAddress/validateIPAddress.c.o
+
+468-ValidateIPAddress/validateIPAddress.i: 468-ValidateIPAddress/validateIPAddress.c.i
+
+.PHONY : 468-ValidateIPAddress/validateIPAddress.i
+
+# target to preprocess a source file
+468-ValidateIPAddress/validateIPAddress.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.i
+.PHONY : 468-ValidateIPAddress/validateIPAddress.c.i
+
+468-ValidateIPAddress/validateIPAddress.s: 468-ValidateIPAddress/validateIPAddress.c.s
+
+.PHONY : 468-ValidateIPAddress/validateIPAddress.s
+
+# target to generate assembly for a file
+468-ValidateIPAddress/validateIPAddress.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.s
+.PHONY : 468-ValidateIPAddress/validateIPAddress.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -348,9 +1185,63 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithms"
 	@echo "... edit_cache"
+	@echo "... 002-AddTwoNumbers/addTwoNumber.o"
+	@echo "... 002-AddTwoNumbers/addTwoNumber.i"
+	@echo "... 002-AddTwoNumbers/addTwoNumber.s"
+	@echo "... 013-RomantoInteger/romantoInteger.o"
+	@echo "... 013-RomantoInteger/romantoInteger.i"
+	@echo "... 013-RomantoInteger/romantoInteger.s"
+	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.o"
+	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.i"
+	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.s"
+	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.o"
+	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.i"
+	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.s"
+	@echo "... 020-ValidParentheses/validParentheses.o"
+	@echo "... 020-ValidParentheses/validParentheses.i"
+	@echo "... 020-ValidParentheses/validParentheses.s"
+	@echo "... 021-MergeTwoSortedLists/mergeTwoSortedLists.o"
+	@echo "... 021-MergeTwoSortedLists/mergeTwoSortedLists.i"
+	@echo "... 021-MergeTwoSortedLists/mergeTwoSortedLists.s"
+	@echo "... 024-SwapNodesinPairs/swapNodesinPairs.o"
+	@echo "... 024-SwapNodesinPairs/swapNodesinPairs.i"
+	@echo "... 024-SwapNodesinPairs/swapNodesinPairs.s"
+	@echo "... 027-RemoveElement/removeElement.o"
+	@echo "... 027-RemoveElement/removeElement.i"
+	@echo "... 027-RemoveElement/removeElement.s"
+	@echo "... 028-ImplementstrStr/implementstrStr.o"
+	@echo "... 028-ImplementstrStr/implementstrStr.i"
+	@echo "... 028-ImplementstrStr/implementstrStr.s"
+	@echo "... 058-LengthofLastWord/lengthofLastWord.o"
+	@echo "... 058-LengthofLastWord/lengthofLastWord.i"
+	@echo "... 058-LengthofLastWord/lengthofLastWord.s"
+	@echo "... 061-RotateList/rotateList.o"
+	@echo "... 061-RotateList/rotateList.i"
+	@echo "... 061-RotateList/rotateList.s"
+	@echo "... 066-PlusOne/plusOne.o"
+	@echo "... 066-PlusOne/plusOne.i"
+	@echo "... 066-PlusOne/plusOne.s"
 	@echo "... 067-AddBinary/addBinary.o"
 	@echo "... 067-AddBinary/addBinary.i"
 	@echo "... 067-AddBinary/addBinary.s"
+	@echo "... 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.o"
+	@echo "... 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.i"
+	@echo "... 082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.s"
+	@echo "... 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.o"
+	@echo "... 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.i"
+	@echo "... 083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.s"
+	@echo "... 086-PartitionList/partitionList.o"
+	@echo "... 086-PartitionList/partitionList.i"
+	@echo "... 086-PartitionList/partitionList.s"
+	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.o"
+	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.i"
+	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.s"
+	@echo "... 112-PathSum/pathSum.o"
+	@echo "... 112-PathSum/pathSum.i"
+	@echo "... 112-PathSum/pathSum.s"
+	@echo "... 113-PathSumII/pathSumII.o"
+	@echo "... 113-PathSumII/pathSumII.i"
+	@echo "... 113-PathSumII/pathSumII.s"
 	@echo "... 125-ValidPalindrome/validPalindrome.o"
 	@echo "... 125-ValidPalindrome/validPalindrome.i"
 	@echo "... 125-ValidPalindrome/validPalindrome.s"
@@ -363,12 +1254,51 @@ help:
 	@echo "... 141-LinkedListCycle/linkedListCycle.o"
 	@echo "... 141-LinkedListCycle/linkedListCycle.i"
 	@echo "... 141-LinkedListCycle/linkedListCycle.s"
+	@echo "... 142-LinkedListCycleII/linkedListCycleII.o"
+	@echo "... 142-LinkedListCycleII/linkedListCycleII.i"
+	@echo "... 142-LinkedListCycleII/linkedListCycleII.s"
+	@echo "... 147-InsertionSortList/insertionSortList.o"
+	@echo "... 147-InsertionSortList/insertionSortList.i"
+	@echo "... 147-InsertionSortList/insertionSortList.s"
+	@echo "... 148-SortList/sortList.o"
+	@echo "... 148-SortList/sortList.i"
+	@echo "... 148-SortList/sortList.s"
+	@echo "... 151-ReverseWordsinaString/reverseWordsinaString.o"
+	@echo "... 151-ReverseWordsinaString/reverseWordsinaString.i"
+	@echo "... 151-ReverseWordsinaString/reverseWordsinaString.s"
+	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.o"
+	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.i"
+	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.s"
+	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.o"
+	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.i"
+	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.s"
+	@echo "... 206-ReverseLinkedList/reverseLinkedList.o"
+	@echo "... 206-ReverseLinkedList/reverseLinkedList.i"
+	@echo "... 206-ReverseLinkedList/reverseLinkedList.s"
+	@echo "... 226-InvertBinaryTree/invertBinaryTree.o"
+	@echo "... 226-InvertBinaryTree/invertBinaryTree.i"
+	@echo "... 226-InvertBinaryTree/invertBinaryTree.s"
+	@echo "... 234-PalindromeLinkedList/palindromeLinkedList.o"
+	@echo "... 234-PalindromeLinkedList/palindromeLinkedList.i"
+	@echo "... 234-PalindromeLinkedList/palindromeLinkedList.s"
+	@echo "... 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.o"
+	@echo "... 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.i"
+	@echo "... 237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.s"
 	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.o"
 	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.i"
 	@echo "... 316-RemoveDuplicateLetters/removeDuplicateLetters.s"
 	@echo "... 344-ReverseString/reverseString.o"
 	@echo "... 344-ReverseString/reverseString.i"
 	@echo "... 344-ReverseString/reverseString.s"
+	@echo "... 345-ReverseVowelsofAString/reverseVowelsofAString.o"
+	@echo "... 345-ReverseVowelsofAString/reverseVowelsofAString.i"
+	@echo "... 345-ReverseVowelsofAString/reverseVowelsofAString.s"
+	@echo "... 415-AddStrings/addStrings.o"
+	@echo "... 415-AddStrings/addStrings.i"
+	@echo "... 415-AddStrings/addStrings.s"
+	@echo "... 468-ValidateIPAddress/validateIPAddress.o"
+	@echo "... 468-ValidateIPAddress/validateIPAddress.i"
+	@echo "... 468-ValidateIPAddress/validateIPAddress.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

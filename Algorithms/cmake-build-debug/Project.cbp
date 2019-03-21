@@ -78,10 +78,118 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/002-AddTwoNumbers/addTwoNumber.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/002-AddTwoNumbers/addTwoNumber.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/013-RomantoInteger/romantoInteger.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/013-RomantoInteger/romantoInteger.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/014-LongestCommonPrefix/longestCommonPrefix.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/014-LongestCommonPrefix/longestCommonPrefix.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/020-ValidParentheses/validParentheses.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/020-ValidParentheses/validParentheses.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/021-MergeTwoSortedLists/mergeTwoSortedLists.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/021-MergeTwoSortedLists/mergeTwoSortedLists.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/024-SwapNodesinPairs/swapNodesinPairs.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/024-SwapNodesinPairs/swapNodesinPairs.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/027-RemoveElement/removeElement.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/027-RemoveElement/removeElement.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/028-ImplementstrStr/implementstrStr.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/028-ImplementstrStr/implementstrStr.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/058-LengthofLastWord/lengthofLastWord.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/058-LengthofLastWord/lengthofLastWord.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/061-RotateList/rotateList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/061-RotateList/rotateList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/066-PlusOne/plusOne.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/066-PlusOne/plusOne.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/067-AddBinary/addBinary.c">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/067-AddBinary/addBinary.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/083-RemoveDuplicatesfromSortedList/removeDuplicatesfromSortedList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/086-PartitionList/partitionList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/086-PartitionList/partitionList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/092-ReverseLinkedListII/reverseLinkedListII.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/092-ReverseLinkedListII/reverseLinkedListII.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/113-PathSumII/pathSumII.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/113-PathSumII/pathSumII.h">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c">
@@ -108,6 +216,66 @@
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.h">
 			<Option target="Algorithms"/>
 		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/142-LinkedListCycleII/linkedListCycleII.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/142-LinkedListCycleII/linkedListCycleII.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/147-InsertionSortList/insertionSortList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/147-InsertionSortList/insertionSortList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/148-SortList/sortList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/148-SortList/sortList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/151-ReverseWordsinaString/reverseWordsinaString.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/151-ReverseWordsinaString/reverseWordsinaString.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/203-RemoveLinkedListElements/removeLinkedListElements.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/203-RemoveLinkedListElements/removeLinkedListElements.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/206-ReverseLinkedList/reverseLinkedList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/206-ReverseLinkedList/reverseLinkedList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/226-InvertBinaryTree/invertBinaryTree.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/226-InvertBinaryTree/invertBinaryTree.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/234-PalindromeLinkedList/palindromeLinkedList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/234-PalindromeLinkedList/palindromeLinkedList.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/316-RemoveDuplicateLetters/removeDuplicateLetters.c">
 			<Option target="Algorithms"/>
 		</Unit>
@@ -118,6 +286,24 @@
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/345-ReverseVowelsofAString/reverseVowelsofAString.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/345-ReverseVowelsofAString/reverseVowelsofAString.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.h">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/main.c">

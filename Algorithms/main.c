@@ -35,6 +35,9 @@
 #include "415-AddStrings/addStrings.h"
 #include "020-ValidParentheses/validParentheses.h"
 #include "066-PlusOne/plusOne.h"
+#include "112-PathSum/pathSum.h"
+#include "226-InvertBinaryTree/invertBinaryTree.h"
+#include "113-PathSumII/pathSumII.h"
 
 
 
@@ -74,7 +77,7 @@ int main(int argc, char **argv)
     //rotateRight_main();
 
     //066
-    plusOne_main();
+    //plusOne_main();
 
     //67.
     //addBinary_main();
@@ -90,6 +93,12 @@ int main(int argc, char **argv)
 
     //92
     //reverseBetween_main();
+
+    //112
+    //hasPathSum_main();
+
+    //113
+    pathSum2_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -123,6 +132,9 @@ int main(int argc, char **argv)
 
     //206.
     //reverseList_main();
+
+    //226
+    //invertTree_main();
 
     //234.
     //isPalindrome2_main();
