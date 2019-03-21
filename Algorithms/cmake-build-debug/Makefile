@@ -1122,6 +1122,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.s
 .PHONY : 415-AddStrings/addStrings.c.s
 
+437-PathSumIII/pathSumIII.o: 437-PathSumIII/pathSumIII.c.o
+
+.PHONY : 437-PathSumIII/pathSumIII.o
+
+# target to build an object file
+437-PathSumIII/pathSumIII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o
+.PHONY : 437-PathSumIII/pathSumIII.c.o
+
+437-PathSumIII/pathSumIII.i: 437-PathSumIII/pathSumIII.c.i
+
+.PHONY : 437-PathSumIII/pathSumIII.i
+
+# target to preprocess a source file
+437-PathSumIII/pathSumIII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.i
+.PHONY : 437-PathSumIII/pathSumIII.c.i
+
+437-PathSumIII/pathSumIII.s: 437-PathSumIII/pathSumIII.c.s
+
+.PHONY : 437-PathSumIII/pathSumIII.s
+
+# target to generate assembly for a file
+437-PathSumIII/pathSumIII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.s
+.PHONY : 437-PathSumIII/pathSumIII.c.s
+
 468-ValidateIPAddress/validateIPAddress.o: 468-ValidateIPAddress/validateIPAddress.c.o
 
 .PHONY : 468-ValidateIPAddress/validateIPAddress.o
@@ -1296,6 +1323,9 @@ help:
 	@echo "... 415-AddStrings/addStrings.o"
 	@echo "... 415-AddStrings/addStrings.i"
 	@echo "... 415-AddStrings/addStrings.s"
+	@echo "... 437-PathSumIII/pathSumIII.o"
+	@echo "... 437-PathSumIII/pathSumIII.i"
+	@echo "... 437-PathSumIII/pathSumIII.s"
 	@echo "... 468-ValidateIPAddress/validateIPAddress.o"
 	@echo "... 468-ValidateIPAddress/validateIPAddress.i"
 	@echo "... 468-ValidateIPAddress/validateIPAddress.s"

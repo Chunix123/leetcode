@@ -38,7 +38,7 @@
 #include "112-PathSum/pathSum.h"
 #include "226-InvertBinaryTree/invertBinaryTree.h"
 #include "113-PathSumII/pathSumII.h"
-
+#include "437-PathSumIII/pathSumIII.h"
 
 
 
@@ -98,7 +98,7 @@ int main(int argc, char **argv)
     //hasPathSum_main();
 
     //113
-    pathSum2_main();
+    //pathSum2_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -153,6 +153,9 @@ int main(int argc, char **argv)
 
     //415
     //addStrings_main();
+
+    //437
+    pathSum3_main();
 
     //468
     //validIPAddress_main();

@@ -41,6 +41,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/345-ReverseVowelsofAString/reverseVowelsofAString.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/main.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/main.c.o"
   )

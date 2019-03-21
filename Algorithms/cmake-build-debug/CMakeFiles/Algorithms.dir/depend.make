@@ -112,6 +112,9 @@ CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.o:
 CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o: ../415-AddStrings/addStrings.c
 CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o: ../415-AddStrings/addStrings.h
 
+CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o: ../437-PathSumIII/pathSumIII.c
+CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o: ../437-PathSumIII/pathSumIII.h
+
 CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o: ../468-ValidateIPAddress/validateIPAddress.c
 CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o: ../468-ValidateIPAddress/validateIPAddress.h
 
@@ -149,6 +152,7 @@ CMakeFiles/Algorithms.dir/main.c.o: ../316-RemoveDuplicateLetters/removeDuplicat
 CMakeFiles/Algorithms.dir/main.c.o: ../344-ReverseString/reverseString.h
 CMakeFiles/Algorithms.dir/main.c.o: ../345-ReverseVowelsofAString/reverseVowelsofAString.h
 CMakeFiles/Algorithms.dir/main.c.o: ../415-AddStrings/addStrings.h
+CMakeFiles/Algorithms.dir/main.c.o: ../437-PathSumIII/pathSumIII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../468-ValidateIPAddress/validateIPAddress.h
 CMakeFiles/Algorithms.dir/main.c.o: ../main.c
 

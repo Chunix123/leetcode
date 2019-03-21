@@ -300,6 +300,12 @@
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.h">
 			<Option target="Algorithms"/>
 		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c">
 			<Option target="Algorithms"/>
 		</Unit>

@@ -38,6 +38,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o"
   "CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.o"
   "CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o"
+  "CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )
