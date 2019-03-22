@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/23/19.
+//
+
+#ifndef PROJECT_BINARYTREEINORDERTRAVERSAL_H
+#define PROJECT_BINARYTREEINORDERTRAVERSAL_H
+
+int inorderTraversal_main();
+
+#endif //PROJECT_BINARYTREEINORDERTRAVERSAL_H

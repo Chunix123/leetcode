@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.c" "/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.o"
+  "/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c" "/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

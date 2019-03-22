@@ -48,10 +48,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/Algorithms
+CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/Algorithms
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -582,6 +582,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.s
 .PHONY : 092-ReverseLinkedListII/reverseLinkedListII.c.s
 
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.o: 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o
+
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.o
+
+# target to build an object file
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o
+
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.i: 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.i
+
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.i
+
+# target to preprocess a source file
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.i
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.i
+
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.s: 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s
+
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.s
+
+# target to generate assembly for a file
+094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s
+.PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s
+
 112-PathSum/pathSum.o: 112-PathSum/pathSum.c.o
 
 .PHONY : 112-PathSum/pathSum.o
@@ -797,6 +824,33 @@ Algorithms/fast:
 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s
 .PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s
+
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.o: 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o
+
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.o
+
+# target to build an object file
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o
+
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.i: 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.i
+
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.i
+
+# target to preprocess a source file
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.i
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.i
+
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.s: 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s
+
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.s
+
+# target to generate assembly for a file
+145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s
+.PHONY : 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s
 
 147-InsertionSortList/insertionSortList.o: 147-InsertionSortList/insertionSortList.c.o
 
@@ -1290,6 +1344,9 @@ help:
 	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.o"
 	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.i"
 	@echo "... 092-ReverseLinkedListII/reverseLinkedListII.s"
+	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.o"
+	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.i"
+	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.s"
 	@echo "... 112-PathSum/pathSum.o"
 	@echo "... 112-PathSum/pathSum.i"
 	@echo "... 112-PathSum/pathSum.s"
@@ -1314,6 +1371,9 @@ help:
 	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.o"
 	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.i"
 	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.s"
+	@echo "... 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.o"
+	@echo "... 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.i"
+	@echo "... 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.s"
 	@echo "... 147-InsertionSortList/insertionSortList.o"
 	@echo "... 147-InsertionSortList/insertionSortList.i"
 	@echo "... 147-InsertionSortList/insertionSortList.s"

@@ -52,6 +52,9 @@ CMakeFiles/Algorithms.dir/086-PartitionList/partitionList.c.o: ../086-PartitionL
 CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o: ../092-ReverseLinkedListII/reverseLinkedListII.c
 CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o: ../092-ReverseLinkedListII/reverseLinkedListII.h
 
+CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c
+CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
+
 CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o: ../112-PathSum/pathSum.c
 CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o: ../112-PathSum/pathSum.h
 
@@ -75,6 +78,9 @@ CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.o: ../142-Li
 
 CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o: ../144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c
 CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o: ../144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h
+
+CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o: ../145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c
+CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o: ../145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
 
 CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.o: ../147-InsertionSortList/insertionSortList.c
 CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.o: ../147-InsertionSortList/insertionSortList.h
@@ -135,6 +141,7 @@ CMakeFiles/Algorithms.dir/main.c.o: ../067-AddBinary/addBinary.h
 CMakeFiles/Algorithms.dir/main.c.o: ../082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../086-PartitionList/partitionList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../092-ReverseLinkedListII/reverseLinkedListII.h
+CMakeFiles/Algorithms.dir/main.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
 CMakeFiles/Algorithms.dir/main.c.o: ../112-PathSum/pathSum.h
 CMakeFiles/Algorithms.dir/main.c.o: ../113-PathSumII/pathSumII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../125-ValidPalindrome/validPalindrome.h
@@ -143,6 +150,7 @@ CMakeFiles/Algorithms.dir/main.c.o: ../137-SingleNumber2/singleNumber2.h
 CMakeFiles/Algorithms.dir/main.c.o: ../141-LinkedListCycle/linkedListCycle.h
 CMakeFiles/Algorithms.dir/main.c.o: ../142-LinkedListCycleII/linkedListCycleII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h
+CMakeFiles/Algorithms.dir/main.c.o: ../145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
 CMakeFiles/Algorithms.dir/main.c.o: ../147-InsertionSortList/insertionSortList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../148-SortList/sortList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../151-ReverseWordsinaString/reverseWordsinaString.h

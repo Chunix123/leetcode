@@ -12,25 +12,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/BinaryTree/binaryTree.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/BinaryTree/binaryTree.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +69,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1405">
-              <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+            <state relative-caret-position="511">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -54,23 +81,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="555">
+              <caret line="155" selection-start-line="155" selection-end-line="155" />
               <folding>
-                <element signature="e#37#77#0" expanded="true" />
+                <element signature="e#37#78#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h">
+        <entry file="file://$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="154">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -88,7 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/141-LinkedListCycle/linkedListCycle.h" />
         <option value="$PROJECT_DIR$/137-SingleNumber2/singleNumber2.h" />
         <option value="$PROJECT_DIR$/136-SingleNumber/singleNumber.h" />
@@ -134,16 +160,20 @@
         <option value="$PROJECT_DIR$/437-PathSumIII/pathSumIII.h" />
         <option value="$PROJECT_DIR$/437-PathSumIII/pathSumIII.c" />
         <option value="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c" />
+        <option value="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h" />
+        <option value="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c" />
+        <option value="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c" />
+        <option value="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="533" />
-    <option name="y" value="27" />
+    <option name="x" value="537" />
+    <option name="y" value="37" />
     <option name="width" value="1383" />
-    <option name="height" value="1053" />
+    <option name="height" value="1162" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -193,6 +223,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="094-BinaryTreeInorderTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="112-PathSum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -224,6 +259,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="144-BinaryTreePreorderTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="145-BinaryTreePostorderTraversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -346,17 +386,19 @@
       <workItem from="1553242302915" duration="34000" />
       <workItem from="1553244353676" duration="53000" />
       <workItem from="1553248482273" duration="2294000" />
+      <workItem from="1553255753597" duration="29000" />
+      <workItem from="1553271231356" duration="456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52991000" />
+    <option name="totallyTimeSpent" value="53476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="533" y="27" width="1383" height="1053" extended-state="0" />
+    <frame x="537" y="37" width="1383" height="1162" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2270351" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23587039" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -370,7 +412,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.24004306" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.23906408" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -386,20 +428,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/141-LinkedListCycle/linkedListCycle.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/125-ValidPalindrome/validPalindrome.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/125-ValidPalindrome/validPalindrome.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="685">
@@ -747,27 +775,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="154">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1405">
-          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        <state relative-caret-position="154">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
           <folding>
-            <element signature="e#35#53#0" expanded="true" />
+            <element signature="e#37#76#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="131">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
           <folding>
-            <element signature="e#37#77#0" expanded="true" />
+            <element signature="e#37#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
           </folding>
         </state>
       </provider>

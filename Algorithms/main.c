@@ -40,6 +40,10 @@
 #include "113-PathSumII/pathSumII.h"
 #include "437-PathSumIII/pathSumIII.h"
 #include "144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h"
+#include "094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h"
+#include "145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h"
+
+
 
 
 int main(int argc, char **argv)
@@ -94,6 +98,9 @@ int main(int argc, char **argv)
     //92
     //reverseBetween_main();
 
+    //94
+    //inorderTraversal_main();
+
     //112
     //hasPathSum_main();
 
@@ -116,7 +123,10 @@ int main(int argc, char **argv)
     //detectCycle_main();
 
     //144.
-    preorderTraversal_main();
+    //preorderTraversal_main();
+
+    //145
+    postorderTraversal_main();
 
     //147.
     //insertionSortList2_main();

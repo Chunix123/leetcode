@@ -40,6 +40,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o"
   "CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o"
   "CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o"
+  "CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o"
+  "CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )

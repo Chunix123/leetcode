@@ -1,4 +1,4 @@
-# Install script for directory: /home/zyc/Documents/leetcode/DataStructure/BinaryTree
+# Install script for directory: /home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

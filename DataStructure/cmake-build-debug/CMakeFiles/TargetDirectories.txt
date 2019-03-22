@@ -1,6 +1,6 @@
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/rebuild_cache.dir
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir
-/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/edit_cache.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/rebuild_cache.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir
+/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/edit_cache.dir
