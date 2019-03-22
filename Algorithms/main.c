@@ -39,7 +39,7 @@
 #include "226-InvertBinaryTree/invertBinaryTree.h"
 #include "113-PathSumII/pathSumII.h"
 #include "437-PathSumIII/pathSumIII.h"
-
+#include "144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h"
 
 
 int main(int argc, char **argv)
@@ -115,6 +115,9 @@ int main(int argc, char **argv)
     //142.
     //detectCycle_main();
 
+    //144.
+    preorderTraversal_main();
+
     //147.
     //insertionSortList2_main();
 
@@ -155,7 +158,7 @@ int main(int argc, char **argv)
     //addStrings_main();
 
     //437
-    pathSum3_main();
+    //pathSum3_main();
 
     //468
     //validIPAddress_main();

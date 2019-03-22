@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/zyc/Documents/leetcode/Algorithms/137-SingleNumber2/singleNumber2.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/137-SingleNumber2/singleNumber2.c.o"
   "/home/zyc/Documents/leetcode/Algorithms/141-LinkedListCycle/linkedListCycle.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/141-LinkedListCycle/linkedListCycle.c.o"
   "/home/zyc/Documents/leetcode/Algorithms/142-LinkedListCycleII/linkedListCycleII.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.o"
+  "/home/zyc/Documents/leetcode/Algorithms/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o"
   "/home/zyc/Documents/leetcode/Algorithms/147-InsertionSortList/insertionSortList.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/147-InsertionSortList/insertionSortList.c.o"
   "/home/zyc/Documents/leetcode/Algorithms/148-SortList/sortList.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/148-SortList/sortList.c.o"
   "/home/zyc/Documents/leetcode/Algorithms/151-ReverseWordsinaString/reverseWordsinaString.c" "/home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/151-ReverseWordsinaString/reverseWordsinaString.c.o"

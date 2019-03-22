@@ -771,6 +771,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/142-LinkedListCycleII/linkedListCycleII.c.s
 .PHONY : 142-LinkedListCycleII/linkedListCycleII.c.s
 
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.o: 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o
+
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.o
+
+# target to build an object file
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o
+
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.i: 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.i
+
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.i
+
+# target to preprocess a source file
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.i
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.i
+
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.s: 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s
+
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.s
+
+# target to generate assembly for a file
+144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s
+.PHONY : 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.s
+
 147-InsertionSortList/insertionSortList.o: 147-InsertionSortList/insertionSortList.c.o
 
 .PHONY : 147-InsertionSortList/insertionSortList.o
@@ -1284,6 +1311,9 @@ help:
 	@echo "... 142-LinkedListCycleII/linkedListCycleII.o"
 	@echo "... 142-LinkedListCycleII/linkedListCycleII.i"
 	@echo "... 142-LinkedListCycleII/linkedListCycleII.s"
+	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.o"
+	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.i"
+	@echo "... 144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.s"
 	@echo "... 147-InsertionSortList/insertionSortList.o"
 	@echo "... 147-InsertionSortList/insertionSortList.i"
 	@echo "... 147-InsertionSortList/insertionSortList.s"
