@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibBinaryTree.a  CMakeFiles/LibBinaryTree.dir/binaryTree.c.o
+/usr/bin/ranlib libLibBinaryTree.a

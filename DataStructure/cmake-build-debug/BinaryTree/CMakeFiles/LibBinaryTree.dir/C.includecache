@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.c
+stdio.h
+-
+binaryTree.h
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.h
+
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.h
+
