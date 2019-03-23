@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/zyc/Documents/Project/leetcode/Algorithms/086-PartitionList/partitionList.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/086-PartitionList/partitionList.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/092-ReverseLinkedListII/reverseLinkedListII.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/113-PathSumII/pathSumII.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o"
@@ -46,6 +47,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/main.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

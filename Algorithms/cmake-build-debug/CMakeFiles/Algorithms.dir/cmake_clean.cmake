@@ -42,6 +42,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o"
   "CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o"
   "CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o"
+  "CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o"
+  "CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )

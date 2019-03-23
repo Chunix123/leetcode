@@ -616,6 +616,32 @@ CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTr
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c -o CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.s
 
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o: ../102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c
+
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c > CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i
+
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c -o CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s
+
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c
+
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c > CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i
+
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c -o CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
+
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/main.c.o" \
@@ -660,7 +686,9 @@ Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o" \
 "CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o" \
 "CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o" \
-"CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o"
+"CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o" \
+"CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o" \
+"CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
 
 # External object files for target Algorithms
 Algorithms_EXTERNAL_OBJECTS =
@@ -708,9 +736,11 @@ Algorithms: CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o
 Algorithms: CMakeFiles/Algorithms.dir/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c.o
 Algorithms: CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o
 Algorithms: CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o
+Algorithms: CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
+Algorithms: CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
 Algorithms: CMakeFiles/Algorithms.dir/build.make
 Algorithms: CMakeFiles/Algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking C executable Algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking C executable Algorithms"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Algorithms.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -609,6 +609,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s
 .PHONY : 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.s
 
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.o: 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
+
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.o
+
+# target to build an object file
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
+
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.i: 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i
+
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.i
+
+# target to preprocess a source file
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.i
+
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.s: 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s
+
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.s
+
+# target to generate assembly for a file
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s
+.PHONY : 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.s
+
 112-PathSum/pathSum.o: 112-PathSum/pathSum.c.o
 
 .PHONY : 112-PathSum/pathSum.o
@@ -1257,6 +1284,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.s
 .PHONY : 468-ValidateIPAddress/validateIPAddress.c.s
 
+572-SubtreeofAnotherTree/subtreeofAnotherTree.o: 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
+
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.o
+
+# target to build an object file
+572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
+
+572-SubtreeofAnotherTree/subtreeofAnotherTree.i: 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i
+
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.i
+
+# target to preprocess a source file
+572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.i
+
+572-SubtreeofAnotherTree/subtreeofAnotherTree.s: 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
+
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.s
+
+# target to generate assembly for a file
+572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
+.PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -1347,6 +1401,9 @@ help:
 	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.o"
 	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.i"
 	@echo "... 094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.s"
+	@echo "... 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.o"
+	@echo "... 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.i"
+	@echo "... 102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.s"
 	@echo "... 112-PathSum/pathSum.o"
 	@echo "... 112-PathSum/pathSum.i"
 	@echo "... 112-PathSum/pathSum.s"
@@ -1419,6 +1476,9 @@ help:
 	@echo "... 468-ValidateIPAddress/validateIPAddress.o"
 	@echo "... 468-ValidateIPAddress/validateIPAddress.i"
 	@echo "... 468-ValidateIPAddress/validateIPAddress.s"
+	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.o"
+	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.i"
+	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -12,11 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/binaryTree.c" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/binaryTree.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DataStructure" beforeDir="false" />
-    </list>
+    <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,19 +47,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTree.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="259" column="17" lean-forward="true" selection-start-line="259" selection-start-column="17" selection-end-line="259" selection-end-column="17" />
+            <state relative-caret-position="435">
+              <caret line="259" column="17" selection-start-line="259" selection-start-column="17" selection-end-line="259" selection-end-column="17" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
-                <element signature="e#369#598#0" />
-                <element signature="e#638#857#0" />
-                <element signature="e#852#1405#0" />
-                <element signature="e#859#1092#0" />
-                <element signature="e#1094#1304#0" />
-                <element signature="e#1853#1879#0" />
-                <element signature="e#1864#2103#0" />
-                <element signature="e#2105#2319#0" />
-                <element signature="e#2883#3454#0" />
               </folding>
             </state>
           </provider>
@@ -182,17 +169,17 @@
       <workItem from="1553244415119" duration="1774000" />
       <workItem from="1553255813172" duration="622000" />
       <workItem from="1553273450543" duration="2619000" />
+      <workItem from="1553331624166" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5737000" />
+    <option name="totallyTimeSpent" value="6055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="387" y="37" width="1533" height="1163" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1943128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19769804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -251,19 +238,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTree.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="259" column="17" lean-forward="true" selection-start-line="259" selection-start-column="17" selection-end-line="259" selection-end-column="17" />
+        <state relative-caret-position="435">
+          <caret line="259" column="17" selection-start-line="259" selection-start-column="17" selection-end-line="259" selection-end-column="17" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />
-            <element signature="e#369#598#0" />
-            <element signature="e#638#857#0" />
-            <element signature="e#852#1405#0" />
-            <element signature="e#859#1092#0" />
-            <element signature="e#1094#1304#0" />
-            <element signature="e#1853#1879#0" />
-            <element signature="e#1864#2103#0" />
-            <element signature="e#2105#2319#0" />
-            <element signature="e#2883#3454#0" />
           </folding>
         </state>
       </provider>

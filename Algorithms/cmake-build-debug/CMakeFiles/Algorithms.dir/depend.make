@@ -55,6 +55,9 @@ CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o: ../09
 CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c
 CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
 
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o: ../102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o: ../102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
+
 CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o: ../112-PathSum/pathSum.c
 CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o: ../112-PathSum/pathSum.h
 
@@ -127,6 +130,9 @@ CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o: ../437-PathSumIII/pathS
 CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o: ../468-ValidateIPAddress/validateIPAddress.c
 CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o: ../468-ValidateIPAddress/validateIPAddress.h
 
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.c
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.h
+
 CMakeFiles/Algorithms.dir/main.c.o: ../013-RomantoInteger/romantoInteger.h
 CMakeFiles/Algorithms.dir/main.c.o: ../014-LongestCommonPrefix/longestCommonPrefix.h
 CMakeFiles/Algorithms.dir/main.c.o: ../019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h
@@ -142,6 +148,7 @@ CMakeFiles/Algorithms.dir/main.c.o: ../082-RemoveDuplicatesfromSortedListII/remo
 CMakeFiles/Algorithms.dir/main.c.o: ../086-PartitionList/partitionList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../092-ReverseLinkedListII/reverseLinkedListII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
+CMakeFiles/Algorithms.dir/main.c.o: ../102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
 CMakeFiles/Algorithms.dir/main.c.o: ../112-PathSum/pathSum.h
 CMakeFiles/Algorithms.dir/main.c.o: ../113-PathSumII/pathSumII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../125-ValidPalindrome/validPalindrome.h
@@ -166,5 +173,6 @@ CMakeFiles/Algorithms.dir/main.c.o: ../345-ReverseVowelsofAString/reverseVowelso
 CMakeFiles/Algorithms.dir/main.c.o: ../415-AddStrings/addStrings.h
 CMakeFiles/Algorithms.dir/main.c.o: ../437-PathSumIII/pathSumIII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../468-ValidateIPAddress/validateIPAddress.h
+CMakeFiles/Algorithms.dir/main.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.h
 CMakeFiles/Algorithms.dir/main.c.o: ../main.c
 

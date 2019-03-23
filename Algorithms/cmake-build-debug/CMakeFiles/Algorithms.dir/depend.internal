@@ -55,6 +55,9 @@ CMakeFiles/Algorithms.dir/092-ReverseLinkedListII/reverseLinkedListII.c.o
 CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c
  /home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
+CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
+ /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c
+ /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
 CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.c
  /home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.h
@@ -127,6 +130,9 @@ CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o
 CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c
  /home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.h
+CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
+ /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c
+ /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.h
 CMakeFiles/Algorithms.dir/main.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/013-RomantoInteger/romantoInteger.h
  /home/zyc/Documents/Project/leetcode/Algorithms/014-LongestCommonPrefix/longestCommonPrefix.h
@@ -143,6 +149,7 @@ CMakeFiles/Algorithms.dir/main.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/086-PartitionList/partitionList.h
  /home/zyc/Documents/Project/leetcode/Algorithms/092-ReverseLinkedListII/reverseLinkedListII.h
  /home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
+ /home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
  /home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.h
  /home/zyc/Documents/Project/leetcode/Algorithms/113-PathSumII/pathSumII.h
  /home/zyc/Documents/Project/leetcode/Algorithms/125-ValidPalindrome/validPalindrome.h
@@ -167,4 +174,5 @@ CMakeFiles/Algorithms.dir/main.c.o
  /home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.h
  /home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.h
  /home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.h
+ /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.h
  /home/zyc/Documents/Project/leetcode/Algorithms/main.c

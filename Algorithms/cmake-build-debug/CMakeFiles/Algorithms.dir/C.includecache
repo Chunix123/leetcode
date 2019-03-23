@@ -36,6 +36,8 @@
 
 /home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
 
+/home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
+
 /home/zyc/Documents/Project/leetcode/Algorithms/112-PathSum/pathSum.h
 
 /home/zyc/Documents/Project/leetcode/Algorithms/113-PathSumII/pathSumII.h
@@ -51,16 +53,6 @@
 /home/zyc/Documents/Project/leetcode/Algorithms/142-LinkedListCycleII/linkedListCycleII.h
 
 /home/zyc/Documents/Project/leetcode/Algorithms/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h
-
-/home/zyc/Documents/Project/leetcode/Algorithms/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c
-binaryTreePostorderTraversal.h
-/home/zyc/Documents/Project/leetcode/Algorithms/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
-stdlib.h
--
-stdio.h
--
-string.h
--
 
 /home/zyc/Documents/Project/leetcode/Algorithms/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
 
@@ -93,6 +85,20 @@ string.h
 /home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.h
 
 /home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.h
+
+/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c
+subtreeofAnotherTree.h
+/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+
+/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.h
 
 /home/zyc/Documents/Project/leetcode/Algorithms/main.c
 stdio.h
@@ -175,4 +181,8 @@ stdio.h
 /home/zyc/Documents/Project/leetcode/Algorithms/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h
 145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
 /home/zyc/Documents/Project/leetcode/Algorithms/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h
+102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
+/home/zyc/Documents/Project/leetcode/Algorithms/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
+572-SubtreeofAnotherTree/subtreeofAnotherTree.h
+/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.h
 
