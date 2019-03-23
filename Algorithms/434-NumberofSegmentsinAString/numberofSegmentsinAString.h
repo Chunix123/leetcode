@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/23/19.
+//
+
+#ifndef PROJECT_NUMBEROFSEGMENTSINASTRING_H
+#define PROJECT_NUMBEROFSEGMENTSINASTRING_H
+
+int countSegments_main();
+
+#endif //PROJECT_NUMBEROFSEGMENTSINASTRING_H

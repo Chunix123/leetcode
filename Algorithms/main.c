@@ -44,6 +44,7 @@
 #include "145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h"
 #include "102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h"
 #include "572-SubtreeofAnotherTree/subtreeofAnotherTree.h"
+#include "434-NumberofSegmentsinAString/numberofSegmentsinAString.h"
 
 
 
@@ -172,6 +173,9 @@ int main(int argc, char **argv)
     //415
     //addStrings_main();
 
+    //434
+    countSegments_main();
+
     //437
     //pathSum3_main();
 
@@ -179,7 +183,7 @@ int main(int argc, char **argv)
     //validIPAddress_main();
 
     //572
-    isSubtree_main();
+    //isSubtree_main();
 
     return 0;
 }
