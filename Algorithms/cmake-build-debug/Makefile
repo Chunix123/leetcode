@@ -123,6 +123,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/build
 .PHONY : Algorithms/fast
 
+001-TwoSum/001-twoSum.o: 001-TwoSum/001-twoSum.c.o
+
+.PHONY : 001-TwoSum/001-twoSum.o
+
+# target to build an object file
+001-TwoSum/001-twoSum.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o
+.PHONY : 001-TwoSum/001-twoSum.c.o
+
+001-TwoSum/001-twoSum.i: 001-TwoSum/001-twoSum.c.i
+
+.PHONY : 001-TwoSum/001-twoSum.i
+
+# target to preprocess a source file
+001-TwoSum/001-twoSum.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.i
+.PHONY : 001-TwoSum/001-twoSum.c.i
+
+001-TwoSum/001-twoSum.s: 001-TwoSum/001-twoSum.c.s
+
+.PHONY : 001-TwoSum/001-twoSum.s
+
+# target to generate assembly for a file
+001-TwoSum/001-twoSum.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.s
+.PHONY : 001-TwoSum/001-twoSum.c.s
+
 002-AddTwoNumbers/addTwoNumber.o: 002-AddTwoNumbers/addTwoNumber.c.o
 
 .PHONY : 002-AddTwoNumbers/addTwoNumber.o
@@ -203,6 +230,33 @@ Algorithms/fast:
 014-LongestCommonPrefix/longestCommonPrefix.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/014-LongestCommonPrefix/longestCommonPrefix.c.s
 .PHONY : 014-LongestCommonPrefix/longestCommonPrefix.c.s
+
+018-4Sum/4Sum.o: 018-4Sum/4Sum.c.o
+
+.PHONY : 018-4Sum/4Sum.o
+
+# target to build an object file
+018-4Sum/4Sum.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o
+.PHONY : 018-4Sum/4Sum.c.o
+
+018-4Sum/4Sum.i: 018-4Sum/4Sum.c.i
+
+.PHONY : 018-4Sum/4Sum.i
+
+# target to preprocess a source file
+018-4Sum/4Sum.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.i
+.PHONY : 018-4Sum/4Sum.c.i
+
+018-4Sum/4Sum.s: 018-4Sum/4Sum.c.s
+
+.PHONY : 018-4Sum/4Sum.s
+
+# target to generate assembly for a file
+018-4Sum/4Sum.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.s
+.PHONY : 018-4Sum/4Sum.c.s
 
 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.o: 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o
 
@@ -1230,6 +1284,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.s
 .PHONY : 415-AddStrings/addStrings.c.s
 
+434-NumberofSegmentsinAString/numberofSegmentsinAString.o: 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o
+
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.o
+
+# target to build an object file
+434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o
+
+434-NumberofSegmentsinAString/numberofSegmentsinAString.i: 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i
+
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.i
+
+# target to preprocess a source file
+434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i
+
+434-NumberofSegmentsinAString/numberofSegmentsinAString.s: 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s
+
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.s
+
+# target to generate assembly for a file
+434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s
+.PHONY : 434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s
+
 437-PathSumIII/pathSumIII.o: 437-PathSumIII/pathSumIII.c.o
 
 .PHONY : 437-PathSumIII/pathSumIII.o
@@ -1347,6 +1428,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithms"
 	@echo "... edit_cache"
+	@echo "... 001-TwoSum/001-twoSum.o"
+	@echo "... 001-TwoSum/001-twoSum.i"
+	@echo "... 001-TwoSum/001-twoSum.s"
 	@echo "... 002-AddTwoNumbers/addTwoNumber.o"
 	@echo "... 002-AddTwoNumbers/addTwoNumber.i"
 	@echo "... 002-AddTwoNumbers/addTwoNumber.s"
@@ -1356,6 +1440,9 @@ help:
 	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.o"
 	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.i"
 	@echo "... 014-LongestCommonPrefix/longestCommonPrefix.s"
+	@echo "... 018-4Sum/4Sum.o"
+	@echo "... 018-4Sum/4Sum.i"
+	@echo "... 018-4Sum/4Sum.s"
 	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.o"
 	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.i"
 	@echo "... 019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.s"
@@ -1470,6 +1557,9 @@ help:
 	@echo "... 415-AddStrings/addStrings.o"
 	@echo "... 415-AddStrings/addStrings.i"
 	@echo "... 415-AddStrings/addStrings.s"
+	@echo "... 434-NumberofSegmentsinAString/numberofSegmentsinAString.o"
+	@echo "... 434-NumberofSegmentsinAString/numberofSegmentsinAString.i"
+	@echo "... 434-NumberofSegmentsinAString/numberofSegmentsinAString.s"
 	@echo "... 437-PathSumIII/pathSumIII.o"
 	@echo "... 437-PathSumIII/pathSumIII.i"
 	@echo "... 437-PathSumIII/pathSumIII.s"

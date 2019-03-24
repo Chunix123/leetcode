@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.h">
+			<Option target="Algorithms"/>
+		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/002-AddTwoNumbers/addTwoNumber.c">
 			<Option target="Algorithms"/>
 		</Unit>
@@ -94,6 +100,12 @@
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/014-LongestCommonPrefix/longestCommonPrefix.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.h">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c">
@@ -322,6 +334,12 @@
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.h">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.h">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.c">

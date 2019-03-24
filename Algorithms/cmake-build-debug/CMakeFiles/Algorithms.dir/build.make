@@ -642,6 +642,45 @@ CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c -o CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
 
+CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o: ../434-NumberofSegmentsinAString/numberofSegmentsinAString.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.c
+
+CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.c > CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.i
+
+CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.c -o CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.s
+
+CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o: ../001-TwoSum/001-twoSum.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.c
+
+CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.c > CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.i
+
+CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.c -o CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.s
+
+CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o: ../018-4Sum/4Sum.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o   -c /home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.c
+
+CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.c > CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.i
+
+CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.c -o CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.s
+
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/main.c.o" \
@@ -688,7 +727,10 @@ Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c.o" \
 "CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o" \
 "CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o" \
-"CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
+"CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o" \
+"CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o" \
+"CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o" \
+"CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o"
 
 # External object files for target Algorithms
 Algorithms_EXTERNAL_OBJECTS =
@@ -738,9 +780,12 @@ Algorithms: CMakeFiles/Algorithms.dir/094-BinaryTreeInorderTraversal/binaryTreeI
 Algorithms: CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o
 Algorithms: CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o
 Algorithms: CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o
+Algorithms: CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o
+Algorithms: CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o
+Algorithms: CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o
 Algorithms: CMakeFiles/Algorithms.dir/build.make
 Algorithms: CMakeFiles/Algorithms.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking C executable Algorithms"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking C executable Algorithms"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Algorithms.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

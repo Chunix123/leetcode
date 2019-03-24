@@ -45,6 +45,8 @@
 #include "102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h"
 #include "572-SubtreeofAnotherTree/subtreeofAnotherTree.h"
 #include "434-NumberofSegmentsinAString/numberofSegmentsinAString.h"
+#include "001-TwoSum/001-twoSum.h"
+#include "018-4Sum/4Sum.h"
 
 
 
@@ -52,6 +54,9 @@
 int main(int argc, char **argv)
 {
     printf("--leetcode--\n");
+
+    //001
+    //twoSum_main();
 
     //002
     //addTwoNumbers_main();
@@ -61,6 +66,9 @@ int main(int argc, char **argv)
 
     //014
     //longestCommonPrefix_main();
+
+    //018
+    fourSum_main();
 
     //19
     //removeNthFromEnd_main();

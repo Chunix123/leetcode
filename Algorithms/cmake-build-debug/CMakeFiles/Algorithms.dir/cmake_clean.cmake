@@ -44,6 +44,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c.o"
   "CMakeFiles/Algorithms.dir/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c.o"
   "CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"
+  "CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o"
+  "CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o"
+  "CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )

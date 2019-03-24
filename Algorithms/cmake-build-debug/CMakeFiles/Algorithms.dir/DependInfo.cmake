@@ -4,9 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/zyc/Documents/Project/leetcode/Algorithms/001-TwoSum/001-twoSum.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/002-AddTwoNumbers/addTwoNumber.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/002-AddTwoNumbers/addTwoNumber.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/013-RomantoInteger/romantoInteger.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/013-RomantoInteger/romantoInteger.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/014-LongestCommonPrefix/longestCommonPrefix.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/014-LongestCommonPrefix/longestCommonPrefix.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/018-4Sum/4Sum.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/020-ValidParentheses/validParentheses.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/020-ValidParentheses/validParentheses.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/021-MergeTwoSortedLists/mergeTwoSortedLists.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/021-MergeTwoSortedLists/mergeTwoSortedLists.c.o"
@@ -45,6 +47,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/zyc/Documents/Project/leetcode/Algorithms/344-ReverseString/reverseString.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/344-ReverseString/reverseString.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/345-ReverseVowelsofAString/reverseVowelsofAString.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/345-ReverseVowelsofAString/reverseVowelsofAString.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/415-AddStrings/addStrings.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/415-AddStrings/addStrings.c.o"
+  "/home/zyc/Documents/Project/leetcode/Algorithms/434-NumberofSegmentsinAString/numberofSegmentsinAString.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/437-PathSumIII/pathSumIII.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/437-PathSumIII/pathSumIII.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/468-ValidateIPAddress/validateIPAddress.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o"
   "/home/zyc/Documents/Project/leetcode/Algorithms/572-SubtreeofAnotherTree/subtreeofAnotherTree.c" "/home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o"

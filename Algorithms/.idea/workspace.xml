@@ -12,11 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001-TwoSum/001-twoSum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001-TwoSum/001-twoSum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-4Sum/4Sum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-4Sum/4Sum.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001-TwoSum/twoSum-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" afterDir="false" />
@@ -31,7 +32,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +43,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="482">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -55,23 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.c">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/018-4Sum/4Sum.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="45" selection-start-line="45" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="3894">
+              <caret line="177" selection-start-line="177" selection-end-line="177" selection-end-column="18" />
               <folding>
-                <element signature="e#37#70#0" expanded="true" />
+                <element signature="e#37#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.h">
+        <entry file="file://$PROJECT_DIR$/018-4Sum/4Sum.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="21" />
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -89,12 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/125-ValidPalindrome/validPalindrome.c" />
-        <option value="$PROJECT_DIR$/136-SingleNumber/singleNumber.c" />
-        <option value="$PROJECT_DIR$/137-SingleNumber2/singleNumber2.c" />
-        <option value="$PROJECT_DIR$/141-LinkedListCycle/linkedListCycle.c" />
-        <option value="$PROJECT_DIR$/316-RemoveDuplicateLetters/removeDuplicateLetters.c" />
-        <option value="$PROJECT_DIR$/067-AddBinary/addBinary.h" />
         <option value="$PROJECT_DIR$/067-AddBinary/addBinary.c" />
         <option value="$PROJECT_DIR$/027-RemoveElement/removeElent.h" />
         <option value="$PROJECT_DIR$/027-RemoveElement/removeElent.c" />
@@ -139,14 +133,20 @@
         <option value="$PROJECT_DIR$/102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h" />
         <option value="$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.c" />
         <option value="$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.h" />
+        <option value="$PROJECT_DIR$/434-NumberofSegmentsinAString/numberofSegmentsinAString.c" />
+        <option value="$PROJECT_DIR$/434-NumberofSegmentsinAString/numberofSegmentsinAString.h" />
+        <option value="$PROJECT_DIR$/001-TwoSum/001-twoSum.h" />
+        <option value="$PROJECT_DIR$/001-TwoSum/001-twoSum.c" />
+        <option value="$PROJECT_DIR$/018-4Sum/4Sum.c" />
+        <option value="$PROJECT_DIR$/018-4Sum/4Sum.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="537" />
+    <option name="x" value="514" />
     <option name="y" value="37" />
-    <option name="width" value="1383" />
+    <option name="width" value="1406" />
     <option name="height" value="1162" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -163,6 +163,16 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="001-TwoSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="018-4Sum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -292,6 +302,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="434-NumberofSegmentsinAString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="437-PathSumIII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -373,17 +388,19 @@
       <workItem from="1553255753597" duration="29000" />
       <workItem from="1553271231356" duration="705000" />
       <workItem from="1553331951779" duration="254000" />
+      <workItem from="1553355546610" duration="666000" />
+      <workItem from="1553430924916" duration="948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53979000" />
+    <option name="totallyTimeSpent" value="55593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="537" y="37" width="1383" height="1162" extended-state="0" />
+    <frame x="514" y="37" width="1406" height="1162" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24039187" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,52 +430,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/137-SingleNumber2/singleNumber2.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-          <folding>
-            <element signature="e#314#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/316-RemoveDuplicateLetters/removeDuplicateLetters.h">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141-LinkedListCycle/linkedListCycle.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <element signature="e#475#495#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/316-RemoveDuplicateLetters/removeDuplicateLetters.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7567">
-          <caret line="572" column="1" selection-start-line="572" selection-start-column="1" selection-end-line="572" selection-end-column="1" />
-          <folding>
-            <element signature="e#418#437#0" expanded="true" />
-            <element signature="e#551#2317#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/344-ReverseString/reverseString.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/067-AddBinary/addBinary.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/067-AddBinary/addBinary.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -786,9 +757,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/434-NumberofSegmentsinAString/numberofSegmentsinAString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/572-SubtreeofAnotherTree/subtreeofAnotherTree.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="990">
           <caret line="45" selection-start-line="45" selection-end-line="45" selection-end-column="20" />
           <folding>
             <element signature="e#37#70#0" expanded="true" />
@@ -803,12 +781,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/434-NumberofSegmentsinAString/numberofSegmentsinAString.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#347#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001-TwoSum/001-twoSum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001-TwoSum/001-twoSum.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-4Sum/4Sum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="482">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/018-4Sum/4Sum.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3894">
+          <caret line="177" selection-start-line="177" selection-end-line="177" selection-end-column="18" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
