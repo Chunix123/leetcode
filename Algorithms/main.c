@@ -50,6 +50,9 @@
 #include "917-ReverseOnlyLetters/reverseOnlyLetters.h"
 #include "122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.h"
 #include "055-JumpGame/jumpGame.h"
+#include "169-MajorityElement/majorityElement.h"
+
+
 
 
 int main(int argc, char **argv)
@@ -90,7 +93,7 @@ int main(int argc, char **argv)
     //strStr_main();
 
     //055
-    canJump_main();
+    //canJump_main();
 
     //61.
     //rotateRight_main();
@@ -124,6 +127,9 @@ int main(int argc, char **argv)
 
     //113
     //pathSum2_main();
+
+    //169
+    majorityElement_main();
 
     //122
     //maxProfit_main();
