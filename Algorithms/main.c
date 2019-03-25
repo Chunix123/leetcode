@@ -49,8 +49,7 @@
 #include "018-4Sum/4Sum.h"
 #include "917-ReverseOnlyLetters/reverseOnlyLetters.h"
 #include "122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.h"
-
-
+#include "055-JumpGame/jumpGame.h"
 
 
 int main(int argc, char **argv)
@@ -90,6 +89,9 @@ int main(int argc, char **argv)
     //28.
     //strStr_main();
 
+    //055
+    canJump_main();
+
     //61.
     //rotateRight_main();
 
@@ -124,7 +126,7 @@ int main(int argc, char **argv)
     //pathSum2_main();
 
     //122
-    maxProfit_main();
+    //maxProfit_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -199,7 +201,7 @@ int main(int argc, char **argv)
     //isSubtree_main();
 
     //917
-    reverseOnlyLetters_main();
+    //reverseOnlyLetters_main();
 
     return 0;
 }
