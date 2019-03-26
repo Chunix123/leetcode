@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/26/19.
+//
+
+#ifndef PROJECT_BINARYTREEMAXIMUMPATHSUM_H
+#define PROJECT_BINARYTREEMAXIMUMPATHSUM_H
+
+int maxPathSum_main();
+
+#endif //PROJECT_BINARYTREEMAXIMUMPATHSUM_H

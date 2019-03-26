@@ -53,7 +53,7 @@
 #include "169-MajorityElement/majorityElement.h"
 #include "128-LongestConsecutiveSequence/longestConsecutiveSequence.h"
 #include "215-KthLargestElementInAnArray/kthLargestElementInAnArray.h"
-
+#include "124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.h"
 
 
 
@@ -139,6 +139,9 @@ int main(int argc, char **argv)
     //122
     //maxProfit_main();
 
+    //124
+    maxPathSum_main();
+
     //125
     //isPalindrome_main(argc, argv);
 
@@ -179,7 +182,7 @@ int main(int argc, char **argv)
     //reverseList_main();
 
     //215
-    findKthLargest_main();
+    //findKthLargest_main();
 
     //226
     //invertTree_main();
