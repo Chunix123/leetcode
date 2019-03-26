@@ -51,6 +51,8 @@
 #include "122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.h"
 #include "055-JumpGame/jumpGame.h"
 #include "169-MajorityElement/majorityElement.h"
+#include "128-LongestConsecutiveSequence/longestConsecutiveSequence.h"
+#include "215-KthLargestElementInAnArray/kthLargestElementInAnArray.h"
 
 
 
@@ -128,8 +130,11 @@ int main(int argc, char **argv)
     //113
     //pathSum2_main();
 
+    //128
+    //longestConsecutive_main();
+
     //169
-    majorityElement_main();
+    //majorityElement_main();
 
     //122
     //maxProfit_main();
@@ -172,6 +177,9 @@ int main(int argc, char **argv)
 
     //206.
     //reverseList_main();
+
+    //215
+    findKthLargest_main();
 
     //226
     //invertTree_main();

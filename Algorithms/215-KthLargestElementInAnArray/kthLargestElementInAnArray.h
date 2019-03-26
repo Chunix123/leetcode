@@ -1,0 +1,12 @@
+//
+// Created by zyc on 3/26/19.
+//
+
+#ifndef PROJECT_KTHLARGESTELEMENTINANARRAY_H
+#define PROJECT_KTHLARGESTELEMENTINANARRAY_H
+
+
+int findKthLargest_main();
+
+
+#endif //PROJECT_KTHLARGESTELEMENTINANARRAY_H

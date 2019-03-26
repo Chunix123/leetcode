@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/26/19.
+//
+
+#ifndef PROJECT_LONGESTCONSECUTIVESEQUENCE_H
+#define PROJECT_LONGESTCONSECUTIVESEQUENCE_H
+
+int longestConsecutive_main();
+
+#endif //PROJECT_LONGESTCONSECUTIVESEQUENCE_H
