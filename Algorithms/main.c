@@ -54,6 +54,8 @@
 #include "128-LongestConsecutiveSequence/longestConsecutiveSequence.h"
 #include "215-KthLargestElementInAnArray/kthLargestElementInAnArray.h"
 #include "124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.h"
+#include "707-DesignLinkedList/designLinkedList.h"
+
 
 
 
@@ -140,7 +142,7 @@ int main(int argc, char **argv)
     //maxProfit_main();
 
     //124
-    maxPathSum_main();
+    //maxPathSum_main();
 
     //125
     //isPalindrome_main(argc, argv);
@@ -216,6 +218,9 @@ int main(int argc, char **argv)
 
     //572
     //isSubtree_main();
+
+    //707
+    myLinkList_main();
 
     //917
     //reverseOnlyLetters_main();

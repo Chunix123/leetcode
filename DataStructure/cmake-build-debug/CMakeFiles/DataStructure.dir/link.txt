@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/DataStructure.dir/main.c.o  -o DataStructure BinaryTree/libLibBinaryTree.a String/libLibString.a Utils/libLibUtils.a 

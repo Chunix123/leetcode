@@ -12,25 +12,136 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/LinkList/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/LinkList/linkList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/LinkList/linkList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/Sort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/Sort/sort.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/Sort/sort.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Project.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/BinaryTree/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/BinaryTree/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/String/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/String/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/Utils/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/Utils/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Stirng/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/LibString.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="1320">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -55,22 +166,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c">
+        <entry file="file://$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="467">
+              <caret line="224" selection-start-line="224" selection-end-line="224" />
               <folding>
-                <element signature="e#37#56#0" expanded="true" />
+                <element signature="e#37#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h">
+        <entry file="file://$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="154">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -88,8 +199,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.h" />
-        <option value="$PROJECT_DIR$/082-RemoveDuplicatesfromSortedListII/removeDuplicatesfromSortedListII.c" />
         <option value="$PROJECT_DIR$/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c" />
         <option value="$PROJECT_DIR$/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h" />
         <option value="$PROJECT_DIR$/206-ReverseLinkedList/reverseLinkedList.c" />
@@ -138,15 +247,17 @@
         <option value="$PROJECT_DIR$/128-LongestConsecutiveSequence/longestConsecutiveSequence.c" />
         <option value="$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c" />
         <option value="$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h" />
+        <option value="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.c" />
+        <option value="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="527" />
-    <option name="y" value="27" />
+    <option name="y" value="37" />
     <option name="width" value="1393" />
-    <option name="height" value="1053" />
+    <option name="height" value="1163" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,7 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,12 +447,18 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="707-DesignLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="917-ReverseOnlyLetters" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -413,16 +529,18 @@
       <workItem from="1553508775817" duration="750000" />
       <workItem from="1553575469751" duration="3192000" />
       <workItem from="1553656915345" duration="7000" />
+      <workItem from="1553695386804" duration="265000" />
+      <workItem from="1553704733415" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60984000" />
+    <option name="totallyTimeSpent" value="61277000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="27" width="1393" height="1053" extended-state="0" />
+    <frame x="527" y="37" width="1393" height="1163" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23943663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24831712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -435,8 +553,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="CMake" order="10" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.24111949" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.32951945" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.2398374" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,23 +570,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="25" />
-          <folding>
-            <element signature="e#37#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/019-RemoveNthNodeFromEndofList/removeNthNodeFromEndofList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/206-ReverseLinkedList/reverseLinkedList.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -640,13 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -837,20 +931,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="110">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -860,6 +944,40 @@
           <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
