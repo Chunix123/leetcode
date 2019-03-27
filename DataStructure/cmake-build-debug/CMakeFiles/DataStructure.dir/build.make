@@ -43,10 +43,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/DataStructure
+CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/DataStructure
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/DataStructure.dir/depend.make
@@ -59,44 +59,31 @@ include CMakeFiles/DataStructure.dir/flags.make
 
 CMakeFiles/DataStructure.dir/main.c.o: CMakeFiles/DataStructure.dir/flags.make
 CMakeFiles/DataStructure.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructure.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/DataStructure.dir/main.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/DataStructure.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/DataStructure.dir/main.c.o   -c /home/zyc/Documents/leetcode/DataStructure/main.c
 
 CMakeFiles/DataStructure.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructure.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/DataStructure/main.c > CMakeFiles/DataStructure.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/leetcode/DataStructure/main.c > CMakeFiles/DataStructure.dir/main.c.i
 
 CMakeFiles/DataStructure.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructure.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/DataStructure/main.c -o CMakeFiles/DataStructure.dir/main.c.s
-
-CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o: ../BinaryTree/binaryTree.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c
-
-CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c > CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.i
-
-CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c -o CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/zyc/Documents/leetcode/DataStructure/main.c -o CMakeFiles/DataStructure.dir/main.c.s
 
 # Object files for target DataStructure
 DataStructure_OBJECTS = \
-"CMakeFiles/DataStructure.dir/main.c.o" \
-"CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o"
+"CMakeFiles/DataStructure.dir/main.c.o"
 
 # External object files for target DataStructure
 DataStructure_EXTERNAL_OBJECTS =
 
 DataStructure: CMakeFiles/DataStructure.dir/main.c.o
-DataStructure: CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o
 DataStructure: CMakeFiles/DataStructure.dir/build.make
 DataStructure: BinaryTree/libLibBinaryTree.a
+DataStructure: String/libLibString.a
+DataStructure: Utils/libLibUtils.a
 DataStructure: CMakeFiles/DataStructure.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable DataStructure"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable DataStructure"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/DataStructure.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +96,6 @@ CMakeFiles/DataStructure.dir/clean:
 .PHONY : CMakeFiles/DataStructure.dir/clean
 
 CMakeFiles/DataStructure.dir/depend:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyc/Documents/Project/leetcode/DataStructure /home/zyc/Documents/Project/leetcode/DataStructure /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/zyc/Documents/leetcode/DataStructure /home/zyc/Documents/leetcode/DataStructure /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/DataStructure.dir/depend
 

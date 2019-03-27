@@ -48,10 +48,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/DataStructure
+CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/DataStructure
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles 0
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/clean
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/preinstall
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/preinstall
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 BinaryTree/CMakeFiles/LibBinaryTree.dir/rule:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/CMakeFiles/LibBinaryTree.dir/rule
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 BinaryTree/CMakeFiles/LibBinaryTree.dir/rule
 .PHONY : BinaryTree/CMakeFiles/LibBinaryTree.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ LibBinaryTree: BinaryTree/CMakeFiles/LibBinaryTree.dir/rule
 
 # fast build rule for target.
 LibBinaryTree/fast:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/build
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/build
 .PHONY : LibBinaryTree/fast
 
 binaryTree.o: binaryTree.c.o
@@ -131,7 +131,7 @@ binaryTree.o: binaryTree.c.o
 
 # target to build an object file
 binaryTree.c.o:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.o
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.o
 .PHONY : binaryTree.c.o
 
 binaryTree.i: binaryTree.c.i
@@ -140,7 +140,7 @@ binaryTree.i: binaryTree.c.i
 
 # target to preprocess a source file
 binaryTree.c.i:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.i
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.i
 .PHONY : binaryTree.c.i
 
 binaryTree.s: binaryTree.c.s
@@ -149,7 +149,7 @@ binaryTree.s: binaryTree.c.s
 
 # target to generate assembly for a file
 binaryTree.c.s:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.s
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/binaryTree.c.s
 .PHONY : binaryTree.c.s
 
 # Help Target
@@ -175,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibUtils.a  CMakeFiles/LibUtils.dir/utilsHelper.c.o
+/usr/bin/ranlib libLibUtils.a

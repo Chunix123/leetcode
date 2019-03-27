@@ -48,10 +48,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/DataStructure
+CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/DataStructure
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -136,32 +136,31 @@ LibBinaryTree/fast:
 	$(MAKE) -f BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make BinaryTree/CMakeFiles/LibBinaryTree.dir/build
 .PHONY : LibBinaryTree/fast
 
-BinaryTree/binaryTree.o: BinaryTree/binaryTree.c.o
+#=============================================================================
+# Target rules for targets named LibString
 
-.PHONY : BinaryTree/binaryTree.o
+# Build rule for target.
+LibString: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LibString
+.PHONY : LibString
 
-# target to build an object file
-BinaryTree/binaryTree.c.o:
-	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o
-.PHONY : BinaryTree/binaryTree.c.o
+# fast build rule for target.
+LibString/fast:
+	$(MAKE) -f String/CMakeFiles/LibString.dir/build.make String/CMakeFiles/LibString.dir/build
+.PHONY : LibString/fast
 
-BinaryTree/binaryTree.i: BinaryTree/binaryTree.c.i
+#=============================================================================
+# Target rules for targets named LibUtils
 
-.PHONY : BinaryTree/binaryTree.i
+# Build rule for target.
+LibUtils: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LibUtils
+.PHONY : LibUtils
 
-# target to preprocess a source file
-BinaryTree/binaryTree.c.i:
-	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.i
-.PHONY : BinaryTree/binaryTree.c.i
-
-BinaryTree/binaryTree.s: BinaryTree/binaryTree.c.s
-
-.PHONY : BinaryTree/binaryTree.s
-
-# target to generate assembly for a file
-BinaryTree/binaryTree.c.s:
-	$(MAKE) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.s
-.PHONY : BinaryTree/binaryTree.c.s
+# fast build rule for target.
+LibUtils/fast:
+	$(MAKE) -f Utils/CMakeFiles/LibUtils.dir/build.make Utils/CMakeFiles/LibUtils.dir/build
+.PHONY : LibUtils/fast
 
 main.o: main.c.o
 
@@ -200,9 +199,8 @@ help:
 	@echo "... DataStructure"
 	@echo "... edit_cache"
 	@echo "... LibBinaryTree"
-	@echo "... BinaryTree/binaryTree.o"
-	@echo "... BinaryTree/binaryTree.i"
-	@echo "... BinaryTree/binaryTree.s"
+	@echo "... LibString"
+	@echo "... LibUtils"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

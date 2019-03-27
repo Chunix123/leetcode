@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.c
 stdio.h
 -
 stdlib.h
 -
 binaryTree.h
-/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.h
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.h
 
-/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.h
+/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.h
 

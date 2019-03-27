@@ -48,10 +48,10 @@ RM = /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zyc/Documents/Project/leetcode/Algorithms
+CMAKE_SOURCE_DIR = /home/zyc/Documents/leetcode/Algorithms
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug
+CMAKE_BINARY_DIR = /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/Project/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zyc/Documents/leetcode/Algorithms/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -420,6 +420,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.s
 .PHONY : 028-ImplementstrStr/implementstrStr.c.s
 
+055-JumpGame/jumpGame.o: 055-JumpGame/jumpGame.c.o
+
+.PHONY : 055-JumpGame/jumpGame.o
+
+# target to build an object file
+055-JumpGame/jumpGame.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.o
+.PHONY : 055-JumpGame/jumpGame.c.o
+
+055-JumpGame/jumpGame.i: 055-JumpGame/jumpGame.c.i
+
+.PHONY : 055-JumpGame/jumpGame.i
+
+# target to preprocess a source file
+055-JumpGame/jumpGame.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.i
+.PHONY : 055-JumpGame/jumpGame.c.i
+
+055-JumpGame/jumpGame.s: 055-JumpGame/jumpGame.c.s
+
+.PHONY : 055-JumpGame/jumpGame.s
+
+# target to generate assembly for a file
+055-JumpGame/jumpGame.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.s
+.PHONY : 055-JumpGame/jumpGame.c.s
+
 058-LengthofLastWord/lengthofLastWord.o: 058-LengthofLastWord/lengthofLastWord.c.o
 
 .PHONY : 058-LengthofLastWord/lengthofLastWord.o
@@ -744,6 +771,60 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.s
 .PHONY : 113-PathSumII/pathSumII.c.s
 
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.o: 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o
+
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.o
+
+# target to build an object file
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o
+
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.i: 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.i
+
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.i
+
+# target to preprocess a source file
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.i
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.i
+
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.s: 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.s
+
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.s
+
+# target to generate assembly for a file
+122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.s
+.PHONY : 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.s
+
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.o: 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.o
+
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.o
+
+# target to build an object file
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.o
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.o
+
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.i: 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.i
+
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.i
+
+# target to preprocess a source file
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.i
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.i
+
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.s: 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.s
+
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.s
+
+# target to generate assembly for a file
+124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.s
+.PHONY : 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.s
+
 125-ValidPalindrome/validPalindrome.o: 125-ValidPalindrome/validPalindrome.c.o
 
 .PHONY : 125-ValidPalindrome/validPalindrome.o
@@ -770,6 +851,33 @@ Algorithms/fast:
 125-ValidPalindrome/validPalindrome.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.s
 .PHONY : 125-ValidPalindrome/validPalindrome.c.s
+
+128-LongestConsecutiveSequence/longestConsecutiveSequence.o: 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o
+
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.o
+
+# target to build an object file
+128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o
+
+128-LongestConsecutiveSequence/longestConsecutiveSequence.i: 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.i
+
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.i
+
+# target to preprocess a source file
+128-LongestConsecutiveSequence/longestConsecutiveSequence.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.i
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.i
+
+128-LongestConsecutiveSequence/longestConsecutiveSequence.s: 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.s
+
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.s
+
+# target to generate assembly for a file
+128-LongestConsecutiveSequence/longestConsecutiveSequence.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.s
+.PHONY : 128-LongestConsecutiveSequence/longestConsecutiveSequence.c.s
 
 136-SingleNumber/singleNumber.o: 136-SingleNumber/singleNumber.c.o
 
@@ -1041,6 +1149,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s
 .PHONY : 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.s
 
+169-MajorityElement/majorityElement.o: 169-MajorityElement/majorityElement.c.o
+
+.PHONY : 169-MajorityElement/majorityElement.o
+
+# target to build an object file
+169-MajorityElement/majorityElement.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.o
+.PHONY : 169-MajorityElement/majorityElement.c.o
+
+169-MajorityElement/majorityElement.i: 169-MajorityElement/majorityElement.c.i
+
+.PHONY : 169-MajorityElement/majorityElement.i
+
+# target to preprocess a source file
+169-MajorityElement/majorityElement.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.i
+.PHONY : 169-MajorityElement/majorityElement.c.i
+
+169-MajorityElement/majorityElement.s: 169-MajorityElement/majorityElement.c.s
+
+.PHONY : 169-MajorityElement/majorityElement.s
+
+# target to generate assembly for a file
+169-MajorityElement/majorityElement.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.s
+.PHONY : 169-MajorityElement/majorityElement.c.s
+
 203-RemoveLinkedListElements/removeLinkedListElements.o: 203-RemoveLinkedListElements/removeLinkedListElements.c.o
 
 .PHONY : 203-RemoveLinkedListElements/removeLinkedListElements.o
@@ -1094,6 +1229,33 @@ Algorithms/fast:
 206-ReverseLinkedList/reverseLinkedList.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.s
 .PHONY : 206-ReverseLinkedList/reverseLinkedList.c.s
+
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.o: 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o
+
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.o
+
+# target to build an object file
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o
+
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.i: 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.i
+
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.i
+
+# target to preprocess a source file
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.i
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.i
+
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.s: 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.s
+
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.s
+
+# target to generate assembly for a file
+215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.s
+.PHONY : 215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.s
 
 226-InvertBinaryTree/invertBinaryTree.o: 226-InvertBinaryTree/invertBinaryTree.c.o
 
@@ -1392,6 +1554,33 @@ Algorithms/fast:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
 .PHONY : 572-SubtreeofAnotherTree/subtreeofAnotherTree.c.s
 
+917-ReverseOnlyLetters/reverseOnlyLetters.o: 917-ReverseOnlyLetters/reverseOnlyLetters.c.o
+
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.o
+
+# target to build an object file
+917-ReverseOnlyLetters/reverseOnlyLetters.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.o
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.c.o
+
+917-ReverseOnlyLetters/reverseOnlyLetters.i: 917-ReverseOnlyLetters/reverseOnlyLetters.c.i
+
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.i
+
+# target to preprocess a source file
+917-ReverseOnlyLetters/reverseOnlyLetters.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.i
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.c.i
+
+917-ReverseOnlyLetters/reverseOnlyLetters.s: 917-ReverseOnlyLetters/reverseOnlyLetters.c.s
+
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.s
+
+# target to generate assembly for a file
+917-ReverseOnlyLetters/reverseOnlyLetters.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.s
+.PHONY : 917-ReverseOnlyLetters/reverseOnlyLetters.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -1461,6 +1650,9 @@ help:
 	@echo "... 028-ImplementstrStr/implementstrStr.o"
 	@echo "... 028-ImplementstrStr/implementstrStr.i"
 	@echo "... 028-ImplementstrStr/implementstrStr.s"
+	@echo "... 055-JumpGame/jumpGame.o"
+	@echo "... 055-JumpGame/jumpGame.i"
+	@echo "... 055-JumpGame/jumpGame.s"
 	@echo "... 058-LengthofLastWord/lengthofLastWord.o"
 	@echo "... 058-LengthofLastWord/lengthofLastWord.i"
 	@echo "... 058-LengthofLastWord/lengthofLastWord.s"
@@ -1497,9 +1689,18 @@ help:
 	@echo "... 113-PathSumII/pathSumII.o"
 	@echo "... 113-PathSumII/pathSumII.i"
 	@echo "... 113-PathSumII/pathSumII.s"
+	@echo "... 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.o"
+	@echo "... 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.i"
+	@echo "... 122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.s"
+	@echo "... 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.o"
+	@echo "... 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.i"
+	@echo "... 124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.s"
 	@echo "... 125-ValidPalindrome/validPalindrome.o"
 	@echo "... 125-ValidPalindrome/validPalindrome.i"
 	@echo "... 125-ValidPalindrome/validPalindrome.s"
+	@echo "... 128-LongestConsecutiveSequence/longestConsecutiveSequence.o"
+	@echo "... 128-LongestConsecutiveSequence/longestConsecutiveSequence.i"
+	@echo "... 128-LongestConsecutiveSequence/longestConsecutiveSequence.s"
 	@echo "... 136-SingleNumber/singleNumber.o"
 	@echo "... 136-SingleNumber/singleNumber.i"
 	@echo "... 136-SingleNumber/singleNumber.s"
@@ -1530,12 +1731,18 @@ help:
 	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.o"
 	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.i"
 	@echo "... 160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.s"
+	@echo "... 169-MajorityElement/majorityElement.o"
+	@echo "... 169-MajorityElement/majorityElement.i"
+	@echo "... 169-MajorityElement/majorityElement.s"
 	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.o"
 	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.i"
 	@echo "... 203-RemoveLinkedListElements/removeLinkedListElements.s"
 	@echo "... 206-ReverseLinkedList/reverseLinkedList.o"
 	@echo "... 206-ReverseLinkedList/reverseLinkedList.i"
 	@echo "... 206-ReverseLinkedList/reverseLinkedList.s"
+	@echo "... 215-KthLargestElementInAnArray/kthLargestElementInAnArray.o"
+	@echo "... 215-KthLargestElementInAnArray/kthLargestElementInAnArray.i"
+	@echo "... 215-KthLargestElementInAnArray/kthLargestElementInAnArray.s"
 	@echo "... 226-InvertBinaryTree/invertBinaryTree.o"
 	@echo "... 226-InvertBinaryTree/invertBinaryTree.i"
 	@echo "... 226-InvertBinaryTree/invertBinaryTree.s"
@@ -1569,6 +1776,9 @@ help:
 	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.o"
 	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.i"
 	@echo "... 572-SubtreeofAnotherTree/subtreeofAnotherTree.s"
+	@echo "... 917-ReverseOnlyLetters/reverseOnlyLetters.o"
+	@echo "... 917-ReverseOnlyLetters/reverseOnlyLetters.i"
+	@echo "... 917-ReverseOnlyLetters/reverseOnlyLetters.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

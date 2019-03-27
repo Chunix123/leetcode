@@ -5,31 +5,31 @@
 		<Option title="DataStructure"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\BinaryTree\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\BinaryTree\;CMake Files\String\;CMake Files\Utils\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DataStructure">
-				<Option output="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug"/>
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -41,15 +41,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DataStructure/fast">
-				<Option output="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug"/>
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/DataStructure" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -61,25 +61,25 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 DataStructure/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LibBinaryTree">
-				<Option output="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/libLibBinaryTree.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree"/>
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/libLibBinaryTree.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -91,15 +91,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 LibBinaryTree"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 LibBinaryTree"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="LibBinaryTree/fast">
-				<Option output="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/libLibBinaryTree.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree"/>
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/libLibBinaryTree.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
@@ -111,28 +111,125 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 LibBinaryTree/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 LibBinaryTree/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/BinaryTree/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibString">
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/libLibString.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 LibString"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibString/fast">
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/libLibString.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 LibString/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/String/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibUtils">
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/libLibUtils.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 LibUtils"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibUtils/fast">
+				<Option output="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/libLibUtils.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 LibUtils/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/Utils/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.c">
-			<Option target="DataStructure"/>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.c">
 			<Option target="LibBinaryTree"/>
 		</Unit>
-		<Unit filename="/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/binaryTree.h">
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/BinaryTree/binaryTree.h">
+			<Option target="LibBinaryTree"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/String/string.c">
+			<Option target="LibString"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/String/string.h">
+			<Option target="LibString"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/Utils/utilsHelper.c">
+			<Option target="LibUtils"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/Utils/utilsHelper.h">
+			<Option target="LibUtils"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/main.c">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/home/zyc/Documents/Project/leetcode/DataStructure/main.c">
-			<Option target="DataStructure"/>
-		</Unit>
-		<Unit filename="/home/zyc/Documents/Project/leetcode/DataStructure/CMakeLists.txt">
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/zyc/Documents/Project/leetcode/DataStructure/BinaryTree/CMakeLists.txt">
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/BinaryTree/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\BinaryTree\"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/String/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\String\"/>
+		</Unit>
+		<Unit filename="/home/zyc/Documents/leetcode/DataStructure/Utils/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Utils\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

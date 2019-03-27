@@ -34,6 +34,9 @@ CMakeFiles/Algorithms.dir/027-RemoveElement/removeElement.c.o: ../027-RemoveElem
 CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.o: ../028-ImplementstrStr/implementstrStr.c
 CMakeFiles/Algorithms.dir/028-ImplementstrStr/implementstrStr.c.o: ../028-ImplementstrStr/implementstrStr.h
 
+CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.o: ../055-JumpGame/jumpGame.c
+CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.o: ../055-JumpGame/jumpGame.h
+
 CMakeFiles/Algorithms.dir/058-LengthofLastWord/lengthofLastWord.c.o: ../058-LengthofLastWord/lengthofLastWord.c
 CMakeFiles/Algorithms.dir/058-LengthofLastWord/lengthofLastWord.c.o: ../058-LengthofLastWord/lengthofLastWord.h
 
@@ -70,8 +73,14 @@ CMakeFiles/Algorithms.dir/112-PathSum/pathSum.c.o: ../112-PathSum/pathSum.h
 CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o: ../113-PathSumII/pathSumII.c
 CMakeFiles/Algorithms.dir/113-PathSumII/pathSumII.c.o: ../113-PathSumII/pathSumII.h
 
+CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o: ../122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c
+CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o: ../122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.h
+
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o: ../125-ValidPalindrome/validPalindrome.c
 CMakeFiles/Algorithms.dir/125-ValidPalindrome/validPalindrome.c.o: ../125-ValidPalindrome/validPalindrome.h
+
+CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o: ../128-LongestConsecutiveSequence/longestConsecutiveSequence.c
+CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o: ../128-LongestConsecutiveSequence/longestConsecutiveSequence.h
 
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o: ../136-SingleNumber/singleNumber.c
 CMakeFiles/Algorithms.dir/136-SingleNumber/singleNumber.c.o: ../136-SingleNumber/singleNumber.h
@@ -103,11 +112,17 @@ CMakeFiles/Algorithms.dir/151-ReverseWordsinaString/reverseWordsinaString.c.o: .
 CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o: ../160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c
 CMakeFiles/Algorithms.dir/160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.c.o: ../160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h
 
+CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.o: ../169-MajorityElement/majorityElement.c
+CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.o: ../169-MajorityElement/majorityElement.h
+
 CMakeFiles/Algorithms.dir/203-RemoveLinkedListElements/removeLinkedListElements.c.o: ../203-RemoveLinkedListElements/removeLinkedListElements.c
 CMakeFiles/Algorithms.dir/203-RemoveLinkedListElements/removeLinkedListElements.c.o: ../203-RemoveLinkedListElements/removeLinkedListElements.h
 
 CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.o: ../206-ReverseLinkedList/reverseLinkedList.c
 CMakeFiles/Algorithms.dir/206-ReverseLinkedList/reverseLinkedList.c.o: ../206-ReverseLinkedList/reverseLinkedList.h
+
+CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o: ../215-KthLargestElementInAnArray/kthLargestElementInAnArray.c
+CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o: ../215-KthLargestElementInAnArray/kthLargestElementInAnArray.h
 
 CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.o: ../226-InvertBinaryTree/invertBinaryTree.c
 CMakeFiles/Algorithms.dir/226-InvertBinaryTree/invertBinaryTree.c.o: ../226-InvertBinaryTree/invertBinaryTree.h
@@ -142,6 +157,9 @@ CMakeFiles/Algorithms.dir/468-ValidateIPAddress/validateIPAddress.c.o: ../468-Va
 CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.c
 CMakeFiles/Algorithms.dir/572-SubtreeofAnotherTree/subtreeofAnotherTree.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.h
 
+CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.o: ../917-ReverseOnlyLetters/reverseOnlyLetters.c
+CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.o: ../917-ReverseOnlyLetters/reverseOnlyLetters.h
+
 CMakeFiles/Algorithms.dir/main.c.o: ../001-TwoSum/001-twoSum.h
 CMakeFiles/Algorithms.dir/main.c.o: ../013-RomantoInteger/romantoInteger.h
 CMakeFiles/Algorithms.dir/main.c.o: ../014-LongestCommonPrefix/longestCommonPrefix.h
@@ -151,6 +169,7 @@ CMakeFiles/Algorithms.dir/main.c.o: ../020-ValidParentheses/validParentheses.h
 CMakeFiles/Algorithms.dir/main.c.o: ../021-MergeTwoSortedLists/mergeTwoSortedLists.h
 CMakeFiles/Algorithms.dir/main.c.o: ../024-SwapNodesinPairs/swapNodesinPairs.h
 CMakeFiles/Algorithms.dir/main.c.o: ../028-ImplementstrStr/implementstrStr.h
+CMakeFiles/Algorithms.dir/main.c.o: ../055-JumpGame/jumpGame.h
 CMakeFiles/Algorithms.dir/main.c.o: ../058-LengthofLastWord/lengthofLastWord.h
 CMakeFiles/Algorithms.dir/main.c.o: ../061-RotateList/rotateList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../066-PlusOne/plusOne.h
@@ -162,7 +181,9 @@ CMakeFiles/Algorithms.dir/main.c.o: ../094-BinaryTreeInorderTraversal/binaryTree
 CMakeFiles/Algorithms.dir/main.c.o: ../102-BinaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.h
 CMakeFiles/Algorithms.dir/main.c.o: ../112-PathSum/pathSum.h
 CMakeFiles/Algorithms.dir/main.c.o: ../113-PathSumII/pathSumII.h
+CMakeFiles/Algorithms.dir/main.c.o: ../122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../125-ValidPalindrome/validPalindrome.h
+CMakeFiles/Algorithms.dir/main.c.o: ../128-LongestConsecutiveSequence/longestConsecutiveSequence.h
 CMakeFiles/Algorithms.dir/main.c.o: ../136-SingleNumber/singleNumber.h
 CMakeFiles/Algorithms.dir/main.c.o: ../137-SingleNumber2/singleNumber2.h
 CMakeFiles/Algorithms.dir/main.c.o: ../141-LinkedListCycle/linkedListCycle.h
@@ -173,8 +194,10 @@ CMakeFiles/Algorithms.dir/main.c.o: ../147-InsertionSortList/insertionSortList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../148-SortList/sortList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../151-ReverseWordsinaString/reverseWordsinaString.h
 CMakeFiles/Algorithms.dir/main.c.o: ../160-IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.h
+CMakeFiles/Algorithms.dir/main.c.o: ../169-MajorityElement/majorityElement.h
 CMakeFiles/Algorithms.dir/main.c.o: ../203-RemoveLinkedListElements/removeLinkedListElements.h
 CMakeFiles/Algorithms.dir/main.c.o: ../206-ReverseLinkedList/reverseLinkedList.h
+CMakeFiles/Algorithms.dir/main.c.o: ../215-KthLargestElementInAnArray/kthLargestElementInAnArray.h
 CMakeFiles/Algorithms.dir/main.c.o: ../226-InvertBinaryTree/invertBinaryTree.h
 CMakeFiles/Algorithms.dir/main.c.o: ../234-PalindromeLinkedList/palindromeLinkedList.h
 CMakeFiles/Algorithms.dir/main.c.o: ../237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.h
@@ -186,5 +209,6 @@ CMakeFiles/Algorithms.dir/main.c.o: ../434-NumberofSegmentsinAString/numberofSeg
 CMakeFiles/Algorithms.dir/main.c.o: ../437-PathSumIII/pathSumIII.h
 CMakeFiles/Algorithms.dir/main.c.o: ../468-ValidateIPAddress/validateIPAddress.h
 CMakeFiles/Algorithms.dir/main.c.o: ../572-SubtreeofAnotherTree/subtreeofAnotherTree.h
+CMakeFiles/Algorithms.dir/main.c.o: ../917-ReverseOnlyLetters/reverseOnlyLetters.h
 CMakeFiles/Algorithms.dir/main.c.o: ../main.c
 

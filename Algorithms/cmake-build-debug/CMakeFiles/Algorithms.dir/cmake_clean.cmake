@@ -47,6 +47,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/Algorithms.dir/434-NumberofSegmentsinAString/numberofSegmentsinAString.c.o"
   "CMakeFiles/Algorithms.dir/001-TwoSum/001-twoSum.c.o"
   "CMakeFiles/Algorithms.dir/018-4Sum/4Sum.c.o"
+  "CMakeFiles/Algorithms.dir/917-ReverseOnlyLetters/reverseOnlyLetters.c.o"
+  "CMakeFiles/Algorithms.dir/122-BestTimetoBuyandSellStockII/bestTimetoBuyandSellStockII.c.o"
+  "CMakeFiles/Algorithms.dir/055-JumpGame/jumpGame.c.o"
+  "CMakeFiles/Algorithms.dir/169-MajorityElement/majorityElement.c.o"
+  "CMakeFiles/Algorithms.dir/128-LongestConsecutiveSequence/longestConsecutiveSequence.c.o"
+  "CMakeFiles/Algorithms.dir/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c.o"
+  "CMakeFiles/Algorithms.dir/124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.c.o"
   "Algorithms.pdb"
   "Algorithms"
 )

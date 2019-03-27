@@ -10,33 +10,33 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b6ff3/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b6ff3.dir/build.make CMakeFiles/cmTC_b6ff3.dir/build
-make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b6ff3.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_b6ff3.dir/testCCompiler.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_b6ff3
-/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6ff3.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_b6ff3.dir/testCCompiler.c.o  -o cmTC_b6ff3 
-make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_10019/fast"
+/usr/bin/make -f CMakeFiles/cmTC_10019.dir/build.make CMakeFiles/cmTC_10019.dir/build
+make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_10019.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_10019.dir/testCCompiler.c.o   -c /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_10019
+/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_10019.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_10019.dir/testCCompiler.c.o  -o cmTC_10019 
+make[1]: Leaving directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_25416/fast"
-/usr/bin/make -f CMakeFiles/cmTC_25416.dir/build.make CMakeFiles/cmTC_25416.dir/build
-make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o   -c /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_25416
-/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25416.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o  -o cmTC_25416 
+Run Build Command:"/usr/bin/make" "cmTC_39028/fast"
+/usr/bin/make -f CMakeFiles/cmTC_39028.dir/build.make CMakeFiles/cmTC_39028.dir/build
+make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o   -c /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_39028
+/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39028.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o  -o cmTC_39028 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -48,24 +48,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_25416' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccDqBTjp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_25416 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_25416' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_39028' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5WsPS8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_39028 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_39028' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_25416/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_25416.dir/build.make CMakeFiles/cmTC_25416.dir/build]
-  ignore line: [make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o   -c /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_25416]
-  ignore line: [/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25416.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o  -o cmTC_25416 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_39028/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_39028.dir/build.make CMakeFiles/cmTC_39028.dir/build]
+  ignore line: [make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o   -c /home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_39028]
+  ignore line: [/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39028.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o  -o cmTC_39028 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -77,13 +77,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_25416' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccDqBTjp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_25416 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_39028' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5WsPS8.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_39028 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccDqBTjp.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc5WsPS8.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -102,7 +102,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_25416] ==> ignore
+    arg [cmTC_39028] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -114,7 +114,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_25416.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_39028.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -144,17 +144,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c8b9d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_c8b9d.dir/build.make CMakeFiles/cmTC_c8b9d.dir/build
-make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c8b9d.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_c8b9d.dir/feature_tests.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_c8b9d
-/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c8b9d.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_c8b9d.dir/feature_tests.c.o  -o cmTC_c8b9d 
-make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_dd474/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dd474.dir/build.make CMakeFiles/cmTC_dd474.dir/build
+make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd474.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_dd474.dir/feature_tests.c.o   -c /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_dd474
+/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd474.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_dd474.dir/feature_tests.c.o  -o cmTC_dd474 
+make[1]: Leaving directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -164,17 +164,17 @@ make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/c
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8fb3e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8fb3e.dir/build.make CMakeFiles/cmTC_8fb3e.dir/build
-make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8fb3e.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_8fb3e.dir/feature_tests.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_8fb3e
-/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8fb3e.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_8fb3e.dir/feature_tests.c.o  -o cmTC_8fb3e 
-make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_79309/fast"
+/usr/bin/make -f CMakeFiles/cmTC_79309.dir/build.make CMakeFiles/cmTC_79309.dir/build
+make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_79309.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_79309.dir/feature_tests.c.o   -c /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_79309
+/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_79309.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_79309.dir/feature_tests.c.o  -o cmTC_79309 
+make[1]: Leaving directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -184,17 +184,17 @@ make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/c
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1b133/fast"
-/usr/bin/make -f CMakeFiles/cmTC_1b133.dir/build.make CMakeFiles/cmTC_1b133.dir/build
-make[1]: Entering directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_1b133.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_1b133.dir/feature_tests.c.o   -c /home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_1b133
-/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b133.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_1b133.dir/feature_tests.c.o  -o cmTC_1b133 
-make[1]: Leaving directory '/home/zyc/Documents/Project/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6a5a5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6a5a5.dir/build.make CMakeFiles/cmTC_6a5a5.dir/build
+make[1]: Entering directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6a5a5.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_6a5a5.dir/feature_tests.c.o   -c /home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_6a5a5
+/home/zyc/Downloads/clion-2018.3.4/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6a5a5.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_6a5a5.dir/feature_tests.c.o  -o cmTC_6a5a5 
+make[1]: Leaving directory '/home/zyc/Documents/leetcode/DataStructure/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes

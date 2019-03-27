@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DataStructure.dir/main.c.o"
-  "CMakeFiles/DataStructure.dir/BinaryTree/binaryTree.c.o"
   "DataStructure.pdb"
   "DataStructure"
 )
