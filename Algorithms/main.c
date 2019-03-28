@@ -55,6 +55,7 @@
 #include "215-KthLargestElementInAnArray/kthLargestElementInAnArray.h"
 #include "124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.h"
 #include "707-DesignLinkedList/designLinkedList.h"
+#include "008-StringtoInteger/stringtoInteger.h"
 
 
 
@@ -68,6 +69,9 @@ int main(int argc, char **argv)
 
     //002
     //addTwoNumbers_main();
+
+    //008
+    myAtoi_main();
 
     //13
     //remanToInteger();
@@ -220,7 +224,7 @@ int main(int argc, char **argv)
     //isSubtree_main();
 
     //707
-    myLinkList_main();
+    //myLinkList_main();
 
     //917
     //reverseOnlyLetters_main();

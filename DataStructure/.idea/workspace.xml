@@ -3,11 +3,11 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="DataStructure" targetName="DataStructure" />
+      <config projectName="DataStructure" targetName="libbinarytree" />
+      <config projectName="DataStructure" targetName="libutils" />
+      <config projectName="DataStructure" targetName="libstring" />
       <config projectName="DataStructure" targetName="libsort" />
       <config projectName="DataStructure" targetName="liblinklist" />
-      <config projectName="DataStructure" targetName="libutils" />
-      <config projectName="DataStructure" targetName="libbinarytree" />
-      <config projectName="DataStructure" targetName="libstring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -17,127 +17,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithms/707-DesignLinkedList/designLinkedList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/707-DesignLinkedList/designLinkedList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkList/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkList/linkList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkList/linkList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/sort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/008-StringtoInteger/stringtoInteger.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/008-StringtoInteger/stringtoInteger.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/008-StringtoInteger/stringtoInteger-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/Project.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithms/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryTree/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/String/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/LibBinaryTree.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DataStructure.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DataStructure" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DataStructure.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/LibBinaryTree.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Stirng/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/LibString.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/String/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/LibUtils.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Utils/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/String/cmake-build-debug/" />
@@ -174,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sort/sort.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
+            <state relative-caret-position="4994">
               <caret line="227" column="1" selection-start-line="227" selection-start-column="1" selection-end-line="227" selection-end-column="1" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
@@ -243,23 +128,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="DataStructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="DataStructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -346,17 +231,17 @@
       <workItem from="1553695654721" duration="2008000" />
       <workItem from="1553697681932" duration="6701000" />
       <workItem from="1553704682237" duration="47000" />
+      <workItem from="1553786694482" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25619000" />
+    <option name="totallyTimeSpent" value="25622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="484" y="37" width="1436" height="1163" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22536232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22971015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,14 +371,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Sort/Makefile">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Sort/Makefile" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-858" />
+        <state relative-caret-position="396">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
@@ -506,16 +390,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sort/sort.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sort/sort.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="4994">
           <caret line="227" column="1" selection-start-line="227" selection-start-column="1" selection-end-line="227" selection-end-column="1" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />
@@ -523,10 +400,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/Sort/sort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="154">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
