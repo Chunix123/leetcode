@@ -215,6 +215,90 @@ void shell_sort(int *arr, int len)
     }
 }
 
+// 6. heap_sort
+void heap_adjust(int *arr, int i, int len)
+{
+    int child;
+
+    for(; 2 * i + 1 < len; i = child)
+    {
+        child = 2 * i + 1;
+
+        if(child < len - 1 && arr[child + 1] > arr[child])
+            child++;
+
+        if(arr[i] < arr[child])
+        {
+            int temp = arr[child];
+            arr[child] = arr[i];
+            arr[i] = temp;
+        }
+        else
+            break;
+    }
+}
+
+void heap_sort(int *arr, int len)
+{
+    int i;
+
+    for(i = len / 2 - 1; i >= 0; i--)
+        heap_adjust(arr, i, len);
+
+    for(i = len - 1; i > 0; i--)
+    {
+        int temp = arr[0];
+        arr[0] = arr[i];
+        arr[i] = temp;
+
+        heap_adjust(arr, 0, i);
+    }
+}
+
+//7. merge sort
+void merge(int *arr, int start, int mid, int end)
+{
+    int n1 = mid -start + 1;
+    int n2 = end - mid;
+    int left[n1], right[n2];
+    int i, j, k;
+
+    for(i = 0; i < n1; i++)
+        left[i] = arr[start + i];
+
+    for(j = 0; j <n2; j++)
+        right[n2] = arr[mid + 1 + j];
+
+    i = 0;
+    j = 0;
+    k = start;
+
+    while(i < n1 && j < n2)
+    {
+        if(left[i] < right[j])
+            arr[k++] = left[i++];
+        else
+            arr[k++] = right[j++];
+    }
+
+    while(i < n1)
+        arr[k++] = left[i++];
+
+    while(i < n2)
+        arr[k++] = right[j++];
+}
+
+void merge_sort(int *arr, int start, int end)
+{
+    if(start < end)
+    {
+        int mid = (start + end) / 2;
+
+        merge_sort(arr, start, mid);
+        merge_sort(arr, mid + 1, end);
+        merge(arr, start, mid, end);
+    }
+}
 
 void test_sort()
 {
@@ -223,10 +307,9 @@ void test_sort()
     print_arr(arr, 10, 0);
     //quick_sort(arr, 0, 9);
     //quick_sort2(arr, 10);
-    shell_sort(arr, 10);
+    heap_sort(arr, 10);
     print_arr(arr, 10, 0);
 }
-
 
 
 int sort_main()
