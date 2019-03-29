@@ -5,10 +5,11 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
+#include <memory.h>
 #include "sort.h"
 
 
-
+// print int arr[] numbers
 void print_arr(int arr[], int len, int num)
 {
     int i;
@@ -300,6 +301,114 @@ void merge_sort(int *arr, int start, int end)
     }
 }
 
+// 8. counting sort
+void count_sort(int *arr, int len)
+{
+    int i, maxValue = arr[0];
+
+    for(i = 0; i < len; i++)
+    {
+        if(arr[i] > maxValue)
+            maxValue = arr[i];
+    }
+
+    maxValue += 1;
+
+    int *countArr = (int *)malloc(maxValue * sizeof(int));
+    int *sortsArr = (int *)malloc(len * sizeof(int));
+
+    for(i = 0; i < len; i++)
+        countArr[arr[i]]++;
+
+    for(i = 1; i < maxValue; i++)
+        countArr[i] += countArr[i - 1];
+
+    for(i = len - 1; i >= 0; --i)
+    {
+        sortsArr[countArr[arr[i]] - 1] = arr[i];
+        --countArr[arr[i]];
+    }
+
+    memcpy(arr, sortsArr, len * sizeof(int));
+
+    free(sortsArr);
+    free(countArr);
+}
+
+// 9. bucket sort
+void bucket_sort(int *arr, int len)
+{
+    if(arr == NULL || len < 1)
+        return;
+
+    int i, j, maxValue = arr[0];
+
+    for(i = 1; i < len; i++)
+    {
+        if(maxValue < arr[i])
+            maxValue = arr[i];
+    }
+    maxValue += 1;
+
+    int buckets[maxValue];
+
+    for(i = 0; i < maxValue; i++)
+        buckets[i] = 0;
+
+    for(i = 0; i < len; i++)
+        buckets[arr[i]]++;
+
+    for(i = 0, j = 0; i < maxValue; i++)
+    {
+        while((buckets[i]--) > 0)
+            arr[j++] = i;
+    }
+}
+
+// 10. radix sort
+int get_max(int a[], int n)
+{
+    int i, max = a[0];
+
+    for (i = 1; i < n; i++)
+        if (a[i] > max)
+            max = a[i];
+
+    return max;
+}
+
+void countSort(int a[], int n, int exp)
+{
+    int output[n];
+    int i, buckets[10] = {0};
+
+    for (i = 0; i < n; i++)
+        buckets[(a[i] / exp) % 10]++;
+
+    for (i = 1; i < 10; i++)
+        buckets[i] += buckets[i - 1];
+
+    for (i = n - 1; i >= 0; i--)
+    {
+        output[buckets[(a[i] / exp) % 10] - 1] = a[i];
+        buckets[(a[i] / exp) % 10]--;
+    }
+
+    for (i = 0; i < n; i++)
+        a[i] = output[i];
+}
+
+void radix_sort(int *arr, int len)
+{
+    int exp;
+
+    int maxValue = get_max(arr, len);
+
+    for(exp = 1; maxValue/exp > 0; exp++)
+        countSort(arr, len, exp);
+}
+
+
 void test_sort()
 {
     int arr[10] = {7,5,2,4,8,0,9,3,1,6};
@@ -307,9 +416,10 @@ void test_sort()
     print_arr(arr, 10, 0);
     //quick_sort(arr, 0, 9);
     //quick_sort2(arr, 10);
-    heap_sort(arr, 10);
+    radix_sort(arr, 10);
     print_arr(arr, 10, 0);
 }
+
 
 
 int sort_main()

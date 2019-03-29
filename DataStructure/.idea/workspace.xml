@@ -3,11 +3,11 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="DataStructure" targetName="DataStructure" />
-      <config projectName="DataStructure" targetName="libbinarytree" />
-      <config projectName="DataStructure" targetName="libutils" />
-      <config projectName="DataStructure" targetName="libstring" />
       <config projectName="DataStructure" targetName="libsort" />
       <config projectName="DataStructure" targetName="liblinklist" />
+      <config projectName="DataStructure" targetName="libutils" />
+      <config projectName="DataStructure" targetName="libbinarytree" />
+      <config projectName="DataStructure" targetName="libstring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -17,15 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/medianofTwoSortedArrays-zyc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/sort.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/String/cmake-build-debug/" />
@@ -62,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sort/sort.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="286" column="17" selection-start-line="286" selection-start-column="17" selection-end-line="286" selection-end-column="17" />
+            <state relative-caret-position="589">
+              <caret line="421" lean-forward="true" selection-start-line="421" selection-end-line="421" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
               </folding>
@@ -131,6 +123,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="DataStructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,17 +145,6 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="DataStructure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -243,16 +235,17 @@
       <workItem from="1553788611113" duration="3738000" />
       <workItem from="1553864925721" duration="320000" />
       <workItem from="1553872296266" duration="3000" />
+      <workItem from="1553872950091" duration="2242000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29683000" />
+    <option name="totallyTimeSpent" value="31925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="484" y="37" width="1436" height="1163" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24275362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24710146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/sort.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="286" column="17" selection-start-line="286" selection-start-column="17" selection-end-line="286" selection-end-column="17" />
+        <state relative-caret-position="589">
+          <caret line="421" lean-forward="true" selection-start-line="421" selection-end-line="421" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />
           </folding>
