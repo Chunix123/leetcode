@@ -12,12 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger-zyc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +35,47 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="1170">
+              <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="115" selection-start-line="115" selection-end-line="115" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="681">
+              <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -75,10 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/206-ReverseLinkedList/reverseLinkedList.c" />
-        <option value="$PROJECT_DIR$/206-ReverseLinkedList/reverseLinkedList.h" />
-        <option value="$PROJECT_DIR$/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c" />
-        <option value="$PROJECT_DIR$/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.h" />
         <option value="$PROJECT_DIR$/151-ReverseWordsinaString/reverseWordsinaString.h" />
         <option value="$PROJECT_DIR$/151-ReverseWordsinaString/reverseWordsinaString.c" />
         <option value="$PROJECT_DIR$/148-SortList/sortList.c" />
@@ -125,6 +160,10 @@
         <option value="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h" />
         <option value="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.c" />
         <option value="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.h" />
+        <option value="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c" />
+        <option value="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" />
+        <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
+        <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -158,6 +197,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="004-MedianofTwoSortedArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="008-StringtoInteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,6 +218,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="020-ValidParentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="026-RemoveDuplicatesfromSortedArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -414,16 +463,17 @@
       <workItem from="1553704733415" duration="28000" />
       <workItem from="1553781147315" duration="758000" />
       <workItem from="1553786684940" duration="5000" />
+      <workItem from="1553865252362" duration="866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62040000" />
+    <option name="totallyTimeSpent" value="62906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="37" width="1393" height="1163" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -453,38 +503,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/237-DeleteNodeinaLinkedList/deleteNodeinaLinkedList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/151-ReverseWordsinaString/reverseWordsinaString.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/151-ReverseWordsinaString/reverseWordsinaString.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1028">
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-          <folding>
-            <element signature="e#551#569#0" expanded="true" />
-            <element signature="e#646#1393#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/148-SortList/sortList.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2398">
@@ -837,16 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1694">
@@ -861,6 +869,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="115" selection-start-line="115" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

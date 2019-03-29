@@ -3,11 +3,11 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="DataStructure" targetName="DataStructure" />
+      <config projectName="DataStructure" targetName="libbinarytree" />
+      <config projectName="DataStructure" targetName="libutils" />
+      <config projectName="DataStructure" targetName="libstring" />
       <config projectName="DataStructure" targetName="libsort" />
       <config projectName="DataStructure" targetName="liblinklist" />
-      <config projectName="DataStructure" targetName="libutils" />
-      <config projectName="DataStructure" targetName="libbinarytree" />
-      <config projectName="DataStructure" targetName="libstring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -17,8 +17,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithms/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/004-MedianofTwoSortedArrays/medianofTwoSortedArrays-zyc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithms/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithms/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/sort.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/String/cmake-build-debug/" />
@@ -55,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sort/sort.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="283" column="17" lean-forward="true" selection-start-line="283" selection-start-column="17" selection-end-line="283" selection-end-column="17" />
+            <state relative-caret-position="88">
+              <caret line="286" column="17" selection-start-line="286" selection-start-column="17" selection-end-line="286" selection-end-column="17" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
               </folding>
@@ -234,16 +241,18 @@
       <workItem from="1553704682237" duration="47000" />
       <workItem from="1553786694482" duration="3000" />
       <workItem from="1553788611113" duration="3738000" />
+      <workItem from="1553864925721" duration="320000" />
+      <workItem from="1553872296266" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29360000" />
+    <option name="totallyTimeSpent" value="29683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="484" y="37" width="1436" height="1163" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23405798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24275362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -401,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sort/sort.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="283" column="17" lean-forward="true" selection-start-line="283" selection-start-column="17" selection-end-line="283" selection-end-column="17" />
+        <state relative-caret-position="88">
+          <caret line="286" column="17" selection-start-line="286" selection-start-column="17" selection-end-line="286" selection-end-column="17" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />
           </folding>

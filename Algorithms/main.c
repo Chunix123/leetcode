@@ -56,7 +56,8 @@
 #include "124-BinaryTreeMaximumPathSum/binaryTreeMaximumPathSum.h"
 #include "707-DesignLinkedList/designLinkedList.h"
 #include "008-StringtoInteger/stringtoInteger.h"
-
+#include "026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h"
+#include "004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h"
 
 
 
@@ -70,8 +71,11 @@ int main(int argc, char **argv)
     //002
     //addTwoNumbers_main();
 
+    //004
+    findMedianSortedArrays_main();
+
     //008
-    myAtoi_main();
+    //myAtoi_main();
 
     //13
     //remanToInteger();
@@ -93,6 +97,9 @@ int main(int argc, char **argv)
 
     //24
     //swapPairs_main();
+
+    //026
+    //removeDuplicates_main();
 
     //27.
     //removeElement_main();
