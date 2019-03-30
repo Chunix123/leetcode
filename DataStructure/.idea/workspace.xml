@@ -3,11 +3,11 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="DataStructure" targetName="DataStructure" />
+      <config projectName="DataStructure" targetName="libbinarytree" />
+      <config projectName="DataStructure" targetName="libutils" />
+      <config projectName="DataStructure" targetName="libstring" />
       <config projectName="DataStructure" targetName="libsort" />
       <config projectName="DataStructure" targetName="liblinklist" />
-      <config projectName="DataStructure" targetName="libutils" />
-      <config projectName="DataStructure" targetName="libbinarytree" />
-      <config projectName="DataStructure" targetName="libstring" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -16,9 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Sort/sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/sort.c" afterDir="false" />
-    </list>
+    <list default="true" id="f511af94-8166-431a-9ced-2d3be7523c79" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/String/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/Sort/sort.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
-              <caret line="421" lean-forward="true" selection-start-line="421" selection-end-line="421" />
+              <caret line="421" selection-start-line="421" selection-end-line="421" />
               <folding>
                 <element signature="e#37#55#0" expanded="true" />
               </folding>
@@ -236,16 +234,17 @@
       <workItem from="1553864925721" duration="320000" />
       <workItem from="1553872296266" duration="3000" />
       <workItem from="1553872950091" duration="2242000" />
+      <workItem from="1553875289814" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31925000" />
+    <option name="totallyTimeSpent" value="31935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="484" y="37" width="1436" height="1163" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24710146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2514493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -404,7 +403,7 @@
     <entry file="file://$PROJECT_DIR$/Sort/sort.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="421" lean-forward="true" selection-start-line="421" selection-end-line="421" />
+          <caret line="421" selection-start-line="421" selection-end-line="421" />
           <folding>
             <element signature="e#37#55#0" expanded="true" />
           </folding>

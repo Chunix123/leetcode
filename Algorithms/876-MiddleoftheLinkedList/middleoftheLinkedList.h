@@ -1,0 +1,10 @@
+//
+// Created by zyc on 3/30/19.
+//
+
+#ifndef PROJECT_MIDDLEOFTHELINKEDLIST_H
+#define PROJECT_MIDDLEOFTHELINKEDLIST_H
+
+int middleNode_main();
+
+#endif //PROJECT_MIDDLEOFTHELINKEDLIST_H

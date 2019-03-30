@@ -57,7 +57,8 @@
 #include "707-DesignLinkedList/designLinkedList.h"
 #include "008-StringtoInteger/stringtoInteger.h"
 #include "026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h"
-#include "004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h"
+#include "004-MedianofTwoSortedArrays/medianofTwoSortedArrays.h"
+#include "876-MiddleoftheLinkedList/middleoftheLinkedList.h"
 
 
 
@@ -72,7 +73,7 @@ int main(int argc, char **argv)
     //addTwoNumbers_main();
 
     //004
-    findMedianSortedArrays_main();
+    //findMedianSortedArrays_main();
 
     //008
     //myAtoi_main();
@@ -232,6 +233,9 @@ int main(int argc, char **argv)
 
     //707
     //myLinkList_main();
+
+    //867
+    middleNode_main();
 
     //917
     //reverseOnlyLetters_main();

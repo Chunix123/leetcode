@@ -22,7 +22,7 @@
     The median is (2 + 3)/2 = 2.5
  *
  */
-#include "median of Two Sorted Arrays.h"
+#include "medianofTwoSortedArrays.h"
 
 
 
