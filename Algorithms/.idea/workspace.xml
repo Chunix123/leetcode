@@ -12,14 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="237" column="6" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="6" />
+            <state relative-caret-position="215">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -44,13 +42,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c">
+        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+            <state relative-caret-position="-88">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#37#55#0" expanded="true" />
+                <element signature="e#37#56#0" expanded="true" />
+                <element signature="e#86#913#0" />
+                <element signature="e#1790#2376#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -77,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/345-ReverseVowelsofAString/reverseVowelsofAString.h" />
-        <option value="$PROJECT_DIR$/345-ReverseVowelsofAString/reverseVowelsofAString.c" />
         <option value="$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.h" />
         <option value="$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.c" />
         <option value="$PROJECT_DIR$/415-AddStrings/addStrings.h" />
@@ -126,8 +133,10 @@
         <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c" />
         <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays.c" />
+        <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
       </list>
     </option>
   </component>
@@ -156,6 +165,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="001-TwoSum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="003-LongestSubstringWithoutRepeatingCharacters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -433,16 +447,18 @@
       <workItem from="1553786684940" duration="5000" />
       <workItem from="1553865252362" duration="866000" />
       <workItem from="1553958704892" duration="391000" />
+      <workItem from="1554032568118" duration="770000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63297000" />
+    <option name="totallyTimeSpent" value="64067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="37" width="1393" height="1163" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26327598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -456,7 +472,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.2398374" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.2398374" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,20 +488,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/345-ReverseVowelsofAString/reverseVowelsofAString.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -824,27 +826,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
+    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -859,22 +842,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="237" column="6" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="6" />
+        <state relative-caret-position="215">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c">
+    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="37" column="21" lean-forward="true" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="-88">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#37#55#0" expanded="true" />
+            <element signature="e#37#56#0" expanded="true" />
+            <element signature="e#86#913#0" />
+            <element signature="e#1790#2376#0" />
           </folding>
         </state>
       </provider>

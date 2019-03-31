@@ -59,6 +59,7 @@
 #include "026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h"
 #include "004-MedianofTwoSortedArrays/medianofTwoSortedArrays.h"
 #include "876-MiddleoftheLinkedList/middleoftheLinkedList.h"
+#include "003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h"
 
 
 
@@ -71,6 +72,9 @@ int main(int argc, char **argv)
 
     //002
     //addTwoNumbers_main();
+
+    //003
+    lengthOfLongestSubstring_main();
 
     //004
     //findMedianSortedArrays_main();
@@ -235,7 +239,7 @@ int main(int argc, char **argv)
     //myLinkList_main();
 
     //867
-    middleNode_main();
+    //middleNode_main();
 
     //917
     //reverseOnlyLetters_main();
