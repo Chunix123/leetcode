@@ -12,12 +12,101 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters-zyc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c" beforeDir="false" afterPath="$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="1139">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -41,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-88">
+            <state relative-caret-position="17">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#37#56#0" expanded="true" />
@@ -55,11 +144,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-635">
+              <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="119">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -67,7 +165,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="119">
               <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
@@ -86,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.h" />
         <option value="$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.c" />
         <option value="$PROJECT_DIR$/415-AddStrings/addStrings.h" />
         <option value="$PROJECT_DIR$/415-AddStrings/addStrings.c" />
@@ -137,14 +234,15 @@
         <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" />
         <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
+        <option value="$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="527" />
-    <option name="y" value="37" />
+    <option name="y" value="27" />
     <option name="width" value="1393" />
-    <option name="height" value="1163" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,6 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,6 +294,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="020-ValidParentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="021-MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -370,7 +474,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,17 +551,17 @@
       <workItem from="1553865252362" duration="866000" />
       <workItem from="1553958704892" duration="391000" />
       <workItem from="1554032568118" duration="770000" />
+      <workItem from="1554122258875" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64067000" />
+    <option name="totallyTimeSpent" value="64154000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="37" width="1393" height="1163" extended-state="0" />
-    <editor active="true" />
+    <frame x="527" y="27" width="1393" height="1053" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26327598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26686433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -472,7 +575,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.2398374" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.23896663" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -488,17 +591,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/468-ValidateIPAddress/validateIPAddress.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="271" lean-forward="true" selection-start-line="271" selection-end-line="271" />
-          <folding>
-            <element signature="e#37#55#0" expanded="true" />
-            <element signature="e#70#1615#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/415-AddStrings/addStrings.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -842,13 +934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="699">
@@ -859,32 +944,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="1139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
+        <state relative-caret-position="17">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
             <element signature="e#86#913#0" />
             <element signature="e#1790#2376#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-635">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
