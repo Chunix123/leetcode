@@ -1,0 +1,10 @@
+//
+// Created by zyc on 4/1/19.
+//
+
+#ifndef PROJECT_LONGESTPALINDROMICSUBSTRING_H
+#define PROJECT_LONGESTPALINDROMICSUBSTRING_H
+
+int longestPalindrome_main();
+
+#endif //PROJECT_LONGESTPALINDROMICSUBSTRING_H

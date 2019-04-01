@@ -60,7 +60,7 @@
 #include "004-MedianofTwoSortedArrays/medianofTwoSortedArrays.h"
 #include "876-MiddleoftheLinkedList/middleoftheLinkedList.h"
 #include "003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h"
-
+#include "005-LongestPalindromicSubstring/longestPalindromicSubstring.h"
 
 
 int main(int argc, char **argv)
@@ -74,10 +74,13 @@ int main(int argc, char **argv)
     //addTwoNumbers_main();
 
     //003
-    lengthOfLongestSubstring_main();
+    //lengthOfLongestSubstring_main();
 
     //004
     //findMedianSortedArrays_main();
+
+    //005
+    longestPalindrome_main();
 
     //008
     //myAtoi_main();

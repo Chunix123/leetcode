@@ -59,7 +59,7 @@ int lengthOfLongestSubstring(char* s)
 
     memset(numChar, 0, sizeof(numChar));
 
-    for (i = 0; s[i] != '\0'; i ++)
+    for (i = 0; s[i] != '\0'; i++)
     {
         if (++numChar[s[i]] == 2)
         {
