@@ -1,0 +1,10 @@
+//
+// Created by zyc on 4/2/19.
+//
+
+#ifndef ALGORITHMS_MERGEKSORTEDLISTS_H
+#define ALGORITHMS_MERGEKSORTEDLISTS_H
+
+int mergeKLists23_main();
+
+#endif //ALGORITHMS_MERGEKSORTEDLISTS_H

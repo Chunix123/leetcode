@@ -12,12 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007-ReverseInteger/reverseInteger-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,16 +34,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-528">
+            <state relative-caret-position="22">
               <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="216" column="17" selection-start-line="216" selection-start-column="17" selection-end-line="216" selection-end-column="17" />
+              <folding>
+                <element signature="e#36#54#0" expanded="true" />
+                <element signature="e#1370#2203#0" />
+                <element signature="e#2206#4226#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="374">
               <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
@@ -73,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/020-ValidParentheses/validParentheses.h" />
-        <option value="$PROJECT_DIR$/112-PathSum/pathSum.c" />
         <option value="$PROJECT_DIR$/112-PathSum/pathSum.h" />
         <option value="$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.c" />
         <option value="$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.h" />
@@ -124,6 +143,8 @@
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h" />
         <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c" />
+        <option value="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c" />
+        <option value="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h" />
       </list>
     </option>
   </component>
@@ -197,6 +218,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="021-MergeTwoSortedLists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="023-MergekSortedLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -455,18 +481,19 @@
       <workItem from="1554132078930" duration="233000" />
       <workItem from="1554132332688" duration="32000" />
       <workItem from="1554133000989" duration="16000" />
-      <workItem from="1554207650510" duration="292000" />
+      <workItem from="1554207650510" duration="400000" />
+      <workItem from="1554210321359" duration="1454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64727000" />
+    <option name="totallyTimeSpent" value="66289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="36" width="1393" height="1164" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28795812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29394165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -496,23 +523,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/112-PathSum/pathSum.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/112-PathSum/pathSum.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#499#519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
@@ -860,6 +870,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -867,17 +891,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-528">
-          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c">
+    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="535">
+          <caret line="216" column="17" selection-start-line="216" selection-start-column="17" selection-end-line="216" selection-end-column="17" />
+          <folding>
+            <element signature="e#36#54#0" expanded="true" />
+            <element signature="e#1370#2203#0" />
+            <element signature="e#2206#4226#0" />
+          </folding>
         </state>
       </provider>
     </entry>
