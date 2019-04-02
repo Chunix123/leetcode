@@ -61,6 +61,8 @@
 #include "876-MiddleoftheLinkedList/middleoftheLinkedList.h"
 #include "003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h"
 #include "005-LongestPalindromicSubstring/longestPalindromicSubstring.h"
+#include "007-ReverseInteger/reverseInteger.h"
+
 
 
 int main(int argc, char **argv)
@@ -80,7 +82,10 @@ int main(int argc, char **argv)
     //findMedianSortedArrays_main();
 
     //005
-    longestPalindrome_main();
+    //longestPalindrome_main();
+
+    //007
+    reverse7_main();
 
     //008
     //myAtoi_main();
