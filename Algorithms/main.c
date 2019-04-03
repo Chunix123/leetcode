@@ -62,6 +62,7 @@
 #include "003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h"
 #include "005-LongestPalindromicSubstring/longestPalindromicSubstring.h"
 #include "007-ReverseInteger/reverseInteger.h"
+#include "189-RotateArray/rotateArray.h"
 
 
 
@@ -85,7 +86,7 @@ int main(int argc, char **argv)
     //longestPalindrome_main();
 
     //007
-    reverse7_main();
+    //reverse7_main();
 
     //008
     //myAtoi_main();
@@ -200,6 +201,9 @@ int main(int argc, char **argv)
 
     //160.
     //getIntersectionNode_main();
+
+    //189
+    rotate_main();
 
     //203.
     //removeElements_main();

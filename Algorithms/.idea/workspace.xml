@@ -12,10 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189-RotateArray/rotateArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/189-RotateArray/rotateArray.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,52 +32,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="216" column="17" selection-start-line="216" selection-start-column="17" selection-end-line="216" selection-end-column="17" />
-              <folding>
-                <element signature="e#36#54#0" expanded="true" />
-                <element signature="e#1370#2203#0" />
-                <element signature="e#2206#4226#0" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
+        <entry file="file://$PROJECT_DIR$/189-RotateArray/rotateArray.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="638">
+              <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c">
+        <entry file="file://$PROJECT_DIR$/189-RotateArray/rotateArray.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -94,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/112-PathSum/pathSum.h" />
-        <option value="$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.c" />
         <option value="$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.h" />
         <option value="$PROJECT_DIR$/113-PathSumII/pathSumII.h" />
         <option value="$PROJECT_DIR$/113-PathSumII/pathSumII.c" />
@@ -141,10 +117,12 @@
         <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.h" />
         <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.c" />
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c" />
         <option value="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c" />
         <option value="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h" />
+        <option value="$PROJECT_DIR$/189-RotateArray/rotateArray.c" />
+        <option value="$PROJECT_DIR$/189-RotateArray/rotateArray.h" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -162,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,6 +301,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="189-RotateArray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="206-ReverseLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -398,7 +382,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,18 +465,18 @@
       <workItem from="1554132332688" duration="32000" />
       <workItem from="1554133000989" duration="16000" />
       <workItem from="1554207650510" duration="400000" />
-      <workItem from="1554210321359" duration="1454000" />
+      <workItem from="1554210321359" duration="1558000" />
+      <workItem from="1554305112134" duration="399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66289000" />
+    <option name="totallyTimeSpent" value="66792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="36" width="1393" height="1164" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29394165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2999252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -507,7 +490,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.3292683" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.23857868" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.23857868" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -523,23 +506,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#266#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/226-InvertBinaryTree/invertBinaryTree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/113-PathSumII/pathSumII.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -870,10 +836,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+        <state relative-caret-position="154">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -891,22 +857,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
+    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="2200">
+          <caret line="167" column="12" lean-forward="true" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c">
+    <entry file="file://$PROJECT_DIR$/189-RotateArray/rotateArray.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="216" column="17" selection-start-line="216" selection-start-column="17" selection-end-line="216" selection-end-column="17" />
-          <folding>
-            <element signature="e#36#54#0" expanded="true" />
-            <element signature="e#1370#2203#0" />
-            <element signature="e#2206#4226#0" />
-          </folding>
+        <state relative-caret-position="638">
+          <caret line="57" selection-start-line="57" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/189-RotateArray/rotateArray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
         </state>
       </provider>
     </entry>
