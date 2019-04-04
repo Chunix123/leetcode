@@ -63,6 +63,7 @@
 #include "005-LongestPalindromicSubstring/longestPalindromicSubstring.h"
 #include "007-ReverseInteger/reverseInteger.h"
 #include "189-RotateArray/rotateArray.h"
+#include "035-SearchInsertPosition/searchInsertPosition.h"
 
 
 
@@ -120,6 +121,9 @@ int main(int argc, char **argv)
 
     //28.
     //strStr_main();
+
+    //35
+    searchInsert_main();
 
     //055
     //canJump_main();

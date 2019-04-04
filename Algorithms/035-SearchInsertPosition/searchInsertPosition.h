@@ -1,0 +1,10 @@
+//
+// Created by zyc on 4/4/19.
+//
+
+#ifndef ALGORITHMS_SEARCHINSERTPOSITION_H
+#define ALGORITHMS_SEARCHINSERTPOSITION_H
+
+int searchInsert_main();
+
+#endif //ALGORITHMS_SEARCHINSERTPOSITION_H
