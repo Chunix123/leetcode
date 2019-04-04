@@ -12,8 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
@@ -34,26 +35,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+            <state relative-caret-position="352">
+              <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.c">
+        <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="65" column="4" selection-start-line="65" selection-end-line="65" selection-end-column="23" />
+            <state relative-caret-position="770">
+              <caret line="53" selection-start-line="53" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h">
+        <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -71,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/113-PathSumII/pathSumII.c" />
-        <option value="$PROJECT_DIR$/437-PathSumIII/pathSumIII.h" />
         <option value="$PROJECT_DIR$/437-PathSumIII/pathSumIII.c" />
         <option value="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h" />
         <option value="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c" />
@@ -121,6 +120,8 @@
         <option value="$PROJECT_DIR$/189-RotateArray/rotateArray.h" />
         <option value="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.c" />
         <option value="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h" />
+        <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c" />
+        <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -139,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +212,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="027-RemoveElement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="033-SearchinRotatedSortedArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -385,7 +392,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -471,18 +477,18 @@
       <workItem from="1554207650510" duration="400000" />
       <workItem from="1554210321359" duration="1558000" />
       <workItem from="1554305112134" duration="399000" />
-      <workItem from="1554383750548" duration="243000" />
+      <workItem from="1554383750548" duration="854000" />
+      <workItem from="1554397209941" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67035000" />
+    <option name="totallyTimeSpent" value="68540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="36" width="1393" height="1164" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30590874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23410621" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -512,23 +518,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/113-PathSumII/pathSumII.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="66" column="36" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="36" />
-          <folding>
-            <element signature="e#37#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/437-PathSumIII/pathSumIII.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -872,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
+        <state relative-caret-position="1430">
           <caret line="65" column="4" selection-start-line="65" selection-end-line="65" selection-end-column="23" />
         </state>
       </provider>
@@ -880,14 +869,28 @@
     <entry file="file://$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="53" selection-start-line="53" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="65" column="57" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
+        <state relative-caret-position="352">
+          <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
         </state>
       </provider>
     </entry>
