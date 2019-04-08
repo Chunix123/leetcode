@@ -65,6 +65,8 @@
 #include "189-RotateArray/rotateArray.h"
 #include "035-SearchInsertPosition/searchInsertPosition.h"
 #include "033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h"
+#include "043-MultiplyStrings/multiplyStrings.h"
+
 
 
 
@@ -124,10 +126,13 @@ int main(int argc, char **argv)
     //strStr_main();
 
     //33
-    search_main();
+    //search_main();
 
     //35
     //searchInsert_main();
+
+    //043
+    multiply_main();
 
     //055
     //canJump_main();
@@ -211,7 +216,7 @@ int main(int argc, char **argv)
     //getIntersectionNode_main();
 
     //189
-    rotate_main();
+    //rotate_main();
 
     //203.
     //removeElements_main();
