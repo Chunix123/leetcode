@@ -1,0 +1,10 @@
+//
+// Created by zyc on 19-4-9.
+//
+
+#ifndef ALGORITHMS_DIVIDETWOINTEGERS_H
+#define ALGORITHMS_DIVIDETWOINTEGERS_H
+
+int divide29_main();
+
+#endif //ALGORITHMS_DIVIDETWOINTEGERS_H

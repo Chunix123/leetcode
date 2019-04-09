@@ -12,93 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/libbinarytree.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/BinaryTree/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/DataStructure.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/DataStructure.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/liblinklist.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/LinkList/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/libsort.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Sort/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/libstring.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/String/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/libutils.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/Utils/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructure/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,29 +32,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="456">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="e#35#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h">
+        <entry file="file://$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -154,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c" />
-        <option value="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.h" />
         <option value="$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c" />
         <option value="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.c" />
         <option value="$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h" />
@@ -203,8 +122,10 @@
         <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c" />
         <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h" />
         <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c" />
+        <option value="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.h" />
+        <option value="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -218,10 +139,11 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,6 +215,16 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="027-RemoveElement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="028-ImplementstrStr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="029-DivideTwoIntegers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -478,6 +410,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,7 +419,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -568,16 +501,17 @@
       <workItem from="1554397209941" duration="894000" />
       <workItem from="1554431993505" duration="179000" />
       <workItem from="1554754606777" duration="1055000" />
+      <workItem from="1554768730258" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69774000" />
+    <option name="totallyTimeSpent" value="71125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="0" width="1399" height="1189" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21103653" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21455085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -591,7 +525,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.35434574" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.35344017" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -607,23 +541,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/094-BinaryTreeInorderTraversal/binaryTreeInorderTraversal.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#37#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/144-BinaryTreePreorderTraversal/binaryTreePreorderTraversal.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/145-BinaryTreePostorderTraversal/binaryTreePostorderTraversal.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -969,17 +886,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="67" column="47" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+        <state relative-caret-position="532">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#953#981#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c">
+    <entry file="file://$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
