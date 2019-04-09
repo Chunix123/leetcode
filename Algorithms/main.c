@@ -69,6 +69,7 @@
 #include "029-DivideTwoIntegers/divideTwoIntegers.h"
 #include "100-SameTree/sameTree.h"
 #include "101-SymmetricTree/symmetricTree.h"
+#include "050-Powxn/powxn.h"
 
 
 
@@ -138,6 +139,9 @@ int main(int argc, char **argv)
 
     //043
     //multiply_main();
+
+    //50
+    myPow_main();
 
     //055
     //canJump_main();
