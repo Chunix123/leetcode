@@ -67,6 +67,7 @@
 #include "033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h"
 #include "043-MultiplyStrings/multiplyStrings.h"
 #include "029-DivideTwoIntegers/divideTwoIntegers.h"
+#include "100-SameTree/sameTree.h"
 
 
 
@@ -126,7 +127,7 @@ int main(int argc, char **argv)
     //strStr_main();
 
     //029
-    divide29_main();
+    //divide29_main();
 
     //33
     //search_main();
@@ -163,6 +164,9 @@ int main(int argc, char **argv)
 
     //94
     //inorderTraversal_main();
+
+    //100
+    isSameTree_main();
 
     //102
     //levelOrder_main();
