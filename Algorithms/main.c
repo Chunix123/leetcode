@@ -68,6 +68,7 @@
 #include "043-MultiplyStrings/multiplyStrings.h"
 #include "029-DivideTwoIntegers/divideTwoIntegers.h"
 #include "100-SameTree/sameTree.h"
+#include "101-SymmetricTree/symmetricTree.h"
 
 
 
@@ -166,7 +167,10 @@ int main(int argc, char **argv)
     //inorderTraversal_main();
 
     //100
-    isSameTree_main();
+    //isSameTree_main();
+
+    //101
+    isSymmetric_main();
 
     //102
     //levelOrder_main();
