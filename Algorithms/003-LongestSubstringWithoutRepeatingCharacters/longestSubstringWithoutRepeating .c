@@ -51,7 +51,7 @@ int lengthOfLongestSubstring(char* s)
     return maxlen;
 }
 */
-
+/*
 int lengthOfLongestSubstring(char* s)
 {
     int maxlen = 0, currentlen = 0;
@@ -94,7 +94,7 @@ int lengthOfLongestSubstring(char* s)
 
     return maxlen;
 }
-
+*/
 
 /*
 int lengthOfLongestSubstring(char* s)
@@ -126,6 +126,67 @@ int lengthOfLongestSubstring(char* s)
     }
 
     return best;
+}
+*/
+
+int lengthOfLongestSubstring(char* s)
+{
+    int i = 0, j = 0;
+    int max_len = 0;
+    int map[128];
+
+    memset(map, -1, sizeof(int)*128);
+
+    while (s[j])
+    {
+        if (map[s[j]] < i)
+        {
+            map[s[j]] = j;
+        }
+        else
+        {
+            i = map[s[j]] + 1;
+            map[s[j]] = j;
+        }
+
+        if (j - i + 1 > max_len)
+            max_len = j - i + 1;
+
+        j++;
+    }
+
+    return max_len;
+}
+
+/*
+int lengthOfLongestSubstring(char* s)
+{
+
+    int len = strlen(s);
+    int *set = (int*)malloc(128 * sizeof(int));
+
+    memset(set, 0, 128 * sizeof(int));
+
+    int i = 0, j = 0;
+
+    int maxlen = 0;
+
+    while(i < len && j < len)
+    {
+        if(!set[s[j]])
+        {
+            set[s[j++]] = 1;
+
+            if(j - i >= maxlen)
+                maxlen = j - i;
+        }
+        else
+        {
+            set[s[i++]] = 0;
+        }
+    }
+
+    return maxlen;
 }
 */
 

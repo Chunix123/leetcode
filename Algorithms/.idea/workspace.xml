@@ -12,11 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" beforeDir="false" afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +28,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
@@ -40,6 +36,27 @@
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+              <folding>
+                <element signature="e#37#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -102,7 +119,6 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays.c" />
         <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" />
-        <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
         <option value="$PROJECT_DIR$/021-MergeTwoSortedLists/mergeTwoSortedLists.c" />
         <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.h" />
         <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.c" />
@@ -129,6 +145,7 @@
         <option value="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.c" />
         <option value="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h" />
         <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
       </list>
     </option>
   </component>
@@ -529,12 +546,12 @@
       <workItem from="1554847885705" duration="294000" />
       <workItem from="1554850375982" duration="213000" />
       <workItem from="1554851211354" duration="5000" />
-      <workItem from="1554908451119" duration="812000" />
+      <workItem from="1554908451119" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73046000" />
+    <option name="totallyTimeSpent" value="73707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="267" y="0" width="1399" height="1193" extended-state="0" />
@@ -738,27 +755,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2028">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#37#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -951,6 +951,23 @@
           <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
+          <folding>
+            <element signature="e#37#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
