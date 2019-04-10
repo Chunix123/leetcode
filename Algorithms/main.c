@@ -70,6 +70,8 @@
 #include "100-SameTree/sameTree.h"
 #include "101-SymmetricTree/symmetricTree.h"
 #include "050-Powxn/powxn.h"
+#include "104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h"
+
 
 
 
@@ -141,7 +143,7 @@ int main(int argc, char **argv)
     //multiply_main();
 
     //50
-    myPow_main();
+    //myPow_main();
 
     //055
     //canJump_main();
@@ -174,10 +176,13 @@ int main(int argc, char **argv)
     //isSameTree_main();
 
     //101
-    isSymmetric_main();
+    //isSymmetric_main();
 
     //102
     //levelOrder_main();
+
+    //104
+    maxDepth_main();
 
     //112
     //hasPathSum_main();
