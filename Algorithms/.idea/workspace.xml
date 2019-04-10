@@ -12,7 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" beforeDir="false" afterPath="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +32,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="110">
+              <caret line="261" selection-start-line="261" selection-end-line="261" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -40,44 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
-              <folding>
-                <element signature="e#37#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="528">
+              <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
+        <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="877">
-              <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="19" />
-              <folding>
-                <element signature="e#436#473#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -95,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/434-NumberofSegmentsinAString/numberofSegmentsinAString.h" />
-        <option value="$PROJECT_DIR$/001-TwoSum/001-twoSum.h" />
         <option value="$PROJECT_DIR$/001-TwoSum/001-twoSum.c" />
         <option value="$PROJECT_DIR$/018-4Sum/4Sum.c" />
         <option value="$PROJECT_DIR$/018-4Sum/4Sum.h" />
@@ -144,8 +122,10 @@
         <option value="$PROJECT_DIR$/050-Powxn/powxn.h" />
         <option value="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.c" />
         <option value="$PROJECT_DIR$/104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
+        <option value="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c" />
+        <option value="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -394,6 +374,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="283-MoveZeroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="316-RemoveDuplicateLetters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -546,16 +531,15 @@
       <workItem from="1554847885705" duration="294000" />
       <workItem from="1554850375982" duration="213000" />
       <workItem from="1554851211354" duration="5000" />
-      <workItem from="1554908451119" duration="1473000" />
+      <workItem from="1554908451119" duration="2265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73707000" />
+    <option name="totallyTimeSpent" value="74499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="267" y="0" width="1399" height="1193" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23564504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -587,20 +571,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/001-TwoSum/001-twoSum.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001-TwoSum/001-twoSum.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/018-4Sum/4Sum.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -945,16 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -964,10 +924,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
+        <state relative-caret-position="143">
           <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
           <folding>
             <element signature="e#37#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
           </folding>
         </state>
       </provider>

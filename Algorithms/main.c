@@ -71,6 +71,7 @@
 #include "101-SymmetricTree/symmetricTree.h"
 #include "050-Powxn/powxn.h"
 #include "104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h"
+#include "283-MoveZeroes/moveZeroes.h"
 
 
 
@@ -182,7 +183,7 @@ int main(int argc, char **argv)
     //levelOrder_main();
 
     //104
-    maxDepth_main();
+    //maxDepth_main();
 
     //112
     //hasPathSum_main();
@@ -255,6 +256,9 @@ int main(int argc, char **argv)
 
     //237
     //deleteNode_main();
+
+    //283
+    moveZeroes_main();
 
     //316
     //removeDuplicateLetters_main();
