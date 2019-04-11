@@ -74,6 +74,7 @@
 #include "283-MoveZeroes/moveZeroes.h"
 #include "258-AddDigits/addDigits.h"
 #include "257-BinaryTreePaths/binaryTreePaths.h"
+#include "387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h"
 
 
 
@@ -260,7 +261,7 @@ int main(int argc, char **argv)
     //deleteNode_main();
 
     //257
-    binaryTreePaths_main();
+    //binaryTreePaths_main();
 
     //258
     //addDigits_main();
@@ -276,6 +277,9 @@ int main(int argc, char **argv)
 
     //345
     //reverseVowels_main();
+
+    //387
+    firstUniqChar_main();
 
     //415
     //addStrings_main();

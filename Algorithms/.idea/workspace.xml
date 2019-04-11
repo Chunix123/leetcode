@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/258-AddDigits/addDigits.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/258-AddDigits/addDigits.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
@@ -39,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="627">
+              <caret line="282" selection-start-line="282" selection-end-line="282" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -49,43 +45,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c">
+        <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="209">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding>
-                <element signature="e#330#358#0" expanded="true" />
+                <element signature="e#355#397#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-              <folding>
-                <element signature="e#181#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h">
+        <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -103,8 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/128-LongestConsecutiveSequence/longestConsecutiveSequence.c" />
-        <option value="$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c" />
         <option value="$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h" />
         <option value="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.c" />
         <option value="$PROJECT_DIR$/707-DesignLinkedList/designLinkedList.h" />
@@ -152,8 +125,10 @@
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c" />
+        <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c" />
       </list>
     </option>
   </component>
@@ -172,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -433,6 +407,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="387-FirstUniqueCharacterinaString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="415-AddStrings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -474,6 +453,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -572,16 +552,17 @@
       <workItem from="1554908451119" duration="2265000" />
       <workItem from="1554912722708" duration="4000" />
       <workItem from="1554985531763" duration="2533000" />
+      <workItem from="1554992445408" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77036000" />
+    <option name="totallyTimeSpent" value="77256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="0" width="1399" height="1193" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24459359" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24906786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -611,23 +592,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/128-LongestConsecutiveSequence/longestConsecutiveSequence.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="e#37#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/215-KthLargestElementInAnArray/kthLargestElementInAnArray.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -951,13 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -975,22 +932,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#330#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="627">
+          <caret line="282" selection-start-line="282" selection-end-line="282" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c">
+    <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="209">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding>
-            <element signature="e#330#358#0" expanded="true" />
+            <element signature="e#355#397#0" expanded="true" />
           </folding>
         </state>
       </provider>
