@@ -72,6 +72,8 @@
 #include "050-Powxn/powxn.h"
 #include "104-MaximumDepthofBinaryTree/maximumDepthofBinaryTree.h"
 #include "283-MoveZeroes/moveZeroes.h"
+#include "258-AddDigits/addDigits.h"
+#include "257-BinaryTreePaths/binaryTreePaths.h"
 
 
 
@@ -257,8 +259,14 @@ int main(int argc, char **argv)
     //237
     //deleteNode_main();
 
+    //257
+    binaryTreePaths_main();
+
+    //258
+    //addDigits_main();
+
     //283
-    moveZeroes_main();
+    //moveZeroes_main();
 
     //316
     //removeDuplicateLetters_main();
