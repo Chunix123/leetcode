@@ -76,6 +76,7 @@
 #include "257-BinaryTreePaths/binaryTreePaths.h"
 #include "387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h"
 #include "242-ValidAnagram/validAnagram.h"
+#include "443-StringCompression/stringCompression.h"
 
 
 
@@ -262,7 +263,7 @@ int main(int argc, char **argv)
     //deleteNode_main();
 
     //242
-    isAnagram_main();
+    //isAnagram_main();
 
     //257
     //binaryTreePaths_main();
@@ -293,6 +294,9 @@ int main(int argc, char **argv)
 
     //437
     //pathSum3_main();
+
+    //443
+    //compress_main();
 
     //468
     //validIPAddress_main();

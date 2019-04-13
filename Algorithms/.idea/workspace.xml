@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/242-ValidAnagram/validAnagram.c" beforeDir="false" afterPath="$PROJECT_DIR$/242-ValidAnagram/validAnagram.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/242-ValidAnagram/validAnagram.h" beforeDir="false" afterPath="$PROJECT_DIR$/242-ValidAnagram/validAnagram.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/443-StringCompression/stringCompression.c" beforeDir="false" afterPath="$PROJECT_DIR$/443-StringCompression/stringCompression.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/443-StringCompression/stringCompression.h" beforeDir="false" afterPath="$PROJECT_DIR$/443-StringCompression/stringCompression.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -37,8 +33,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
+            <state relative-caret-position="345">
+              <caret line="299" selection-start-line="299" selection-end-line="299" />
+              <folding>
+                <element signature="e#35#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            <state relative-caret-position="113">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -55,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="133">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -120,10 +119,10 @@
         <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h" />
         <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c" />
         <option value="$PROJECT_DIR$/242-ValidAnagram/validAnagram.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/242-ValidAnagram/validAnagram.c" />
-        <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.h" />
+        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.c" />
       </list>
     </option>
@@ -560,12 +559,12 @@
       <workItem from="1554912722708" duration="4000" />
       <workItem from="1554985531763" duration="2533000" />
       <workItem from="1554992445408" duration="220000" />
-      <workItem from="1555166085246" duration="529000" />
+      <workItem from="1555166085246" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77785000" />
+    <option name="totallyTimeSpent" value="78563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="30" width="1399" height="1170" extended-state="0" />
@@ -951,13 +950,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="77" column="41" selection-start-line="77" selection-start-column="41" selection-end-line="77" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -965,17 +957,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="299" selection-start-line="299" selection-end-line="299" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="133">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="113">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>

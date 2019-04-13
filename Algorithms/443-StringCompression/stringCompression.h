@@ -5,7 +5,7 @@
 #ifndef STRINGCOMPRESSION_H
 #define STRINGCOMPRESSION_H
 
-int isAnagram_main();
+int compress_main();
 
 #endif //STRINGCOMPRESSION_H
 

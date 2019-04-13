@@ -60,10 +60,46 @@ All characters have an ASCII value in [35, 126].
 
 #include "stringCompression.h"
 
+
 int compress(char* chars, int charsSize)
 {
+    if(charsSize <= 1)
+        return charsSize;
 
+    int i, j = 0, cnt = 1;
+
+    for(i = 0; i < charsSize; i++){
+        if((i != charsSize - 1) && (chars[i] == chars[i + 1])){
+            cnt++;
+        }
+        else{
+            if(cnt == 1){
+                chars[j++] = chars[i];
+                continue;
+            }
+            else{
+                chars[j++] = chars[i];
+                if(cnt / 1000 != 0){
+                    chars[j++] = cnt / 1000 + '0';
+                    cnt %= 1000;
+                }
+                if(cnt / 100 != 0){
+                    chars[j++] = cnt / 100 + '0';
+                    cnt %= 100;
+                }
+                if(cnt / 10 != 0){
+                    chars[j++] = cnt / 10 + '0';
+                    cnt %= 10;
+                }
+                chars[j++] = cnt + '0';
+                cnt = 1;
+            }
+        }
+    }
+
+    return j;
 }
+
 
 int compress_main()
 {
