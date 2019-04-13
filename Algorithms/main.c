@@ -77,6 +77,7 @@
 #include "387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h"
 #include "242-ValidAnagram/validAnagram.h"
 #include "443-StringCompression/stringCompression.h"
+#include "053-MaximumSubarray/maximumSubarray.h"
 
 
 
@@ -150,6 +151,9 @@ int main(int argc, char **argv)
 
     //50
     //myPow_main();
+
+    //53
+    maxSubArray_main();
 
     //055
     //canJump_main();

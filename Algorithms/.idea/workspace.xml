@@ -12,8 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/443-StringCompression/stringCompression.c" beforeDir="false" afterPath="$PROJECT_DIR$/443-StringCompression/stringCompression.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/443-StringCompression/stringCompression.h" beforeDir="false" afterPath="$PROJECT_DIR$/443-StringCompression/stringCompression.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -30,32 +32,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="299" selection-start-line="299" selection-end-line="299" />
+            <state relative-caret-position="-1065">
+              <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="745">
+              <caret line="61" selection-start-line="61" selection-end-line="61" selection-end-column="22" />
               <folding>
-                <element signature="e#35#53#0" expanded="true" />
+                <element signature="e#450#467#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.h">
+        <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -73,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.h" />
-        <option value="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.c" />
         <option value="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
@@ -122,8 +122,10 @@
         <option value="$PROJECT_DIR$/242-ValidAnagram/validAnagram.c" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.c" />
+        <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c" />
+        <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -143,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +247,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="050-Powxn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="053-MaximumSubarray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -459,7 +467,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -559,18 +566,18 @@
       <workItem from="1554912722708" duration="4000" />
       <workItem from="1554985531763" duration="2533000" />
       <workItem from="1554992445408" duration="220000" />
-      <workItem from="1555166085246" duration="1307000" />
+      <workItem from="1555166085246" duration="1562000" />
+      <workItem from="1555178259154" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78563000" />
+    <option name="totallyTimeSpent" value="79154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="30" width="1399" height="1170" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25796887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -600,23 +607,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="77" selection-start-line="77" selection-end-line="77" selection-end-column="17" />
-          <folding>
-            <element signature="e#37#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -957,16 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="299" selection-start-line="299" selection-end-line="299" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/443-StringCompression/stringCompression.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -978,6 +958,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="61" selection-start-line="61" selection-end-line="61" selection-end-column="22" />
+          <folding>
+            <element signature="e#450#467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1065">
+          <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
         </state>
       </provider>
     </entry>
