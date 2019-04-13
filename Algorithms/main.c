@@ -75,6 +75,7 @@
 #include "258-AddDigits/addDigits.h"
 #include "257-BinaryTreePaths/binaryTreePaths.h"
 #include "387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h"
+#include "242-ValidAnagram/validAnagram.h"
 
 
 
@@ -260,6 +261,9 @@ int main(int argc, char **argv)
     //237
     //deleteNode_main();
 
+    //242
+    isAnagram_main();
+
     //257
     //binaryTreePaths_main();
 
@@ -279,7 +283,7 @@ int main(int argc, char **argv)
     //reverseVowels_main();
 
     //387
-    firstUniqChar_main();
+    //firstUniqChar_main();
 
     //415
     //addStrings_main();
