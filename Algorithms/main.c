@@ -78,6 +78,7 @@
 #include "242-ValidAnagram/validAnagram.h"
 #include "443-StringCompression/stringCompression.h"
 #include "053-MaximumSubarray/maximumSubarray.h"
+#include "009-PalindromeNumber/palindromeNumber.h"
 
 
 
@@ -106,6 +107,9 @@ int main(int argc, char **argv)
 
     //008
     //myAtoi_main();
+
+    //009
+    isPalindrome9_main();
 
     //13
     //remanToInteger();

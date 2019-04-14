@@ -12,9 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber-zyc.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
@@ -32,32 +32,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1065">
-              <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+            <state relative-caret-position="542">
+              <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
+              <folding>
+                <element signature="e#35#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="61" selection-start-line="61" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="403">
+              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
               <folding>
-                <element signature="e#450#467#0" expanded="true" />
+                <element signature="e#564#584#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h">
+        <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -75,8 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/026-RemoveDuplicatesfromSortedArray/removeDuplicatesfromSortedArray.h" />
-        <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
         <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c" />
         <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h" />
@@ -126,6 +127,8 @@
         <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c" />
         <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h" />
         <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h" />
+        <option value="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c" />
       </list>
     </option>
   </component>
@@ -182,6 +185,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="008-StringtoInteger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="009-PalindromeNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -568,16 +576,18 @@
       <workItem from="1554992445408" duration="220000" />
       <workItem from="1555166085246" duration="1562000" />
       <workItem from="1555178259154" duration="336000" />
+      <workItem from="1555240138636" duration="200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79154000" />
+    <option name="totallyTimeSpent" value="79354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="30" width="1399" height="1170" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25796887" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -591,7 +601,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.32847425" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.31389698" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.31389698" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -607,14 +617,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/008-StringtoInteger/stringtoInteger.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
     <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
     <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays.c">
       <provider selected="true" editor-type-id="text-editor">
@@ -963,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
+        <state relative-caret-position="915">
           <caret line="61" selection-start-line="61" selection-end-line="61" selection-end-column="22" />
           <folding>
             <element signature="e#450#467#0" expanded="true" />
@@ -973,15 +975,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="105">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1065">
-          <caret line="79" column="47" selection-start-line="79" selection-start-column="47" selection-end-line="79" selection-end-column="47" />
+        <state relative-caret-position="542">
+          <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+          <folding>
+            <element signature="e#564#584#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
