@@ -12,9 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber-zyc.c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
+            <state relative-caret-position="194">
+              <caret line="313" column="24" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="24" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -45,22 +45,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c">
+        <entry file="file://$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#564#584#0" expanded="true" />
+                <element signature="e#430#467#0" expanded="true" />
+                <element signature="e#470#1087#0" />
+                <element signature="e#1551#2217#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h">
+        <entry file="file://$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -78,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.h" />
-        <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c" />
         <option value="$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.h" />
         <option value="$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays.c" />
         <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .h" />
@@ -126,9 +126,11 @@
         <option value="$PROJECT_DIR$/443-StringCompression/stringCompression.c" />
         <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.c" />
         <option value="$PROJECT_DIR$/053-MaximumSubarray/maximumSubarray.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h" />
         <option value="$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c" />
+        <option value="$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.c" />
       </list>
     </option>
   </component>
@@ -148,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -454,6 +455,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="557-ReverseWordsinaStringIII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="572-SubtreeofAnotherTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -475,6 +481,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -576,18 +583,18 @@
       <workItem from="1554992445408" duration="220000" />
       <workItem from="1555166085246" duration="1562000" />
       <workItem from="1555178259154" duration="336000" />
-      <workItem from="1555240138636" duration="200000" />
+      <workItem from="1555240138636" duration="502000" />
+      <workItem from="1555334305525" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79354000" />
+    <option name="totallyTimeSpent" value="79921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="30" width="1399" height="1170" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24388435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -601,7 +608,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.32847425" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.31389698" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.31389698" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -617,14 +624,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/median of Two Sorted Arrays.c" />
-    <entry file="file://$PROJECT_DIR$/004-MedianofTwoSortedArrays/medianofTwoSortedArrays.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/876-MiddleoftheLinkedList/middleoftheLinkedList.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="699">
@@ -980,16 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="111" column="17" selection-start-line="111" selection-start-column="17" selection-end-line="111" selection-end-column="17" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -999,10 +988,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/009-PalindromeNumber/palindromeNumber.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="82" column="24" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="24" />
+        <state relative-caret-position="370">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
           <folding>
             <element signature="e#564#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="313" column="24" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="24" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#430#467#0" expanded="true" />
+            <element signature="e#470#1087#0" />
+            <element signature="e#1551#2217#0" />
           </folding>
         </state>
       </provider>
