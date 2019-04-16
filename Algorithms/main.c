@@ -82,6 +82,7 @@
 #include "557-ReverseWordsinaStringIII/ReverseWordsinaStringIII.h"
 #include "709-ToLowerCase/toLowerCase.h"
 #include "093-RestoreIPAddresses/RestoreIPAddresses.h"
+#include "071-SimplifyPath/simplifyPath.h"
 
 
 
@@ -174,6 +175,9 @@ int main(int argc, char **argv)
     //67.
     //addBinary_main();
 
+    //71
+    simplifyPath_main();
+
     //82.
     //deleteDuplicates2_main(argc, argv);
 
@@ -187,7 +191,7 @@ int main(int argc, char **argv)
     //reverseBetween_main();
 
     //093
-    restoreIpAddresses_main();
+    //restoreIpAddresses_main();
 
     //94
     //inorderTraversal_main();

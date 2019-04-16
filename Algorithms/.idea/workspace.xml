@@ -12,9 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/071-SimplifyPath/simplifyPath.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/071-SimplifyPath/simplifyPath.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
@@ -32,35 +31,29 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2968">
-              <caret line="327" column="6" selection-start-line="327" selection-start-column="6" selection-end-line="327" selection-end-column="6" />
-              <folding>
-                <element signature="e#35#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#254#285#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.h">
+        <entry file="file://$PROJECT_DIR$/071-SimplifyPath/simplifyPath.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="148" selection-start-line="148" selection-end-line="148" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/071-SimplifyPath/simplifyPath.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="30" />
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -78,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.h" />
-        <option value="$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.c" />
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.h" />
         <option value="$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c" />
         <option value="$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.c" />
@@ -127,8 +118,10 @@
         <option value="$PROJECT_DIR$/709-ToLowerCase/toLowerCase.c" />
         <option value="$PROJECT_DIR$/709-ToLowerCase/toLowerCase.h" />
         <option value="$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.c" />
+        <option value="$PROJECT_DIR$/071-SimplifyPath/simplifyPath.c" />
+        <option value="$PROJECT_DIR$/071-SimplifyPath/simplifyPath.h" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -264,6 +257,11 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="067-AddBinary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="071-SimplifyPath" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -595,16 +593,18 @@
       <workItem from="1555334305525" duration="265000" />
       <workItem from="1555335016363" duration="166000" />
       <workItem from="1555343034624" duration="192000" />
+      <workItem from="1555426473113" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80279000" />
+    <option name="totallyTimeSpent" value="80401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="442" y="30" width="1399" height="1170" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25277984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25722757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -634,20 +634,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/005-LongestPalindromicSubstring/longestPalindromicSubstring.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/023-MergekSortedLists/mergekSortedLists.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/007-ReverseInteger/reverseInteger.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1013,16 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2968">
-          <caret line="327" column="6" selection-start-line="327" selection-start-column="6" selection-end-line="327" selection-end-column="6" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/093-RestoreIPAddresses/RestoreIPAddresses.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1030,6 +1006,27 @@
           <folding>
             <element signature="e#254#285#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/071-SimplifyPath/simplifyPath.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="148" selection-start-line="148" selection-end-line="148" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/071-SimplifyPath/simplifyPath.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
         </state>
       </provider>
     </entry>
