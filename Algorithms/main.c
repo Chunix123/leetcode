@@ -83,6 +83,7 @@
 #include "709-ToLowerCase/toLowerCase.h"
 #include "093-RestoreIPAddresses/RestoreIPAddresses.h"
 #include "071-SimplifyPath/simplifyPath.h"
+#include "162-FindPeakElement/findPeakElement.h"
 
 
 
@@ -176,7 +177,7 @@ int main(int argc, char **argv)
     //addBinary_main();
 
     //71
-    simplifyPath_main();
+    //simplifyPath_main();
 
     //82.
     //deleteDuplicates2_main(argc, argv);
@@ -258,6 +259,9 @@ int main(int argc, char **argv)
 
     //160.
     //getIntersectionNode_main();
+
+    //162
+    findPeakElement_main();
 
     //189
     //rotate_main();
