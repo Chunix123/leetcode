@@ -84,6 +84,7 @@
 #include "093-RestoreIPAddresses/RestoreIPAddresses.h"
 #include "071-SimplifyPath/simplifyPath.h"
 #include "162-FindPeakElement/findPeakElement.h"
+#include "065-ValidNumber/validNumber.h"
 
 
 
@@ -169,6 +170,9 @@ int main(int argc, char **argv)
 
     //61.
     //rotateRight_main();
+
+    //065
+    isNumber_main();
 
     //066
     //plusOne_main();
@@ -261,7 +265,7 @@ int main(int argc, char **argv)
     //getIntersectionNode_main();
 
     //162
-    findPeakElement_main();
+    //findPeakElement_main();
 
     //189
     //rotate_main();
