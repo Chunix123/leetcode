@@ -11,21 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Intervier/.idea/Intervier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/Alpes/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/Alpes/num1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/Alpes/num1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/Alpes/num4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/Alpes/num4.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Intervier/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="19">
               <caret line="86" selection-start-line="86" selection-end-line="86" />
             </state>
           </provider>
@@ -52,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/065-ValidNumber/validNumber.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3096">
+            <state relative-caret-position="3268">
               <caret line="172" selection-start-line="172" selection-end-line="172" selection-end-column="19" />
               <folding>
                 <element signature="e#945#965#0" expanded="true" />
@@ -65,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/065-ValidNumber/validNumber.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="133">
               <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
@@ -139,10 +125,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="436" />
+    <option name="x" value="461" />
     <option name="y" value="30" />
     <option name="width" value="1399" />
-    <option name="height" value="1050" />
+    <option name="height" value="1170" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -511,6 +496,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -623,16 +609,17 @@
       <workItem from="1555565393854" duration="66000" />
       <workItem from="1555565495587" duration="20000" />
       <workItem from="1555581961804" duration="11000" />
+      <workItem from="1555588884197" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80948000" />
+    <option name="totallyTimeSpent" value="80959000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="436" y="30" width="1399" height="1050" extended-state="0" />
+    <frame x="461" y="30" width="1399" height="1170" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26093403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26538175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1027,14 +1014,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="19">
           <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/065-ValidNumber/validNumber.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3096">
+        <state relative-caret-position="3268">
           <caret line="172" selection-start-line="172" selection-end-line="172" selection-end-column="19" />
           <folding>
             <element signature="e#945#965#0" expanded="true" />
@@ -1045,7 +1032,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/065-ValidNumber/validNumber.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="133">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
