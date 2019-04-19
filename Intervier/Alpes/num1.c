@@ -79,19 +79,23 @@ void perm(int *arr, int k, int n)
 
 int numOne_main(int argc, char *argv[])
 {
-    if(argc != 2){
-        printf("argc error!\n");
+    if (argc != 3) {
+        printf("Usage ./main m n\n");
         return -1;
     }
 
-    int len = atoi(argv[1]);
-    int i, arr[len];
+    int i;
+    int m = atoi(argv[1]);
+    int n = atoi(argv[2]);
+    int* arr = (int *)malloc(sizeof(int) * m);
 
-    for(i = 0; i < len; i++)
+    for (i = 0; i < m; i++)
         arr[i] = i + 1;
 
-    perm(arr, 0, len);
+    perm(arr, 0, n);
     printf("%d\n", cnt);
+
+    free(arr);
 
     return 0;
 }
