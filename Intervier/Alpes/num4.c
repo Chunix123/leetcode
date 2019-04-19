@@ -11,7 +11,11 @@
 #include <stdio.h>
 
 
-void qerm(int a[][4], int row, int col, int rowlen, int collen)
+#include <stdio.h>
+#include <stdlib.h>
+
+
+void qerm(int **a, int row, int col, int rowlen, int collen)
 {
     int i1, i2, j1, j2;
 
@@ -28,16 +32,36 @@ void qerm(int a[][4], int row, int col, int rowlen, int collen)
     else
         return;
 
-
     qerm(a, row + 1, col + 1, rowlen - 1, collen - 1);
 }
 
-int num4_main()
+int num4_main(int argc , char *argv[])
 {
-    int arr[4][4] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
+    if(argc != 3)
+    {
+        printf("Using m * n\n");
+        return -1;
+    }
+
+    int i, j;
+    int m = atoi(argv[1]);
+    int n = atoi(argv[2]);
+    int **arr = malloc(sizeof(char*) * m);
+
+    for(i = 0; i < m; i++){
+        arr[i] = malloc(sizeof(char) * n);
+
+        for(j = 0; j < n; j++){
+            arr[i][j] = i * m + (j + 1);
+            printf("%d ", arr[i][j]);
+        }
+    }
+    printf("\n");
 
     qerm(arr, 0, 0, 4, 4);
     printf("\n");
+
+    free(arr);
 
     return 0;
 }

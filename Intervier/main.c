@@ -15,9 +15,9 @@ int main()
     //numOne_main();
     //num2_main();
     //num3_main();
-    //num4_main();
+    num4_main();
     //num5_main();
-    num6_main();
+    //num6_main();
     //num7_main();
 
     return 0;
