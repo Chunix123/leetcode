@@ -58,10 +58,11 @@ int num4_main(int argc , char *argv[])
     }
     printf("\n");
 
-    qerm(arr, 0, 0, 4, 4);
+    qerm(arr, 0, 0, m, n);
     printf("\n");
 
     free(arr);
+    arr = NULL;
 
     return 0;
 }
