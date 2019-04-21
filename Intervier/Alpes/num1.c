@@ -15,6 +15,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "num1.h"
 
 //1.
@@ -38,7 +39,7 @@ int perm()
     printf("%d\n", cnt);
 }
 
-int numOne_main()
+int num1_main(int argc, char *argv[])
 {
     perm();
 
@@ -46,8 +47,8 @@ int numOne_main()
 }
 */
 
-//2.
-
+//2. Not use
+/*
 int cnt = 0;
 
 
@@ -77,7 +78,7 @@ void perm(int *arr, int k, int n)
     }
 }
 
-int numOne_main(int argc, char *argv[])
+int num1_main(int argc, char *argv[])
 {
     if (argc != 3) {
         printf("Usage ./main m n\n");
@@ -96,6 +97,151 @@ int numOne_main(int argc, char *argv[])
     printf("%d\n", cnt);
 
     free(arr);
+
+    return 0;
+}
+*/
+
+//3.
+/*
+int cnt = 0;
+
+int qerm(int *arr, int *tmp, int n, int m, int len)
+{
+    int i, j;
+
+    if(m == 1)
+    {
+        for(i = 0; i < n; i++)
+        {
+            tmp[len - m] = arr[i];
+
+            for(j = 0; j < len; j++)
+                printf("%d ", tmp[j]);
+            printf("\n");
+            cnt++;
+        }
+
+        return 0;
+    }
+
+    for(i = 0; i < n - m + 1; i++)
+    {
+        tmp[len - m] = arr[i];
+        qerm(arr + i + 1, tmp, n - i - 1, m - 1, len);
+    }
+}
+
+int num1_main(int argc, char *argv[])
+{
+    if(argc != 3)
+    {
+        printf("Using ./main n m\n");
+        return -1;
+    }
+
+    int n = atoi(argv[1]);
+    int m = atoi(argv[2]);
+
+    if(m > n || n < 1 || m < 1)
+    {
+        printf("Input n m is error!\n");
+        return -1;
+    }
+
+    int i;
+    int *arr = (int*)malloc(sizeof(int) * n);
+    int *tmp = (int*)malloc(sizeof(int) * m);
+
+    for(i = 0; i < n; i++)
+        arr[i] = i + 1;
+
+    qerm(arr, tmp, n, m, m);
+    printf("%d\n", cnt);
+
+    free(arr);
+    free(tmp);
+
+    return 0;
+}
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+void Print_arr_n(int arr[],int n)
+{
+    int i;
+
+    for(i=0;i<n-1;i++)
+        printf("%d,",arr[i]);
+    printf("%d\n",arr[i]);
+}
+
+void QuanPaiLei(int n,int m)
+{
+    int count = 0;
+    int arr[100];
+    int i = 0, j = 0;
+    int flag = 1;//用于判断数组中是否有重复的数,为1时没有，否则为0;
+
+    arr[0] = 1;
+
+    while(1)
+    {
+        flag = 1;
+        for(j = 0; j < i; j++){//每次输出前都要，判断是否有重复；
+            if(arr[i]==arr[j]){
+                flag=0;
+                break;
+            }
+        }
+        if(flag == 1 && i == m-1){
+            Print_arr_n(arr, m);
+            count++;
+        }
+        if(flag == 1 && i < m - 1){
+            i++;
+            arr[i] = 1;////每个都要从1开始
+            continue;
+        }
+        while(arr[i] == n)
+            i--;
+        if(i >= 0)
+            arr[i]++;
+        else
+            break;
+    }
+
+    printf("count = %d\n",count);
+}
+
+int num1_main(int argc, char *argv[])
+{
+    if(argc != 3)
+    {
+        printf("Using ./main n m\n");
+        return -1;
+    }
+
+    int n = atoi(argv[1]);
+    int m = atoi(argv[2]);
+
+    if(m > n || m < 1 || n < 1)
+    {
+        printf("Input n m is error!\n");
+        return -1;
+    }
+
+    int i;
+    int *arr = (int*)malloc(sizeof(int) * n);
+
+    for(i = 0; i < n; i++)
+        arr[i] = i + 1;
+
+    QuanPaiLei(n, m);
 
     return 0;
 }

@@ -5,6 +5,6 @@
 #ifndef INTERVIER_NUM1_H
 #define INTERVIER_NUM1_H
 
-int numOne_main();
+int num1_main(int argc, char *argv[]);
 
 #endif //INTERVIER_NUM1_H
