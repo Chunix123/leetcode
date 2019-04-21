@@ -8,14 +8,14 @@
 #include "Alpes/num6.h"
 
 
-int main()
+int main(int argc, char *argv[])
 {
     printf("Begin...\n");
 
     //numOne_main();
     //num2_main();
     //num3_main();
-    num4_main();
+    num4_main(argc, argv);
     //num5_main();
     //num6_main();
     //num7_main();
