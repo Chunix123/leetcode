@@ -86,6 +86,7 @@
 #include "162-FindPeakElement/findPeakElement.h"
 #include "065-ValidNumber/validNumber.h"
 #include "017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.h"
+#include "012-IntegertoRoman/IntegertoRoman.h"
 
 
 
@@ -118,6 +119,9 @@ int main(int argc, char **argv)
     //009
     //isPalindrome9_main();
 
+    //12
+    int intToRoman_main();
+
     //13
     //remanToInteger();
 
@@ -125,7 +129,7 @@ int main(int argc, char **argv)
     //longestCommonPrefix_main();
 
     //017
-    letterCombinations_main();
+    //letterCombinations_main();
 
     //018
     //fourSum_main();

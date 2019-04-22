@@ -8,7 +8,7 @@
 #include <stdlib.h>
 
 
-
+/*
 int getValue(char c)
 {
     switch(c)
@@ -80,6 +80,113 @@ int romanToInt(char* s)
     }
 
     return sum;
+}
+*/
+
+/*
+int romanToInt(char* s)
+{
+    int i, len;
+    int result = 0;
+
+    len = strlen(s);
+
+    for(i = 0;i < len; i++){
+        switch(s[i])
+        {
+            case 'I':
+                if(s[i + 1] == 'V'){
+                    result += 4;
+                    i++;
+                    break;
+                }
+                else if(s[i + 1] == 'X'){
+                    result += 9;
+                    i++;
+                    break;
+                }
+                else{
+                    result += 1;
+                    break;
+                }
+            case 'X':
+                if(s[i + 1] == 'L'){
+                    result += 40;
+                    i++;
+                    break;
+                }
+                else if(s[i + 1] == 'C'){
+                    result += 90;
+                    i++;
+                    break;
+                }
+                else{
+                    result += 10;
+                    break;
+                }
+            case 'C':
+                if(s[i + 1] == 'D'){
+                    result += 400;
+                    i++;
+                    break;
+                }
+                else if(s[i + 1] == 'M'){
+                    result += 900;
+                    i++;
+                    break;
+                }
+                else{
+                    result += 100;
+                    break;
+                }
+            case 'V':
+                result += 5;
+                break;
+            case 'L':
+                result += 50;
+                break;
+            case 'D':
+                result += 500;
+                break;
+            case 'M':
+                result += 1000;
+                break;
+            default:
+                break;
+        }
+    }
+
+    return result;
+}
+*/
+
+int romanToInt(char *s)
+{
+    int len = strlen(s);
+    int map[256] = {0};
+
+    map['I'] = 1;
+    map['V'] = 5;
+    map['X'] = 10;
+    map['L'] = 50;
+    map['C'] = 100;
+    map['D'] = 500;
+    map['M'] = 1000;
+
+    int x = 1001;
+
+    int result = 0;
+    int i;
+
+    for(i = 0; i < len; i++){
+        if(map[s[i]] <= x)
+            result += map[s[i]];
+        else
+            result += map[s[i]] - 2 * x;
+        x = map[s[i]];
+    }
+
+    return result;
 }
 
 int remanToInteger()

@@ -11,7 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="" />
+    <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" beforeDir="false" afterPath="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Intervier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Intervier/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,26 +37,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="87" column="81" selection-start-line="87" selection-start-column="81" selection-end-line="87" selection-end-column="81" />
+            <state relative-caret-position="113">
+              <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+              <folding>
+                <element signature="e#35#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c">
+        <entry file="file://$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="380">
+              <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+              <folding>
+                <element signature="e#37#64#0" expanded="true" />
+                <element signature="e#126#1795#0" />
+                <element signature="e#1797#3574#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.h">
+        <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="764">
+              <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="21" />
+              <folding>
+                <element signature="e#1406#1433#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="30" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -66,9 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.c" />
-        <option value="$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h" />
-        <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c" />
         <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h" />
         <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h" />
         <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c" />
@@ -115,8 +140,11 @@
         <option value="$PROJECT_DIR$/065-ValidNumber/validNumber.c" />
         <option value="$PROJECT_DIR$/065-ValidNumber/validNumber.h" />
         <option value="$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c" />
+        <option value="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c" />
+        <option value="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h" />
+        <option value="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" />
+        <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
   </component>
@@ -177,6 +205,16 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="009-PalindromeNumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="012-IntegertoRoman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="013-RomantoInteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -614,16 +652,17 @@
       <workItem from="1555651166938" duration="89000" />
       <workItem from="1555830359453" duration="214000" />
       <workItem from="1555839185753" duration="9000" />
+      <workItem from="1555942440133" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81271000" />
+    <option name="totallyTimeSpent" value="81546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="467" y="30" width="1399" height="1170" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23647146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24017791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -653,27 +692,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/035-SearchInsertPosition/searchInsertPosition.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1019,10 +1037,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="87" column="81" selection-start-line="87" selection-start-column="81" selection-end-line="87" selection-end-column="81" />
+        <state relative-caret-position="80">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1033,12 +1051,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c">
+    <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="764">
+          <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="21" />
           <folding>
-            <element signature="e#1997#3119#0" />
+            <element signature="e#1406#1433#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+            <element signature="e#126#1795#0" />
+            <element signature="e#1797#3574#0" />
           </folding>
         </state>
       </provider>
