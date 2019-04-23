@@ -12,13 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" beforeDir="false" afterPath="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Intervier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Intervier/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,49 +32,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
-              <folding>
-                <element signature="e#35#53#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="366">
+              <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
+            <state relative-caret-position="423">
+              <caret line="49" selection-start-line="49" selection-end-line="49" selection-end-column="35" />
               <folding>
-                <element signature="e#37#64#0" expanded="true" />
-                <element signature="e#126#1795#0" />
-                <element signature="e#1797#3574#0" />
+                <element signature="e#590#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c">
+        <entry file="file://$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="21" />
-              <folding>
-                <element signature="e#1406#1433#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -94,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/033-SearchinRotatedSortedArray/searchinRotatedSortedArray.h" />
-        <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h" />
         <option value="$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c" />
         <option value="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.h" />
         <option value="$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c" />
@@ -144,6 +123,8 @@
         <option value="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c" />
         <option value="$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.h" />
         <option value="$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c" />
+        <option value="$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.c" />
+        <option value="$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -164,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -499,6 +481,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="459-RepeatedSubstringPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="468-ValidateIPAddress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -535,7 +522,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -653,16 +639,17 @@
       <workItem from="1555830359453" duration="214000" />
       <workItem from="1555839185753" duration="9000" />
       <workItem from="1555942440133" duration="275000" />
+      <workItem from="1556025132062" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81546000" />
+    <option name="totallyTimeSpent" value="81759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="467" y="30" width="1399" height="1170" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24017791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24462564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -692,23 +679,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/043-MultiplyStrings/multiplyStrings.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#953#981#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/029-DivideTwoIntegers/divideTwoIntegers.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1053,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/012-IntegertoRoman/IntegertoRoman.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
+        <state relative-caret-position="2964">
           <caret line="156" selection-start-line="156" selection-end-line="156" selection-end-column="21" />
           <folding>
             <element signature="e#1406#1433#0" expanded="true" />
@@ -1068,25 +1038,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/013-RomantoInteger/romantoInteger.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="707">
           <caret line="191" column="20" selection-start-line="191" selection-start-column="20" selection-end-line="191" selection-end-column="20" />
           <folding>
             <element signature="e#37#64#0" expanded="true" />
             <element signature="e#126#1795#0" />
-            <element signature="e#1797#3574#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="49" selection-start-line="49" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <element signature="e#590#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/459-RepeatedSubstringPattern/RepeatedSubstringPattern.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="89" column="65" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
         </state>
       </provider>
     </entry>
