@@ -88,6 +88,7 @@
 #include "017-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.h"
 #include "012-IntegertoRoman/IntegertoRoman.h"
 #include "459-RepeatedSubstringPattern/RepeatedSubstringPattern.h"
+#include "015-3Sum/3Sum.h"
 
 
 
@@ -128,6 +129,9 @@ int main(int argc, char **argv)
 
     //014
     //longestCommonPrefix_main();
+
+    //015
+    threeSum_main();
 
     //017
     //letterCombinations_main();
@@ -334,7 +338,7 @@ int main(int argc, char **argv)
     //compress_main();
 
     //459
-    repeatedSubstringPattern_main();
+    //repeatedSubstringPattern_main();
 
     //468
     //validIPAddress_main();
