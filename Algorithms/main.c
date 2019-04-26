@@ -90,6 +90,8 @@
 #include "459-RepeatedSubstringPattern/RepeatedSubstringPattern.h"
 #include "015-3Sum/3Sum.h"
 #include "011-ContainerWithMostWater/ContainerWithMostWater.h"
+#include "038-CountandSay/CountandSay.h"
+
 
 
 
@@ -123,7 +125,7 @@ int main(int argc, char **argv)
     //isPalindrome9_main();
 
     //11
-    maxArea_main();
+    //maxArea_main();
 
     //12
     //int intToRoman_main();
@@ -172,6 +174,9 @@ int main(int argc, char **argv)
 
     //35
     //searchInsert_main();
+
+    //038
+    countAndSay_main();
 
     //043
     //multiply_main();
