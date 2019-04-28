@@ -91,6 +91,7 @@
 #include "015-3Sum/3Sum.h"
 #include "011-ContainerWithMostWater/ContainerWithMostWater.h"
 #include "038-CountandSay/CountandSay.h"
+#include "905-SortArrayByParity/SortArrayByParity.h"
 
 
 
@@ -176,7 +177,7 @@ int main(int argc, char **argv)
     //searchInsert_main();
 
     //038
-    countAndSay_main();
+    //countAndSay_main();
 
     //043
     //multiply_main();
@@ -366,6 +367,9 @@ int main(int argc, char **argv)
 
     //867
     //middleNode_main();
+
+    //905
+    sortArrayByParity_main();
 
     //917
     //reverseOnlyLetters_main();
