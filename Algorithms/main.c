@@ -92,6 +92,7 @@
 #include "011-ContainerWithMostWater/ContainerWithMostWater.h"
 #include "038-CountandSay/CountandSay.h"
 #include "905-SortArrayByParity/SortArrayByParity.h"
+#include "771-JewelsandStones/JewelsandStones.h"
 
 
 
@@ -365,11 +366,14 @@ int main(int argc, char **argv)
     //709
     //toLowerCase_main();
 
+    //771
+    numJewelsInStones_main();
+
     //867
     //middleNode_main();
 
     //905
-    sortArrayByParity_main();
+    //sortArrayByParity_main();
 
     //917
     //reverseOnlyLetters_main();
