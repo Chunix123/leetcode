@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
@@ -35,29 +35,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="369" column="29" selection-start-line="369" selection-start-column="29" selection-end-line="369" selection-end-column="29" />
+            <state relative-caret-position="-4933">
+              <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="764">
+              <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="22" />
               <folding>
-                <element signature="e#35#53#0" expanded="true" />
+                <element signature="e#521#547#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="70" column="28" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.h">
+        <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -75,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/003-LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeating .c" />
-        <option value="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c" />
         <option value="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h" />
         <option value="$PROJECT_DIR$/258-AddDigits/addDigits.c" />
         <option value="$PROJECT_DIR$/258-AddDigits/addDigits.h" />
@@ -125,6 +123,8 @@
         <option value="$PROJECT_DIR$/905-SortArrayByParity/SortArrayByParity.c" />
         <option value="$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.c" />
         <option value="$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.h" />
+        <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c" />
+        <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -145,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -542,11 +543,15 @@
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="917-ReverseOnlyLetters" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="938-RangeSumofBST" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -670,16 +675,17 @@
       <workItem from="1556261716502" duration="232000" />
       <workItem from="1556460801511" duration="172000" />
       <workItem from="1556536120964" duration="187000" />
+      <workItem from="1556631091789" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83088000" />
+    <option name="totallyTimeSpent" value="83319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="472" y="30" width="1399" height="1170" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26686433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2713121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -709,20 +715,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/283-MoveZeroes/moveZeroes.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/258-AddDigits/addDigits.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1062,6 +1054,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1069,20 +1068,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.c">
+    <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="70" column="28" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="28" />
+        <state relative-caret-position="764">
+          <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="22" />
+          <folding>
+            <element signature="e#521#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="369" column="29" selection-start-line="369" selection-start-column="29" selection-end-line="369" selection-end-column="29" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-4933">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
         </state>
       </provider>
     </entry>
