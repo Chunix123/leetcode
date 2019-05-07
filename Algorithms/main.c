@@ -94,6 +94,7 @@
 #include "905-SortArrayByParity/SortArrayByParity.h"
 #include "771-JewelsandStones/JewelsandStones.h"
 #include "938-RangeSumofBST/RangeSumofBST.h"
+#include "922-SortArrayByParityII/SortArrayByParityII.h"
 
 
 
@@ -379,8 +380,11 @@ int main(int argc, char **argv)
     //917
     //reverseOnlyLetters_main();
 
+    //922
+    sortArrayByParityII_main();
+
     //937
-    rangeSumBST_main();
+    //rangeSumBST_main();
 
 
     return 0;

@@ -1,0 +1,10 @@
+//
+// Created by zyc on 19-5-7.
+//
+
+#ifndef ALGORITHMS_SORTARRAYBYPARITYII_H
+#define ALGORITHMS_SORTARRAYBYPARITYII_H
+
+int sortArrayByParityII_main();
+
+#endif //ALGORITHMS_SORTARRAYBYPARITYII_H

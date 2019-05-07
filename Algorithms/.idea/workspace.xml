@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
@@ -32,32 +32,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4933">
-              <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="22" />
+            <state relative-caret-position="368">
+              <caret line="384" selection-start-line="384" selection-end-line="384" />
               <folding>
-                <element signature="e#521#547#0" expanded="true" />
+                <element signature="e#35#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h">
+        <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -75,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/283-MoveZeroes/moveZeroes.h" />
-        <option value="$PROJECT_DIR$/258-AddDigits/addDigits.c" />
         <option value="$PROJECT_DIR$/258-AddDigits/addDigits.h" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c" />
@@ -125,7 +123,9 @@
         <option value="$PROJECT_DIR$/771-JewelsandStones/JewelsandStones.h" />
         <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c" />
         <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h" />
+        <option value="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h" />
         <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c" />
       </list>
     </option>
   </component>
@@ -546,6 +546,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="922-SortArrayByParityII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="938-RangeSumofBST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -676,16 +681,17 @@
       <workItem from="1556460801511" duration="172000" />
       <workItem from="1556536120964" duration="187000" />
       <workItem from="1556631091789" duration="231000" />
+      <workItem from="1557233005452" duration="183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83319000" />
+    <option name="totallyTimeSpent" value="83502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="472" y="30" width="1399" height="1170" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2713121" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27575982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -715,20 +721,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/258-AddDigits/addDigits.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/258-AddDigits/addDigits.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" selection-start-line="39" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -1070,7 +1062,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
+        <state relative-caret-position="1596">
           <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="22" />
           <folding>
             <element signature="e#521#547#0" expanded="true" />
@@ -1085,10 +1077,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4933">
-          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
+        <state relative-caret-position="368">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
