@@ -95,6 +95,7 @@
 #include "771-JewelsandStones/JewelsandStones.h"
 #include "938-RangeSumofBST/RangeSumofBST.h"
 #include "922-SortArrayByParityII/SortArrayByParityII.h"
+#include "520-DetectCapital/DetectCapital.h"
 
 
 
@@ -356,6 +357,9 @@ int main(int argc, char **argv)
     //468
     //validIPAddress_main();
 
+    //520
+    detectCapitalUse_main();
+
     //557
     //reverseWords557_main();
 
@@ -381,7 +385,7 @@ int main(int argc, char **argv)
     //reverseOnlyLetters_main();
 
     //922
-    sortArrayByParityII_main();
+    //sortArrayByParityII_main();
 
     //937
     //rangeSumBST_main();

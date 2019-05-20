@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/520-DetectCapital/DetectCapital.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/520-DetectCapital/DetectCapital.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
@@ -35,29 +35,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="384" selection-start-line="384" selection-end-line="384" />
-              <folding>
-                <element signature="e#35#53#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="282">
+              <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c">
+        <entry file="file://$PROJECT_DIR$/520-DetectCapital/DetectCapital.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+            <state relative-caret-position="265">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h">
+        <entry file="file://$PROJECT_DIR$/520-DetectCapital/DetectCapital.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -75,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/258-AddDigits/addDigits.h" />
-        <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.c" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h" />
         <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c" />
@@ -124,13 +119,15 @@
         <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.c" />
         <option value="$PROJECT_DIR$/938-RangeSumofBST/RangeSumofBST.h" />
         <option value="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.h" />
-        <option value="$PROJECT_DIR$/main.c" />
         <option value="$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c" />
+        <option value="$PROJECT_DIR$/520-DetectCapital/DetectCapital.h" />
+        <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/520-DetectCapital/DetectCapital.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
+    <option name="x" value="469" />
     <option name="y" value="30" />
     <option name="width" value="1399" />
     <option name="height" value="1170" />
@@ -506,6 +503,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="520-DetectCapital" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="557-ReverseWordsinaStringIII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -682,16 +684,18 @@
       <workItem from="1556536120964" duration="187000" />
       <workItem from="1556631091789" duration="231000" />
       <workItem from="1557233005452" duration="183000" />
+      <workItem from="1558362126945" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83502000" />
+    <option name="totallyTimeSpent" value="83711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="472" y="30" width="1399" height="1170" extended-state="0" />
+    <frame x="469" y="30" width="1399" height="1170" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27575982" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2342476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -705,7 +709,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="CMake" order="10" weight="0.3278328" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.31098154" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.31098154" />
       <window_info anchor="bottom" x="612" y="597" width="925" height="375" id="Run" order="12" weight="0.28089887" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -721,20 +725,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/asprintf.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1084,20 +1074,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="384" selection-start-line="384" selection-end-line="384" />
-          <folding>
-            <element signature="e#35#53#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/922-SortArrayByParityII/SortArrayByParityII.c">
+    <entry file="file://$PROJECT_DIR$/520-DetectCapital/DetectCapital.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/520-DetectCapital/DetectCapital.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
         </state>
       </provider>
     </entry>
