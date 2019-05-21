@@ -96,6 +96,7 @@
 #include "938-RangeSumofBST/RangeSumofBST.h"
 #include "922-SortArrayByParityII/SortArrayByParityII.h"
 #include "520-DetectCapital/DetectCapital.h"
+#include "485-MaxConsecutiveOnes/MaxConsecutiveOnes.h"
 
 
 
@@ -357,8 +358,11 @@ int main(int argc, char **argv)
     //468
     //validIPAddress_main();
 
+    //485
+    findMaxConsecutiveOnes_main();
+
     //520
-    detectCapitalUse_main();
+    //detectCapitalUse_main();
 
     //557
     //reverseWords557_main();
