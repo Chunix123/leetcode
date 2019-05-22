@@ -12,11 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63e1880-a37d-4086-af32-56ba46fb5bf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +31,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
-              <caret line="362" column="4" selection-start-line="362" selection-start-column="4" selection-end-line="362" selection-end-column="4" />
+              <caret line="362" selection-start-line="362" selection-end-line="362" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -44,22 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.c">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="60" selection-start-line="60" selection-end-line="60" selection-end-column="33" />
+            <state relative-caret-position="323">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#533#561#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.h">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -75,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c" />
         <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.h" />
         <option value="$PROJECT_DIR$/387-FirstUniqueCharacterinaString/firstUniqueCharacterinaString.c" />
         <option value="$PROJECT_DIR$/242-ValidAnagram/validAnagram.h" />
@@ -126,6 +123,7 @@
         <option value="$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.c" />
         <option value="$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.h" />
         <option value="$PROJECT_DIR$/main.c" />
+        <option value="$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.c" />
       </list>
     </option>
   </component>
@@ -145,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -521,6 +518,11 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="561-ArrayPartitionI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="572-SubtreeofAnotherTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -567,6 +569,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -693,18 +696,18 @@
       <workItem from="1556631091789" duration="231000" />
       <workItem from="1557233005452" duration="183000" />
       <workItem from="1558362126945" duration="273000" />
-      <workItem from="1558447989271" duration="180000" />
+      <workItem from="1558447989271" duration="800000" />
+      <workItem from="1558534592773" duration="214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83955000" />
+    <option name="totallyTimeSpent" value="84789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="469" y="30" width="1399" height="1170" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23795404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -734,23 +737,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add 141" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#330#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/257-BinaryTreePaths/binaryTreePaths.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/242-ValidAnagram/validAnagram.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1084,9 +1070,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+          <folding>
+            <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="1140">
           <caret line="60" selection-start-line="60" selection-end-line="60" selection-end-column="33" />
         </state>
       </provider>
@@ -1094,16 +1090,19 @@
     <entry file="file://$PROJECT_DIR$/485-MaxConsecutiveOnes/MaxConsecutiveOnes.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
+    <entry file="file://$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/561-ArrayPartitionI/ArrayPartitionI.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="362" column="4" selection-start-line="362" selection-start-column="4" selection-end-line="362" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding>
-            <element signature="e#35#53#0" expanded="true" />
+            <element signature="e#533#561#0" expanded="true" />
           </folding>
         </state>
       </provider>
